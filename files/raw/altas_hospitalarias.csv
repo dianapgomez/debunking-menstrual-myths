@@ -1,0 +1,2251 @@
+﻿Diagnóstico principal (CIE10MC);Sexo;Motivo del alta;Total
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Ambos sexos;total;4.751.829
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Ambos sexos;curación o mejoría;4.181.592
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Ambos sexos;traslado a otros centros;281.999
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Ambos sexos;fallecimiento;226.359
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Ambos sexos;otras causas;61.879
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Hombres;total;2.301.073
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Hombres;curación o mejoría;2.000.559
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Hombres;traslado a otros centros;146.769
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Hombres;fallecimiento;119.828
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Hombres;otras causas;33.917
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Mujeres;total;2.450.757
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Mujeres;curación o mejoría;2.181.033
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Mujeres;traslado a otros centros;135.230
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Mujeres;fallecimiento;106.531
+0000 TODOS LOS DIAGNÓSTICOS A00-Z99 (excluyendo los códigos V, W, X, Y);Mujeres;otras causas;27.962
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Ambos sexos;total;292.475
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Ambos sexos;curación o mejoría;222.156
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Ambos sexos;traslado a otros centros;25.513
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Ambos sexos;fallecimiento;39.696
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Ambos sexos;otras causas;5.110
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Hombres;total;159.364
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Hombres;curación o mejoría;121.489
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Hombres;traslado a otros centros;13.473
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Hombres;fallecimiento;21.334
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Hombres;otras causas;3.068
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Mujeres;total;133.111
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Mujeres;curación o mejoría;100.667
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Mujeres;traslado a otros centros;12.041
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Mujeres;fallecimiento;18.361
+0100 CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS A00-B99, U07.1;Mujeres;otras causas;2.043
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Ambos sexos;total;19.358
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Ambos sexos;curación o mejoría;18.106
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Ambos sexos;traslado a otros centros;628
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Ambos sexos;fallecimiento;459
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Ambos sexos;otras causas;166
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Hombres;total;9.851
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Hombres;curación o mejoría;9.259
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Hombres;traslado a otros centros;305
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Hombres;fallecimiento;200
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Hombres;otras causas;86
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Mujeres;total;9.507
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Mujeres;curación o mejoría;8.847
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Mujeres;traslado a otros centros;322
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Mujeres;fallecimiento;259
+0101 Enfermedades infecciosas intestinales, excepto diarrea A00-A08;Mujeres;otras causas;80
+0102 Infecciones intestinales mal definidas A09;Ambos sexos;total;7.961
+0102 Infecciones intestinales mal definidas A09;Ambos sexos;curación o mejoría;7.408
+0102 Infecciones intestinales mal definidas A09;Ambos sexos;traslado a otros centros;299
+0102 Infecciones intestinales mal definidas A09;Ambos sexos;fallecimiento;146
+0102 Infecciones intestinales mal definidas A09;Ambos sexos;otras causas;108
+0102 Infecciones intestinales mal definidas A09;Hombres;total;3.906
+0102 Infecciones intestinales mal definidas A09;Hombres;curación o mejoría;3.644
+0102 Infecciones intestinales mal definidas A09;Hombres;traslado a otros centros;139
+0102 Infecciones intestinales mal definidas A09;Hombres;fallecimiento;60
+0102 Infecciones intestinales mal definidas A09;Hombres;otras causas;62
+0102 Infecciones intestinales mal definidas A09;Mujeres;total;4.055
+0102 Infecciones intestinales mal definidas A09;Mujeres;curación o mejoría;3.763
+0102 Infecciones intestinales mal definidas A09;Mujeres;traslado a otros centros;160
+0102 Infecciones intestinales mal definidas A09;Mujeres;fallecimiento;85
+0102 Infecciones intestinales mal definidas A09;Mujeres;otras causas;46
+0103 Tuberculosis A15-A19, B90;Ambos sexos;total;2.694
+0103 Tuberculosis A15-A19, B90;Ambos sexos;curación o mejoría;2.255
+0103 Tuberculosis A15-A19, B90;Ambos sexos;traslado a otros centros;258
+0103 Tuberculosis A15-A19, B90;Ambos sexos;fallecimiento;96
+0103 Tuberculosis A15-A19, B90;Ambos sexos;otras causas;84
+0103 Tuberculosis A15-A19, B90;Hombres;total;1.843
+0103 Tuberculosis A15-A19, B90;Hombres;curación o mejoría;1.526
+0103 Tuberculosis A15-A19, B90;Hombres;traslado a otros centros;198
+0103 Tuberculosis A15-A19, B90;Hombres;fallecimiento;64
+0103 Tuberculosis A15-A19, B90;Hombres;otras causas;55
+0103 Tuberculosis A15-A19, B90;Mujeres;total;851
+0103 Tuberculosis A15-A19, B90;Mujeres;curación o mejoría;729
+0103 Tuberculosis A15-A19, B90;Mujeres;traslado a otros centros;61
+0103 Tuberculosis A15-A19, B90;Mujeres;fallecimiento;32
+0103 Tuberculosis A15-A19, B90;Mujeres;otras causas;29
+0104 Septicemia A40-A41;Ambos sexos;total;59.063
+0104 Septicemia A40-A41;Ambos sexos;curación o mejoría;36.246
+0104 Septicemia A40-A41;Ambos sexos;traslado a otros centros;4.793
+0104 Septicemia A40-A41;Ambos sexos;fallecimiento;17.171
+0104 Septicemia A40-A41;Ambos sexos;otras causas;853
+0104 Septicemia A40-A41;Hombres;total;32.157
+0104 Septicemia A40-A41;Hombres;curación o mejoría;20.133
+0104 Septicemia A40-A41;Hombres;traslado a otros centros;2.778
+0104 Septicemia A40-A41;Hombres;fallecimiento;8.731
+0104 Septicemia A40-A41;Hombres;otras causas;516
+0104 Septicemia A40-A41;Mujeres;total;26.906
+0104 Septicemia A40-A41;Mujeres;curación o mejoría;16.113
+0104 Septicemia A40-A41;Mujeres;traslado a otros centros;2.015
+0104 Septicemia A40-A41;Mujeres;fallecimiento;8.441
+0104 Septicemia A40-A41;Mujeres;otras causas;337
+0105 Infección del virus de la inmunodeficiencia humana B20;Ambos sexos;total;1.429
+0105 Infección del virus de la inmunodeficiencia humana B20;Ambos sexos;curación o mejoría;1.112
+0105 Infección del virus de la inmunodeficiencia humana B20;Ambos sexos;traslado a otros centros;139
+0105 Infección del virus de la inmunodeficiencia humana B20;Ambos sexos;fallecimiento;93
+0105 Infección del virus de la inmunodeficiencia humana B20;Ambos sexos;otras causas;86
+0105 Infección del virus de la inmunodeficiencia humana B20;Hombres;total;1.102
+0105 Infección del virus de la inmunodeficiencia humana B20;Hombres;curación o mejoría;854
+0105 Infección del virus de la inmunodeficiencia humana B20;Hombres;traslado a otros centros;101
+0105 Infección del virus de la inmunodeficiencia humana B20;Hombres;fallecimiento;82
+0105 Infección del virus de la inmunodeficiencia humana B20;Hombres;otras causas;65
+0105 Infección del virus de la inmunodeficiencia humana B20;Mujeres;total;327
+0105 Infección del virus de la inmunodeficiencia humana B20;Mujeres;curación o mejoría;258
+0105 Infección del virus de la inmunodeficiencia humana B20;Mujeres;traslado a otros centros;38
+0105 Infección del virus de la inmunodeficiencia humana B20;Mujeres;fallecimiento;11
+0105 Infección del virus de la inmunodeficiencia humana B20;Mujeres;otras causas;20
+0106 COVID-19 U07.1, U09.9;Ambos sexos;total;175.924
+0106 COVID-19 U07.1, U09.9;Ambos sexos;curación o mejoría;133.944
+0106 COVID-19 U07.1, U09.9;Ambos sexos;traslado a otros centros;17.922
+0106 COVID-19 U07.1, U09.9;Ambos sexos;fallecimiento;20.662
+0106 COVID-19 U07.1, U09.9;Ambos sexos;otras causas;3.396
+0106 COVID-19 U07.1, U09.9;Hombres;total;95.770
+0106 COVID-19 U07.1, U09.9;Hombres;curación o mejoría;72.974
+0106 COVID-19 U07.1, U09.9;Hombres;traslado a otros centros;9.181
+0106 COVID-19 U07.1, U09.9;Hombres;fallecimiento;11.595
+0106 COVID-19 U07.1, U09.9;Hombres;otras causas;2.020
+0106 COVID-19 U07.1, U09.9;Mujeres;total;80.154
+0106 COVID-19 U07.1, U09.9;Mujeres;curación o mejoría;60.970
+0106 COVID-19 U07.1, U09.9;Mujeres;traslado a otros centros;8.741
+0106 COVID-19 U07.1, U09.9;Mujeres;fallecimiento;9.068
+0106 COVID-19 U07.1, U09.9;Mujeres;otras causas;1.376
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Ambos sexos;total;26.045
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Ambos sexos;curación o mejoría;23.085
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Ambos sexos;traslado a otros centros;1.474
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Ambos sexos;fallecimiento;1.068
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Ambos sexos;otras causas;418
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Hombres;total;14.734
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Hombres;curación o mejoría;13.098
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Hombres;traslado a otros centros;771
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Hombres;fallecimiento;603
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Hombres;otras causas;263
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Mujeres;total;11.311
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Mujeres;curación o mejoría;9.987
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Mujeres;traslado a otros centros;703
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Mujeres;fallecimiento;465
+0107 Otras enfermedades infecciosas y parasitarias Resto de  A00-B99;Mujeres;otras causas;155
+0200 NEOPLASIAS C00-D49;Ambos sexos;total;447.567
+0200 NEOPLASIAS C00-D49;Ambos sexos;curación o mejoría;381.432
+0200 NEOPLASIAS C00-D49;Ambos sexos;traslado a otros centros;22.973
+0200 NEOPLASIAS C00-D49;Ambos sexos;fallecimiento;39.799
+0200 NEOPLASIAS C00-D49;Ambos sexos;otras causas;3.363
+0200 NEOPLASIAS C00-D49;Hombres;total;233.874
+0200 NEOPLASIAS C00-D49;Hombres;curación o mejoría;195.469
+0200 NEOPLASIAS C00-D49;Hombres;traslado a otros centros;12.891
+0200 NEOPLASIAS C00-D49;Hombres;fallecimiento;23.754
+0200 NEOPLASIAS C00-D49;Hombres;otras causas;1.759
+0200 NEOPLASIAS C00-D49;Mujeres;total;213.693
+0200 NEOPLASIAS C00-D49;Mujeres;curación o mejoría;185.962
+0200 NEOPLASIAS C00-D49;Mujeres;traslado a otros centros;10.082
+0200 NEOPLASIAS C00-D49;Mujeres;fallecimiento;16.044
+0200 NEOPLASIAS C00-D49;Mujeres;otras causas;1.605
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Ambos sexos;total;43.530
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Ambos sexos;curación o mejoría;36.488
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Ambos sexos;traslado a otros centros;2.636
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Ambos sexos;fallecimiento;4.148
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Ambos sexos;otras causas;258
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Hombres;total;25.948
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Hombres;curación o mejoría;21.802
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Hombres;traslado a otros centros;1.518
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Hombres;fallecimiento;2.475
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Hombres;otras causas;154
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Mujeres;total;17.581
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Mujeres;curación o mejoría;14.686
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Mujeres;traslado a otros centros;1.118
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Mujeres;fallecimiento;1.673
+0201 Neoplasias malignas de colon, recto y ano  C18-C21;Mujeres;otras causas;104
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Ambos sexos;total;34.352
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Ambos sexos;curación o mejoría;23.956
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Ambos sexos;traslado a otros centros;2.485
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Ambos sexos;fallecimiento;7.497
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Ambos sexos;otras causas;414
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Hombres;total;24.216
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Hombres;curación o mejoría;16.600
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Hombres;traslado a otros centros;1.770
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Hombres;fallecimiento;5.561
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Hombres;otras causas;284
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Mujeres;total;10.136
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Mujeres;curación o mejoría;7.355
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Mujeres;traslado a otros centros;715
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Mujeres;fallecimiento;1.936
+0202 Neoplasias malignas de tráquea, bronquios y pulmón  C33-C34;Mujeres;otras causas;130
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Ambos sexos;total;6.910
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Ambos sexos;curación o mejoría;6.302
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Ambos sexos;traslado a otros centros;221
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Ambos sexos;fallecimiento;353
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Ambos sexos;otras causas;34
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Hombres;total;3.918
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Hombres;curación o mejoría;3.556
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Hombres;traslado a otros centros;122
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Hombres;fallecimiento;218
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Hombres;otras causas;22
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Mujeres;total;2.992
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Mujeres;curación o mejoría;2.746
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Mujeres;traslado a otros centros;98
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Mujeres;fallecimiento;135
+0203 Melanoma y otras neoplasias malignas de la piel C43-C44;Mujeres;otras causas;12
+0204 Neoplasia maligna de la mama  C50;Ambos sexos;total;30.607
+0204 Neoplasia maligna de la mama  C50;Ambos sexos;curación o mejoría;28.483
+0204 Neoplasia maligna de la mama  C50;Ambos sexos;traslado a otros centros;873
+0204 Neoplasia maligna de la mama  C50;Ambos sexos;fallecimiento;1.098
+0204 Neoplasia maligna de la mama  C50;Ambos sexos;otras causas;154
+0204 Neoplasia maligna de la mama  C50;Hombres;total;322
+0204 Neoplasia maligna de la mama  C50;Hombres;curación o mejoría;296
+0204 Neoplasia maligna de la mama  C50;Hombres;traslado a otros centros;8
+0204 Neoplasia maligna de la mama  C50;Hombres;fallecimiento;14
+0204 Neoplasia maligna de la mama  C50;Hombres;otras causas;3
+0204 Neoplasia maligna de la mama  C50;Mujeres;total;30.285
+0204 Neoplasia maligna de la mama  C50;Mujeres;curación o mejoría;28.187
+0204 Neoplasia maligna de la mama  C50;Mujeres;traslado a otros centros;864
+0204 Neoplasia maligna de la mama  C50;Mujeres;fallecimiento;1.084
+0204 Neoplasia maligna de la mama  C50;Mujeres;otras causas;151
+0205 Neoplasia maligna del útero C53-C55;Ambos sexos;total;10.225
+0205 Neoplasia maligna del útero C53-C55;Ambos sexos;curación o mejoría;9.167
+0205 Neoplasia maligna del útero C53-C55;Ambos sexos;traslado a otros centros;317
+0205 Neoplasia maligna del útero C53-C55;Ambos sexos;fallecimiento;569
+0205 Neoplasia maligna del útero C53-C55;Ambos sexos;otras causas;171
+0205 Neoplasia maligna del útero C53-C55;Hombres;total;..
+0205 Neoplasia maligna del útero C53-C55;Hombres;curación o mejoría;..
+0205 Neoplasia maligna del útero C53-C55;Hombres;traslado a otros centros;..
+0205 Neoplasia maligna del útero C53-C55;Hombres;fallecimiento;..
+0205 Neoplasia maligna del útero C53-C55;Hombres;otras causas;..
+0205 Neoplasia maligna del útero C53-C55;Mujeres;total;10.225
+0205 Neoplasia maligna del útero C53-C55;Mujeres;curación o mejoría;9.167
+0205 Neoplasia maligna del útero C53-C55;Mujeres;traslado a otros centros;317
+0205 Neoplasia maligna del útero C53-C55;Mujeres;fallecimiento;569
+0205 Neoplasia maligna del útero C53-C55;Mujeres;otras causas;171
+0206 Neoplasia maligna del ovario C56;Ambos sexos;total;4.959
+0206 Neoplasia maligna del ovario C56;Ambos sexos;curación o mejoría;4.157
+0206 Neoplasia maligna del ovario C56;Ambos sexos;traslado a otros centros;205
+0206 Neoplasia maligna del ovario C56;Ambos sexos;fallecimiento;524
+0206 Neoplasia maligna del ovario C56;Ambos sexos;otras causas;73
+0206 Neoplasia maligna del ovario C56;Hombres;total;..
+0206 Neoplasia maligna del ovario C56;Hombres;curación o mejoría;..
+0206 Neoplasia maligna del ovario C56;Hombres;traslado a otros centros;..
+0206 Neoplasia maligna del ovario C56;Hombres;fallecimiento;..
+0206 Neoplasia maligna del ovario C56;Hombres;otras causas;..
+0206 Neoplasia maligna del ovario C56;Mujeres;total;4.959
+0206 Neoplasia maligna del ovario C56;Mujeres;curación o mejoría;4.157
+0206 Neoplasia maligna del ovario C56;Mujeres;traslado a otros centros;205
+0206 Neoplasia maligna del ovario C56;Mujeres;fallecimiento;524
+0206 Neoplasia maligna del ovario C56;Mujeres;otras causas;73
+0207 Neoplasia maligna de la próstata C61;Ambos sexos;total;20.966
+0207 Neoplasia maligna de la próstata C61;Ambos sexos;curación o mejoría;19.239
+0207 Neoplasia maligna de la próstata C61;Ambos sexos;traslado a otros centros;562
+0207 Neoplasia maligna de la próstata C61;Ambos sexos;fallecimiento;990
+0207 Neoplasia maligna de la próstata C61;Ambos sexos;otras causas;175
+0207 Neoplasia maligna de la próstata C61;Hombres;total;20.966
+0207 Neoplasia maligna de la próstata C61;Hombres;curación o mejoría;19.239
+0207 Neoplasia maligna de la próstata C61;Hombres;traslado a otros centros;562
+0207 Neoplasia maligna de la próstata C61;Hombres;fallecimiento;990
+0207 Neoplasia maligna de la próstata C61;Hombres;otras causas;175
+0207 Neoplasia maligna de la próstata C61;Mujeres;total;..
+0207 Neoplasia maligna de la próstata C61;Mujeres;curación o mejoría;..
+0207 Neoplasia maligna de la próstata C61;Mujeres;traslado a otros centros;..
+0207 Neoplasia maligna de la próstata C61;Mujeres;fallecimiento;..
+0207 Neoplasia maligna de la próstata C61;Mujeres;otras causas;..
+0208 Neoplasia maligna de la vejiga C67;Ambos sexos;total;38.122
+0208 Neoplasia maligna de la vejiga C67;Ambos sexos;curación o mejoría;34.743
+0208 Neoplasia maligna de la vejiga C67;Ambos sexos;traslado a otros centros;1.738
+0208 Neoplasia maligna de la vejiga C67;Ambos sexos;fallecimiento;1.474
+0208 Neoplasia maligna de la vejiga C67;Ambos sexos;otras causas;167
+0208 Neoplasia maligna de la vejiga C67;Hombres;total;31.372
+0208 Neoplasia maligna de la vejiga C67;Hombres;curación o mejoría;28.627
+0208 Neoplasia maligna de la vejiga C67;Hombres;traslado a otros centros;1.429
+0208 Neoplasia maligna de la vejiga C67;Hombres;fallecimiento;1.190
+0208 Neoplasia maligna de la vejiga C67;Hombres;otras causas;126
+0208 Neoplasia maligna de la vejiga C67;Mujeres;total;6.749
+0208 Neoplasia maligna de la vejiga C67;Mujeres;curación o mejoría;6.116
+0208 Neoplasia maligna de la vejiga C67;Mujeres;traslado a otros centros;308
+0208 Neoplasia maligna de la vejiga C67;Mujeres;fallecimiento;283
+0208 Neoplasia maligna de la vejiga C67;Mujeres;otras causas;41
+0209 Otras neoplasias malignas Resto de C00-C97;Ambos sexos;total;163.060
+0209 Otras neoplasias malignas Resto de C00-C97;Ambos sexos;curación o mejoría;128.250
+0209 Otras neoplasias malignas Resto de C00-C97;Ambos sexos;traslado a otros centros;11.388
+0209 Otras neoplasias malignas Resto de C00-C97;Ambos sexos;fallecimiento;22.074
+0209 Otras neoplasias malignas Resto de C00-C97;Ambos sexos;otras causas;1.348
+0209 Otras neoplasias malignas Resto de C00-C97;Hombres;total;92.988
+0209 Otras neoplasias malignas Resto de C00-C97;Hombres;curación o mejoría;73.029
+0209 Otras neoplasias malignas Resto de C00-C97;Hombres;traslado a otros centros;6.444
+0209 Otras neoplasias malignas Resto de C00-C97;Hombres;fallecimiento;12.718
+0209 Otras neoplasias malignas Resto de C00-C97;Hombres;otras causas;797
+0209 Otras neoplasias malignas Resto de C00-C97;Mujeres;total;70.072
+0209 Otras neoplasias malignas Resto de C00-C97;Mujeres;curación o mejoría;55.222
+0209 Otras neoplasias malignas Resto de C00-C97;Mujeres;traslado a otros centros;4.943
+0209 Otras neoplasias malignas Resto de C00-C97;Mujeres;fallecimiento;9.356
+0209 Otras neoplasias malignas Resto de C00-C97;Mujeres;otras causas;551
+0210 Carcinoma in situ D00-D09;Ambos sexos;total;12.075
+0210 Carcinoma in situ D00-D09;Ambos sexos;curación o mejoría;11.704
+0210 Carcinoma in situ D00-D09;Ambos sexos;traslado a otros centros;232
+0210 Carcinoma in situ D00-D09;Ambos sexos;fallecimiento;95
+0210 Carcinoma in situ D00-D09;Ambos sexos;otras causas;44
+0210 Carcinoma in situ D00-D09;Hombres;total;6.521
+0210 Carcinoma in situ D00-D09;Hombres;curación o mejoría;6.327
+0210 Carcinoma in situ D00-D09;Hombres;traslado a otros centros;119
+0210 Carcinoma in situ D00-D09;Hombres;fallecimiento;54
+0210 Carcinoma in situ D00-D09;Hombres;otras causas;21
+0210 Carcinoma in situ D00-D09;Mujeres;total;5.555
+0210 Carcinoma in situ D00-D09;Mujeres;curación o mejoría;5.377
+0210 Carcinoma in situ D00-D09;Mujeres;traslado a otros centros;113
+0210 Carcinoma in situ D00-D09;Mujeres;fallecimiento;41
+0210 Carcinoma in situ D00-D09;Mujeres;otras causas;23
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Ambos sexos;total;4.015
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Ambos sexos;curación o mejoría;3.916
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Ambos sexos;traslado a otros centros;64
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Ambos sexos;fallecimiento;18
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Ambos sexos;otras causas;17
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Hombres;total;2.384
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Hombres;curación o mejoría;2.327
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Hombres;traslado a otros centros;35
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Hombres;fallecimiento;11
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Hombres;otras causas;11
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Mujeres;total;1.631
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Mujeres;curación o mejoría;1.589
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Mujeres;traslado a otros centros;29
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Mujeres;fallecimiento;7
+0211 Neoplasia benigna del colon, del recto, del conducto anal y del ano D12;Mujeres;otras causas;6
+0212 Leiomioma uterino D25;Ambos sexos;total;19.987
+0212 Leiomioma uterino D25;Ambos sexos;curación o mejoría;19.552
+0212 Leiomioma uterino D25;Ambos sexos;traslado a otros centros;309
+0212 Leiomioma uterino D25;Ambos sexos;fallecimiento;8
+0212 Leiomioma uterino D25;Ambos sexos;otras causas;118
+0212 Leiomioma uterino D25;Hombres;total;..
+0212 Leiomioma uterino D25;Hombres;curación o mejoría;..
+0212 Leiomioma uterino D25;Hombres;traslado a otros centros;..
+0212 Leiomioma uterino D25;Hombres;fallecimiento;..
+0212 Leiomioma uterino D25;Hombres;otras causas;..
+0212 Leiomioma uterino D25;Mujeres;total;19.987
+0212 Leiomioma uterino D25;Mujeres;curación o mejoría;19.552
+0212 Leiomioma uterino D25;Mujeres;traslado a otros centros;309
+0212 Leiomioma uterino D25;Mujeres;fallecimiento;8
+0212 Leiomioma uterino D25;Mujeres;otras causas;118
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Ambos sexos;total;58.759
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Ambos sexos;curación o mejoría;55.475
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Ambos sexos;traslado a otros centros;1.943
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Ambos sexos;fallecimiento;951
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Ambos sexos;otras causas;390
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Hombres;total;25.239
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Hombres;curación o mejoría;23.668
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Hombres;traslado a otros centros;882
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Hombres;fallecimiento;523
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Hombres;otras causas;165
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Mujeres;total;33.521
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Mujeres;curación o mejoría;31.807
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Mujeres;traslado a otros centros;1.061
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Mujeres;fallecimiento;428
+0213 Otras neoplasias benignas y neoplasias de comportamiento incierto o desconocido Resto de D00-D49;Mujeres;otras causas;225
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Ambos sexos;total;43.603
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Ambos sexos;curación o mejoría;39.146
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Ambos sexos;traslado a otros centros;2.165
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Ambos sexos;fallecimiento;1.726
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Ambos sexos;otras causas;566
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Hombres;total;21.419
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Hombres;curación o mejoría;19.118
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Hombres;traslado a otros centros;1.101
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Hombres;fallecimiento;906
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Hombres;otras causas;294
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Mujeres;total;22.184
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Mujeres;curación o mejoría;20.029
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Mujeres;traslado a otros centros;1.064
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Mujeres;fallecimiento;820
+0300 ENFERMEDADES DE LA SANGRE, DE LOS ÓRGANOS HEMATOPOYTICOS Y CIERTOS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD   D50-D89;Mujeres;otras causas;272
+0301 Anemias D50-D64;Ambos sexos;total;26.957
+0301 Anemias D50-D64;Ambos sexos;curación o mejoría;24.147
+0301 Anemias D50-D64;Ambos sexos;traslado a otros centros;1.371
+0301 Anemias D50-D64;Ambos sexos;fallecimiento;996
+0301 Anemias D50-D64;Ambos sexos;otras causas;443
+0301 Anemias D50-D64;Hombres;total;12.850
+0301 Anemias D50-D64;Hombres;curación o mejoría;11.447
+0301 Anemias D50-D64;Hombres;traslado a otros centros;678
+0301 Anemias D50-D64;Hombres;fallecimiento;499
+0301 Anemias D50-D64;Hombres;otras causas;226
+0301 Anemias D50-D64;Mujeres;total;14.107
+0301 Anemias D50-D64;Mujeres;curación o mejoría;12.700
+0301 Anemias D50-D64;Mujeres;traslado a otros centros;692
+0301 Anemias D50-D64;Mujeres;fallecimiento;497
+0301 Anemias D50-D64;Mujeres;otras causas;217
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Ambos sexos;total;16.646
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Ambos sexos;curación o mejoría;14.999
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Ambos sexos;traslado a otros centros;794
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Ambos sexos;fallecimiento;730
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Ambos sexos;otras causas;123
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Hombres;total;8.568
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Hombres;curación o mejoría;7.671
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Hombres;traslado a otros centros;422
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Hombres;fallecimiento;407
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Hombres;otras causas;68
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Mujeres;total;8.078
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Mujeres;curación o mejoría;7.328
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Mujeres;traslado a otros centros;372
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Mujeres;fallecimiento;323
+0302 Otras enfermedades de la sangre, de los órganos hematopoyéticos y ciertos trastornos que afectan al mecanismo inmunitario D65-D89;Mujeres;otras causas;55
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Ambos sexos;total;95.934
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Ambos sexos;curación o mejoría;85.154
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Ambos sexos;traslado a otros centros;5.668
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Ambos sexos;fallecimiento;3.855
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Ambos sexos;otras causas;1.258
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Hombres;total;41.757
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Hombres;curación o mejoría;36.368
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Hombres;traslado a otros centros;2.875
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Hombres;fallecimiento;1.757
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Hombres;otras causas;757
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Mujeres;total;54.177
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Mujeres;curación o mejoría;48.786
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Mujeres;traslado a otros centros;2.793
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Mujeres;fallecimiento;2.098
+0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89;Mujeres;otras causas;501
+0401 Diabetes mellitus E08-E13;Ambos sexos;total;33.978
+0401 Diabetes mellitus E08-E13;Ambos sexos;curación o mejoría;29.278
+0401 Diabetes mellitus E08-E13;Ambos sexos;traslado a otros centros;2.619
+0401 Diabetes mellitus E08-E13;Ambos sexos;fallecimiento;1.372
+0401 Diabetes mellitus E08-E13;Ambos sexos;otras causas;708
+0401 Diabetes mellitus E08-E13;Hombres;total;21.651
+0401 Diabetes mellitus E08-E13;Hombres;curación o mejoría;18.778
+0401 Diabetes mellitus E08-E13;Hombres;traslado a otros centros;1.654
+0401 Diabetes mellitus E08-E13;Hombres;fallecimiento;705
+0401 Diabetes mellitus E08-E13;Hombres;otras causas;513
+0401 Diabetes mellitus E08-E13;Mujeres;total;12.327
+0401 Diabetes mellitus E08-E13;Mujeres;curación o mejoría;10.500
+0401 Diabetes mellitus E08-E13;Mujeres;traslado a otros centros;965
+0401 Diabetes mellitus E08-E13;Mujeres;fallecimiento;667
+0401 Diabetes mellitus E08-E13;Mujeres;otras causas;194
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Ambos sexos;total;61.957
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Ambos sexos;curación o mejoría;55.876
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Ambos sexos;traslado a otros centros;3.048
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Ambos sexos;fallecimiento;2.482
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Ambos sexos;otras causas;551
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Hombres;total;20.106
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Hombres;curación o mejoría;17.590
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Hombres;traslado a otros centros;1.221
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Hombres;fallecimiento;1.052
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Hombres;otras causas;244
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Mujeres;total;41.851
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Mujeres;curación o mejoría;38.285
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Mujeres;traslado a otros centros;1.828
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Mujeres;fallecimiento;1.430
+0402 Otras enfermedades endocrinas, nutricionales y metabólicas Resto de E00-E89;Mujeres;otras causas;307
+0500 TRASTORNOS MENTALES F01-F99;Ambos sexos;total;121.162
+0500 TRASTORNOS MENTALES F01-F99;Ambos sexos;curación o mejoría;95.141
+0500 TRASTORNOS MENTALES F01-F99;Ambos sexos;traslado a otros centros;17.164
+0500 TRASTORNOS MENTALES F01-F99;Ambos sexos;fallecimiento;1.693
+0500 TRASTORNOS MENTALES F01-F99;Ambos sexos;otras causas;7.164
+0500 TRASTORNOS MENTALES F01-F99;Hombres;total;60.805
+0500 TRASTORNOS MENTALES F01-F99;Hombres;curación o mejoría;46.525
+0500 TRASTORNOS MENTALES F01-F99;Hombres;traslado a otros centros;9.186
+0500 TRASTORNOS MENTALES F01-F99;Hombres;fallecimiento;855
+0500 TRASTORNOS MENTALES F01-F99;Hombres;otras causas;4.240
+0500 TRASTORNOS MENTALES F01-F99;Mujeres;total;60.357
+0500 TRASTORNOS MENTALES F01-F99;Mujeres;curación o mejoría;48.616
+0500 TRASTORNOS MENTALES F01-F99;Mujeres;traslado a otros centros;7.978
+0500 TRASTORNOS MENTALES F01-F99;Mujeres;fallecimiento;838
+0500 TRASTORNOS MENTALES F01-F99;Mujeres;otras causas;2.925
+0501 Demencia F01-F03;Ambos sexos;total;4.993
+0501 Demencia F01-F03;Ambos sexos;curación o mejoría;2.809
+0501 Demencia F01-F03;Ambos sexos;traslado a otros centros;1.406
+0501 Demencia F01-F03;Ambos sexos;fallecimiento;704
+0501 Demencia F01-F03;Ambos sexos;otras causas;74
+0501 Demencia F01-F03;Hombres;total;2.262
+0501 Demencia F01-F03;Hombres;curación o mejoría;1.256
+0501 Demencia F01-F03;Hombres;traslado a otros centros;657
+0501 Demencia F01-F03;Hombres;fallecimiento;311
+0501 Demencia F01-F03;Hombres;otras causas;37
+0501 Demencia F01-F03;Mujeres;total;2.731
+0501 Demencia F01-F03;Mujeres;curación o mejoría;1.553
+0501 Demencia F01-F03;Mujeres;traslado a otros centros;749
+0501 Demencia F01-F03;Mujeres;fallecimiento;393
+0501 Demencia F01-F03;Mujeres;otras causas;37
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Ambos sexos;total;7.786
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Ambos sexos;curación o mejoría;6.345
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Ambos sexos;traslado a otros centros;730
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Ambos sexos;fallecimiento;66
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Ambos sexos;otras causas;645
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Hombres;total;5.683
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Hombres;curación o mejoría;4.577
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Hombres;traslado a otros centros;541
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Hombres;fallecimiento;57
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Hombres;otras causas;507
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Mujeres;total;2.103
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Mujeres;curación o mejoría;1.767
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Mujeres;traslado a otros centros;189
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Mujeres;fallecimiento;9
+0502 Trastornos mentales y del comportamiento debidos al uso de alcohol F10;Mujeres;otras causas;138
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Ambos sexos;total;8.350
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Ambos sexos;curación o mejoría;6.421
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Ambos sexos;traslado a otros centros;733
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Ambos sexos;fallecimiento;37
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Ambos sexos;otras causas;1.158
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Hombres;total;6.383
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Hombres;curación o mejoría;4.865
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Hombres;traslado a otros centros;570
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Hombres;fallecimiento;26
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Hombres;otras causas;921
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Mujeres;total;1.967
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Mujeres;curación o mejoría;1.556
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Mujeres;traslado a otros centros;163
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Mujeres;fallecimiento;11
+0503 Trastornos mentales y del comportamiento debidos al uso de otras sustancias psicoactivas F11-F19;Mujeres;otras causas;237
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Ambos sexos;total;33.990
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Ambos sexos;curación o mejoría;25.258
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Ambos sexos;traslado a otros centros;6.513
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Ambos sexos;fallecimiento;215
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Ambos sexos;otras causas;2.004
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Hombres;total;20.644
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Hombres;curación o mejoría;15.014
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Hombres;traslado a otros centros;4.113
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Hombres;fallecimiento;121
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Hombres;otras causas;1.395
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Mujeres;total;13.347
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Mujeres;curación o mejoría;10.244
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Mujeres;traslado a otros centros;2.400
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Mujeres;fallecimiento;94
+0504 Esquizofrenia, trastornos esquizotípicos y trastornos delirantes F20-F29;Mujeres;otras causas;609
+0505 Trastornos del humor (afectivos)  F30-F39;Ambos sexos;total;25.861
+0505 Trastornos del humor (afectivos)  F30-F39;Ambos sexos;curación o mejoría;21.388
+0505 Trastornos del humor (afectivos)  F30-F39;Ambos sexos;traslado a otros centros;3.152
+0505 Trastornos del humor (afectivos)  F30-F39;Ambos sexos;fallecimiento;125
+0505 Trastornos del humor (afectivos)  F30-F39;Ambos sexos;otras causas;1.196
+0505 Trastornos del humor (afectivos)  F30-F39;Hombres;total;10.455
+0505 Trastornos del humor (afectivos)  F30-F39;Hombres;curación o mejoría;8.539
+0505 Trastornos del humor (afectivos)  F30-F39;Hombres;traslado a otros centros;1.316
+0505 Trastornos del humor (afectivos)  F30-F39;Hombres;fallecimiento;47
+0505 Trastornos del humor (afectivos)  F30-F39;Hombres;otras causas;553
+0505 Trastornos del humor (afectivos)  F30-F39;Mujeres;total;15.405
+0505 Trastornos del humor (afectivos)  F30-F39;Mujeres;curación o mejoría;12.849
+0505 Trastornos del humor (afectivos)  F30-F39;Mujeres;traslado a otros centros;1.836
+0505 Trastornos del humor (afectivos)  F30-F39;Mujeres;fallecimiento;77
+0505 Trastornos del humor (afectivos)  F30-F39;Mujeres;otras causas;643
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Ambos sexos;total;40.182
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Ambos sexos;curación o mejoría;32.919
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Ambos sexos;traslado a otros centros;4.630
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Ambos sexos;fallecimiento;545
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Ambos sexos;otras causas;2.087
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Hombres;total;15.378
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Hombres;curación o mejoría;12.273
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Hombres;traslado a otros centros;1.988
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Hombres;fallecimiento;291
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Hombres;otras causas;826
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Mujeres;total;24.803
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Mujeres;curación o mejoría;20.646
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Mujeres;traslado a otros centros;2.642
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Mujeres;fallecimiento;254
+0506 Otros trastornos mentales y del comportamiento  Resto de F01-F99;Mujeres;otras causas;1.261
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Ambos sexos;total;113.870
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Ambos sexos;curación o mejoría;98.246
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Ambos sexos;traslado a otros centros;8.552
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Ambos sexos;fallecimiento;5.365
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Ambos sexos;otras causas;1.706
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Hombres;total;59.040
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Hombres;curación o mejoría;50.658
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Hombres;traslado a otros centros;4.564
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Hombres;fallecimiento;2.865
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Hombres;otras causas;954
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Mujeres;total;54.829
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Mujeres;curación o mejoría;47.588
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Mujeres;traslado a otros centros;3.989
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Mujeres;fallecimiento;2.501
+0600 ENFERMEDADES INFLAMATORIAS DEL SISTEMA NERVIOSO G00-G99;Mujeres;otras causas;752
+0601 Enfermedad de Alzheimer G30;Ambos sexos;total;3.778
+0601 Enfermedad de Alzheimer G30;Ambos sexos;curación o mejoría;2.015
+0601 Enfermedad de Alzheimer G30;Ambos sexos;traslado a otros centros;1.168
+0601 Enfermedad de Alzheimer G30;Ambos sexos;fallecimiento;548
+0601 Enfermedad de Alzheimer G30;Ambos sexos;otras causas;48
+0601 Enfermedad de Alzheimer G30;Hombres;total;1.524
+0601 Enfermedad de Alzheimer G30;Hombres;curación o mejoría;796
+0601 Enfermedad de Alzheimer G30;Hombres;traslado a otros centros;493
+0601 Enfermedad de Alzheimer G30;Hombres;fallecimiento;210
+0601 Enfermedad de Alzheimer G30;Hombres;otras causas;26
+0601 Enfermedad de Alzheimer G30;Mujeres;total;2.254
+0601 Enfermedad de Alzheimer G30;Mujeres;curación o mejoría;1.219
+0601 Enfermedad de Alzheimer G30;Mujeres;traslado a otros centros;676
+0601 Enfermedad de Alzheimer G30;Mujeres;fallecimiento;338
+0601 Enfermedad de Alzheimer G30;Mujeres;otras causas;21
+0602 Esclerosis múltiple G35;Ambos sexos;total;1.720
+0602 Esclerosis múltiple G35;Ambos sexos;curación o mejoría;1.581
+0602 Esclerosis múltiple G35;Ambos sexos;traslado a otros centros;96
+0602 Esclerosis múltiple G35;Ambos sexos;fallecimiento;24
+0602 Esclerosis múltiple G35;Ambos sexos;otras causas;19
+0602 Esclerosis múltiple G35;Hombres;total;644
+0602 Esclerosis múltiple G35;Hombres;curación o mejoría;590
+0602 Esclerosis múltiple G35;Hombres;traslado a otros centros;38
+0602 Esclerosis múltiple G35;Hombres;fallecimiento;9
+0602 Esclerosis múltiple G35;Hombres;otras causas;7
+0602 Esclerosis múltiple G35;Mujeres;total;1.076
+0602 Esclerosis múltiple G35;Mujeres;curación o mejoría;991
+0602 Esclerosis múltiple G35;Mujeres;traslado a otros centros;58
+0602 Esclerosis múltiple G35;Mujeres;fallecimiento;15
+0602 Esclerosis múltiple G35;Mujeres;otras causas;12
+0603 Epilepsia G40;Ambos sexos;total;21.374
+0603 Epilepsia G40;Ambos sexos;curación o mejoría;19.098
+0603 Epilepsia G40;Ambos sexos;traslado a otros centros;1.185
+0603 Epilepsia G40;Ambos sexos;fallecimiento;774
+0603 Epilepsia G40;Ambos sexos;otras causas;317
+0603 Epilepsia G40;Hombres;total;11.389
+0603 Epilepsia G40;Hombres;curación o mejoría;10.174
+0603 Epilepsia G40;Hombres;traslado a otros centros;655
+0603 Epilepsia G40;Hombres;fallecimiento;350
+0603 Epilepsia G40;Hombres;otras causas;209
+0603 Epilepsia G40;Mujeres;total;9.985
+0603 Epilepsia G40;Mujeres;curación o mejoría;8.924
+0603 Epilepsia G40;Mujeres;traslado a otros centros;530
+0603 Epilepsia G40;Mujeres;fallecimiento;424
+0603 Epilepsia G40;Mujeres;otras causas;108
+0604 Isquemia cerebral transitoria G45;Ambos sexos;total;14.440
+0604 Isquemia cerebral transitoria G45;Ambos sexos;curación o mejoría;13.403
+0604 Isquemia cerebral transitoria G45;Ambos sexos;traslado a otros centros;708
+0604 Isquemia cerebral transitoria G45;Ambos sexos;fallecimiento;128
+0604 Isquemia cerebral transitoria G45;Ambos sexos;otras causas;201
+0604 Isquemia cerebral transitoria G45;Hombres;total;7.678
+0604 Isquemia cerebral transitoria G45;Hombres;curación o mejoría;7.118
+0604 Isquemia cerebral transitoria G45;Hombres;traslado a otros centros;392
+0604 Isquemia cerebral transitoria G45;Hombres;fallecimiento;58
+0604 Isquemia cerebral transitoria G45;Hombres;otras causas;111
+0604 Isquemia cerebral transitoria G45;Mujeres;total;6.762
+0604 Isquemia cerebral transitoria G45;Mujeres;curación o mejoría;6.285
+0604 Isquemia cerebral transitoria G45;Mujeres;traslado a otros centros;317
+0604 Isquemia cerebral transitoria G45;Mujeres;fallecimiento;70
+0604 Isquemia cerebral transitoria G45;Mujeres;otras causas;90
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Ambos sexos;total;72.557
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Ambos sexos;curación o mejoría;62.149
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Ambos sexos;traslado a otros centros;5.395
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Ambos sexos;fallecimiento;3.892
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Ambos sexos;otras causas;1.122
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Hombres;total;37.805
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Hombres;curación o mejoría;31.979
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Hombres;traslado a otros centros;2.987
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Hombres;fallecimiento;2.238
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Hombres;otras causas;601
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Mujeres;total;34.753
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Mujeres;curación o mejoría;30.170
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Mujeres;traslado a otros centros;2.409
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Mujeres;fallecimiento;1.654
+0605 Otras enfermedades inflamatorias del sistema nervioso Resto de G00-G99;Mujeres;otras causas;521
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Ambos sexos;total;19.566
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Ambos sexos;curación o mejoría;18.913
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Ambos sexos;traslado a otros centros;441
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Ambos sexos;fallecimiento;36
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Ambos sexos;otras causas;175
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Hombres;total;9.873
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Hombres;curación o mejoría;9.519
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Hombres;traslado a otros centros;246
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Hombres;fallecimiento;20
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Hombres;otras causas;88
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Mujeres;total;9.693
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Mujeres;curación o mejoría;9.394
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Mujeres;traslado a otros centros;196
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Mujeres;fallecimiento;16
+0700 ENFERMEDADES DEL OJO Y SUS ANEXOS  H00-H59;Mujeres;otras causas;87
+0701 Catarata H25-H26, H28;Ambos sexos;total;2.616
+0701 Catarata H25-H26, H28;Ambos sexos;curación o mejoría;2.490
+0701 Catarata H25-H26, H28;Ambos sexos;traslado a otros centros;89
+0701 Catarata H25-H26, H28;Ambos sexos;fallecimiento;4
+0701 Catarata H25-H26, H28;Ambos sexos;otras causas;33
+0701 Catarata H25-H26, H28;Hombres;total;1.333
+0701 Catarata H25-H26, H28;Hombres;curación o mejoría;1.266
+0701 Catarata H25-H26, H28;Hombres;traslado a otros centros;52
+0701 Catarata H25-H26, H28;Hombres;fallecimiento;1
+0701 Catarata H25-H26, H28;Hombres;otras causas;15
+0701 Catarata H25-H26, H28;Mujeres;total;1.283
+0701 Catarata H25-H26, H28;Mujeres;curación o mejoría;1.225
+0701 Catarata H25-H26, H28;Mujeres;traslado a otros centros;37
+0701 Catarata H25-H26, H28;Mujeres;fallecimiento;3
+0701 Catarata H25-H26, H28;Mujeres;otras causas;18
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Ambos sexos;total;16.950
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Ambos sexos;curación o mejoría;16.423
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Ambos sexos;traslado a otros centros;353
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Ambos sexos;fallecimiento;32
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Ambos sexos;otras causas;142
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Hombres;total;8.539
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Hombres;curación o mejoría;8.253
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Hombres;traslado a otros centros;194
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Hombres;fallecimiento;19
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Hombres;otras causas;73
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Mujeres;total;8.410
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Mujeres;curación o mejoría;8.169
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Mujeres;traslado a otros centros;159
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Mujeres;fallecimiento;13
+0702 Otras enfermedades del ojo y sus anexos  Resto de H00-H59;Mujeres;otras causas;69
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Ambos sexos;total;18.650
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Ambos sexos;curación o mejoría;18.058
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Ambos sexos;traslado a otros centros;451
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Ambos sexos;fallecimiento;27
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Ambos sexos;otras causas;114
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Hombres;total;9.036
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Hombres;curación o mejoría;8.726
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Hombres;traslado a otros centros;227
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Hombres;fallecimiento;17
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Hombres;otras causas;66
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Mujeres;total;9.614
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Mujeres;curación o mejoría;9.332
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Mujeres;traslado a otros centros;225
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Mujeres;fallecimiento;9
+0800 ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES H60-H95;Mujeres;otras causas;49
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Ambos sexos;total;584.830
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Ambos sexos;curación o mejoría;481.159
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Ambos sexos;traslado a otros centros;55.023
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Ambos sexos;fallecimiento;41.865
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Ambos sexos;otras causas;6.784
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Hombres;total;333.132
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Hombres;curación o mejoría;277.781
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Hombres;traslado a otros centros;31.115
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Hombres;fallecimiento;19.998
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Hombres;otras causas;4.237
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Mujeres;total;251.698
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Mujeres;curación o mejoría;203.377
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Mujeres;traslado a otros centros;23.907
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Mujeres;fallecimiento;21.867
+0900 ENFERMEDADES DEL SISTEMA CIRCULATORIO I00-I99;Mujeres;otras causas;2.547
+0901 Enfermedad hipertensiva I10-I16;Ambos sexos;total;96.457
+0901 Enfermedad hipertensiva I10-I16;Ambos sexos;curación o mejoría;78.556
+0901 Enfermedad hipertensiva I10-I16;Ambos sexos;traslado a otros centros;7.094
+0901 Enfermedad hipertensiva I10-I16;Ambos sexos;fallecimiento;9.580
+0901 Enfermedad hipertensiva I10-I16;Ambos sexos;otras causas;1.227
+0901 Enfermedad hipertensiva I10-I16;Hombres;total;43.641
+0901 Enfermedad hipertensiva I10-I16;Hombres;curación o mejoría;35.909
+0901 Enfermedad hipertensiva I10-I16;Hombres;traslado a otros centros;3.045
+0901 Enfermedad hipertensiva I10-I16;Hombres;fallecimiento;4.070
+0901 Enfermedad hipertensiva I10-I16;Hombres;otras causas;618
+0901 Enfermedad hipertensiva I10-I16;Mujeres;total;52.815
+0901 Enfermedad hipertensiva I10-I16;Mujeres;curación o mejoría;42.647
+0901 Enfermedad hipertensiva I10-I16;Mujeres;traslado a otros centros;4.049
+0901 Enfermedad hipertensiva I10-I16;Mujeres;fallecimiento;5.510
+0901 Enfermedad hipertensiva I10-I16;Mujeres;otras causas;609
+0902 Angina de pecho I20;Ambos sexos;total;9.788
+0902 Angina de pecho I20;Ambos sexos;curación o mejoría;8.426
+0902 Angina de pecho I20;Ambos sexos;traslado a otros centros;967
+0902 Angina de pecho I20;Ambos sexos;fallecimiento;206
+0902 Angina de pecho I20;Ambos sexos;otras causas;190
+0902 Angina de pecho I20;Hombres;total;5.902
+0902 Angina de pecho I20;Hombres;curación o mejoría;5.011
+0902 Angina de pecho I20;Hombres;traslado a otros centros;657
+0902 Angina de pecho I20;Hombres;fallecimiento;102
+0902 Angina de pecho I20;Hombres;otras causas;132
+0902 Angina de pecho I20;Mujeres;total;3.886
+0902 Angina de pecho I20;Mujeres;curación o mejoría;3.415
+0902 Angina de pecho I20;Mujeres;traslado a otros centros;310
+0902 Angina de pecho I20;Mujeres;fallecimiento;104
+0902 Angina de pecho I20;Mujeres;otras causas;58
+0903 Infarto agudo de miocardio I21-I22;Ambos sexos;total;58.908
+0903 Infarto agudo de miocardio I21-I22;Ambos sexos;curación o mejoría;47.702
+0903 Infarto agudo de miocardio I21-I22;Ambos sexos;traslado a otros centros;7.048
+0903 Infarto agudo de miocardio I21-I22;Ambos sexos;fallecimiento;3.362
+0903 Infarto agudo de miocardio I21-I22;Ambos sexos;otras causas;796
+0903 Infarto agudo de miocardio I21-I22;Hombres;total;42.111
+0903 Infarto agudo de miocardio I21-I22;Hombres;curación o mejoría;34.496
+0903 Infarto agudo de miocardio I21-I22;Hombres;traslado a otros centros;5.115
+0903 Infarto agudo de miocardio I21-I22;Hombres;fallecimiento;1.895
+0903 Infarto agudo de miocardio I21-I22;Hombres;otras causas;605
+0903 Infarto agudo de miocardio I21-I22;Mujeres;total;16.797
+0903 Infarto agudo de miocardio I21-I22;Mujeres;curación o mejoría;13.206
+0903 Infarto agudo de miocardio I21-I22;Mujeres;traslado a otros centros;1.933
+0903 Infarto agudo de miocardio I21-I22;Mujeres;fallecimiento;1.467
+0903 Infarto agudo de miocardio I21-I22;Mujeres;otras causas;192
+0904 Otras enfermedades isquémicas del corazón I23-I25;Ambos sexos;total;38.531
+0904 Otras enfermedades isquémicas del corazón I23-I25;Ambos sexos;curación o mejoría;34.743
+0904 Otras enfermedades isquémicas del corazón I23-I25;Ambos sexos;traslado a otros centros;2.900
+0904 Otras enfermedades isquémicas del corazón I23-I25;Ambos sexos;fallecimiento;553
+0904 Otras enfermedades isquémicas del corazón I23-I25;Ambos sexos;otras causas;335
+0904 Otras enfermedades isquémicas del corazón I23-I25;Hombres;total;29.622
+0904 Otras enfermedades isquémicas del corazón I23-I25;Hombres;curación o mejoría;26.701
+0904 Otras enfermedades isquémicas del corazón I23-I25;Hombres;traslado a otros centros;2.271
+0904 Otras enfermedades isquémicas del corazón I23-I25;Hombres;fallecimiento;378
+0904 Otras enfermedades isquémicas del corazón I23-I25;Hombres;otras causas;272
+0904 Otras enfermedades isquémicas del corazón I23-I25;Mujeres;total;8.909
+0904 Otras enfermedades isquémicas del corazón I23-I25;Mujeres;curación o mejoría;8.042
+0904 Otras enfermedades isquémicas del corazón I23-I25;Mujeres;traslado a otros centros;629
+0904 Otras enfermedades isquémicas del corazón I23-I25;Mujeres;fallecimiento;175
+0904 Otras enfermedades isquémicas del corazón I23-I25;Mujeres;otras causas;63
+0905 Enfermedades de la circulación pulmonar I26-I28;Ambos sexos;total;26.951
+0905 Enfermedades de la circulación pulmonar I26-I28;Ambos sexos;curación o mejoría;23.457
+0905 Enfermedades de la circulación pulmonar I26-I28;Ambos sexos;traslado a otros centros;1.570
+0905 Enfermedades de la circulación pulmonar I26-I28;Ambos sexos;fallecimiento;1.666
+0905 Enfermedades de la circulación pulmonar I26-I28;Ambos sexos;otras causas;258
+0905 Enfermedades de la circulación pulmonar I26-I28;Hombres;total;13.088
+0905 Enfermedades de la circulación pulmonar I26-I28;Hombres;curación o mejoría;11.506
+0905 Enfermedades de la circulación pulmonar I26-I28;Hombres;traslado a otros centros;706
+0905 Enfermedades de la circulación pulmonar I26-I28;Hombres;fallecimiento;747
+0905 Enfermedades de la circulación pulmonar I26-I28;Hombres;otras causas;130
+0905 Enfermedades de la circulación pulmonar I26-I28;Mujeres;total;13.862
+0905 Enfermedades de la circulación pulmonar I26-I28;Mujeres;curación o mejoría;11.951
+0905 Enfermedades de la circulación pulmonar I26-I28;Mujeres;traslado a otros centros;864
+0905 Enfermedades de la circulación pulmonar I26-I28;Mujeres;fallecimiento;919
+0905 Enfermedades de la circulación pulmonar I26-I28;Mujeres;otras causas;129
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Ambos sexos;total;79.226
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Ambos sexos;curación o mejoría;72.688
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Ambos sexos;traslado a otros centros;3.712
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Ambos sexos;fallecimiento;2.242
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Ambos sexos;otras causas;585
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Hombres;total;45.088
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Hombres;curación o mejoría;41.502
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Hombres;traslado a otros centros;2.042
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Hombres;fallecimiento;1.185
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Hombres;otras causas;358
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Mujeres;total;34.138
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Mujeres;curación o mejoría;31.185
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Mujeres;traslado a otros centros;1.669
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Mujeres;fallecimiento;1.056
+0906 Trastornos de conducción y disritmias cardiacas I44-I49;Mujeres;otras causas;227
+0907 Insuficiencia cardiaca I50;Ambos sexos;total;56.775
+0907 Insuficiencia cardiaca I50;Ambos sexos;curación o mejoría;44.074
+0907 Insuficiencia cardiaca I50;Ambos sexos;traslado a otros centros;5.470
+0907 Insuficiencia cardiaca I50;Ambos sexos;fallecimiento;6.495
+0907 Insuficiencia cardiaca I50;Ambos sexos;otras causas;735
+0907 Insuficiencia cardiaca I50;Hombres;total;27.482
+0907 Insuficiencia cardiaca I50;Hombres;curación o mejoría;21.777
+0907 Insuficiencia cardiaca I50;Hombres;traslado a otros centros;2.425
+0907 Insuficiencia cardiaca I50;Hombres;fallecimiento;2.859
+0907 Insuficiencia cardiaca I50;Hombres;otras causas;421
+0907 Insuficiencia cardiaca I50;Mujeres;total;29.292
+0907 Insuficiencia cardiaca I50;Mujeres;curación o mejoría;22.297
+0907 Insuficiencia cardiaca I50;Mujeres;traslado a otros centros;3.046
+0907 Insuficiencia cardiaca I50;Mujeres;fallecimiento;3.636
+0907 Insuficiencia cardiaca I50;Mujeres;otras causas;314
+0908 Enfermedades cerebrovasculares I60-I69;Ambos sexos;total;110.489
+0908 Enfermedades cerebrovasculares I60-I69;Ambos sexos;curación o mejoría;77.136
+0908 Enfermedades cerebrovasculares I60-I69;Ambos sexos;traslado a otros centros;18.858
+0908 Enfermedades cerebrovasculares I60-I69;Ambos sexos;fallecimiento;13.180
+0908 Enfermedades cerebrovasculares I60-I69;Ambos sexos;otras causas;1.314
+0908 Enfermedades cerebrovasculares I60-I69;Hombres;total;60.458
+0908 Enfermedades cerebrovasculares I60-I69;Hombres;curación o mejoría;43.385
+0908 Enfermedades cerebrovasculares I60-I69;Hombres;traslado a otros centros;10.152
+0908 Enfermedades cerebrovasculares I60-I69;Hombres;fallecimiento;6.101
+0908 Enfermedades cerebrovasculares I60-I69;Hombres;otras causas;819
+0908 Enfermedades cerebrovasculares I60-I69;Mujeres;total;50.031
+0908 Enfermedades cerebrovasculares I60-I69;Mujeres;curación o mejoría;33.751
+0908 Enfermedades cerebrovasculares I60-I69;Mujeres;traslado a otros centros;8.706
+0908 Enfermedades cerebrovasculares I60-I69;Mujeres;fallecimiento;7.080
+0908 Enfermedades cerebrovasculares I60-I69;Mujeres;otras causas;495
+0909 Aterosclerosis I70;Ambos sexos;total;17.884
+0909 Aterosclerosis I70;Ambos sexos;curación o mejoría;14.942
+0909 Aterosclerosis I70;Ambos sexos;traslado a otros centros;1.681
+0909 Aterosclerosis I70;Ambos sexos;fallecimiento;1.021
+0909 Aterosclerosis I70;Ambos sexos;otras causas;241
+0909 Aterosclerosis I70;Hombres;total;13.102
+0909 Aterosclerosis I70;Hombres;curación o mejoría;11.087
+0909 Aterosclerosis I70;Hombres;traslado a otros centros;1.231
+0909 Aterosclerosis I70;Hombres;fallecimiento;599
+0909 Aterosclerosis I70;Hombres;otras causas;185
+0909 Aterosclerosis I70;Mujeres;total;4.782
+0909 Aterosclerosis I70;Mujeres;curación o mejoría;3.855
+0909 Aterosclerosis I70;Mujeres;traslado a otros centros;450
+0909 Aterosclerosis I70;Mujeres;fallecimiento;422
+0909 Aterosclerosis I70;Mujeres;otras causas;56
+0910 Venas varicosas de las extremidades inferiores I83;Ambos sexos;total;6.325
+0910 Venas varicosas de las extremidades inferiores I83;Ambos sexos;curación o mejoría;6.154
+0910 Venas varicosas de las extremidades inferiores I83;Ambos sexos;traslado a otros centros;109
+0910 Venas varicosas de las extremidades inferiores I83;Ambos sexos;fallecimiento;37
+0910 Venas varicosas de las extremidades inferiores I83;Ambos sexos;otras causas;25
+0910 Venas varicosas de las extremidades inferiores I83;Hombres;total;2.344
+0910 Venas varicosas de las extremidades inferiores I83;Hombres;curación o mejoría;2.285
+0910 Venas varicosas de las extremidades inferiores I83;Hombres;traslado a otros centros;37
+0910 Venas varicosas de las extremidades inferiores I83;Hombres;fallecimiento;12
+0910 Venas varicosas de las extremidades inferiores I83;Hombres;otras causas;9
+0910 Venas varicosas de las extremidades inferiores I83;Mujeres;total;3.981
+0910 Venas varicosas de las extremidades inferiores I83;Mujeres;curación o mejoría;3.869
+0910 Venas varicosas de las extremidades inferiores I83;Mujeres;traslado a otros centros;72
+0910 Venas varicosas de las extremidades inferiores I83;Mujeres;fallecimiento;24
+0910 Venas varicosas de las extremidades inferiores I83;Mujeres;otras causas;16
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Ambos sexos;total;83.496
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Ambos sexos;curación o mejoría;73.281
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Ambos sexos;traslado a otros centros;5.614
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Ambos sexos;fallecimiento;3.524
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Ambos sexos;otras causas;1.077
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Hombres;total;50.293
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Hombres;curación o mejoría;44.122
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Hombres;traslado a otros centros;3.435
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Hombres;fallecimiento;2.050
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Hombres;otras causas;687
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Mujeres;total;33.203
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Mujeres;curación o mejoría;29.159
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Mujeres;traslado a otros centros;2.180
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Mujeres;fallecimiento;1.474
+0911 Otras enfermedades del sistema circulatorio Resto de I00-I99;Mujeres;otras causas;390
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Ambos sexos;total;486.307
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Ambos sexos;curación o mejoría;416.800
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Ambos sexos;traslado a otros centros;27.148
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Ambos sexos;fallecimiento;35.607
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Ambos sexos;otras causas;6.752
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Hombres;total;267.685
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Hombres;curación o mejoría;228.844
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Hombres;traslado a otros centros;15.218
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Hombres;fallecimiento;19.801
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Hombres;otras causas;3.823
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Mujeres;total;218.622
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Mujeres;curación o mejoría;187.956
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Mujeres;traslado a otros centros;11.930
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Mujeres;fallecimiento;15.807
+1000 ENFERMEDADES DEL SISTEMA RESPIRATORIO J00-J99;Mujeres;otras causas;2.929
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Ambos sexos;total;38.397
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Ambos sexos;curación o mejoría;35.671
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Ambos sexos;traslado a otros centros;1.339
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Ambos sexos;fallecimiento;914
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Ambos sexos;otras causas;472
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Hombres;total;19.391
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Hombres;curación o mejoría;18.117
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Hombres;traslado a otros centros;627
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Hombres;fallecimiento;404
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Hombres;otras causas;242
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Mujeres;total;19.006
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Mujeres;curación o mejoría;17.555
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Mujeres;traslado a otros centros;711
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Mujeres;fallecimiento;510
+1001 Infecciones agudas de las vías respiratorias superiores y gripe J00-J11;Mujeres;otras causas;230
+1002 Neumonía J12-J18;Ambos sexos;total;96.976
+1002 Neumonía J12-J18;Ambos sexos;curación o mejoría;80.993
+1002 Neumonía J12-J18;Ambos sexos;traslado a otros centros;6.008
+1002 Neumonía J12-J18;Ambos sexos;fallecimiento;8.464
+1002 Neumonía J12-J18;Ambos sexos;otras causas;1.510
+1002 Neumonía J12-J18;Hombres;total;52.894
+1002 Neumonía J12-J18;Hombres;curación o mejoría;43.836
+1002 Neumonía J12-J18;Hombres;traslado a otros centros;3.343
+1002 Neumonía J12-J18;Hombres;fallecimiento;4.874
+1002 Neumonía J12-J18;Hombres;otras causas;840
+1002 Neumonía J12-J18;Mujeres;total;44.082
+1002 Neumonía J12-J18;Mujeres;curación o mejoría;37.157
+1002 Neumonía J12-J18;Mujeres;traslado a otros centros;2.665
+1002 Neumonía J12-J18;Mujeres;fallecimiento;3.590
+1002 Neumonía J12-J18;Mujeres;otras causas;670
+1003 Bronquitis y bronquiolitis agudas J20-J22;Ambos sexos;total;70.046
+1003 Bronquitis y bronquiolitis agudas J20-J22;Ambos sexos;curación o mejoría;63.490
+1003 Bronquitis y bronquiolitis agudas J20-J22;Ambos sexos;traslado a otros centros;3.558
+1003 Bronquitis y bronquiolitis agudas J20-J22;Ambos sexos;fallecimiento;2.207
+1003 Bronquitis y bronquiolitis agudas J20-J22;Ambos sexos;otras causas;790
+1003 Bronquitis y bronquiolitis agudas J20-J22;Hombres;total;34.033
+1003 Bronquitis y bronquiolitis agudas J20-J22;Hombres;curación o mejoría;30.986
+1003 Bronquitis y bronquiolitis agudas J20-J22;Hombres;traslado a otros centros;1.670
+1003 Bronquitis y bronquiolitis agudas J20-J22;Hombres;fallecimiento;998
+1003 Bronquitis y bronquiolitis agudas J20-J22;Hombres;otras causas;380
+1003 Bronquitis y bronquiolitis agudas J20-J22;Mujeres;total;36.012
+1003 Bronquitis y bronquiolitis agudas J20-J22;Mujeres;curación o mejoría;32.505
+1003 Bronquitis y bronquiolitis agudas J20-J22;Mujeres;traslado a otros centros;1.889
+1003 Bronquitis y bronquiolitis agudas J20-J22;Mujeres;fallecimiento;1.209
+1003 Bronquitis y bronquiolitis agudas J20-J22;Mujeres;otras causas;410
+1004 Enfermedad crónica de amígdalas y adenoides J35;Ambos sexos;total;14.424
+1004 Enfermedad crónica de amígdalas y adenoides J35;Ambos sexos;curación o mejoría;14.275
+1004 Enfermedad crónica de amígdalas y adenoides J35;Ambos sexos;traslado a otros centros;104
+1004 Enfermedad crónica de amígdalas y adenoides J35;Ambos sexos;fallecimiento;2
+1004 Enfermedad crónica de amígdalas y adenoides J35;Ambos sexos;otras causas;44
+1004 Enfermedad crónica de amígdalas y adenoides J35;Hombres;total;7.555
+1004 Enfermedad crónica de amígdalas y adenoides J35;Hombres;curación o mejoría;7.471
+1004 Enfermedad crónica de amígdalas y adenoides J35;Hombres;traslado a otros centros;60
+1004 Enfermedad crónica de amígdalas y adenoides J35;Hombres;fallecimiento;1
+1004 Enfermedad crónica de amígdalas y adenoides J35;Hombres;otras causas;23
+1004 Enfermedad crónica de amígdalas y adenoides J35;Mujeres;total;6.869
+1004 Enfermedad crónica de amígdalas y adenoides J35;Mujeres;curación o mejoría;6.804
+1004 Enfermedad crónica de amígdalas y adenoides J35;Mujeres;traslado a otros centros;44
+1004 Enfermedad crónica de amígdalas y adenoides J35;Mujeres;fallecimiento;1
+1004 Enfermedad crónica de amígdalas y adenoides J35;Mujeres;otras causas;21
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Ambos sexos;total;39.468
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Ambos sexos;curación o mejoría;38.635
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Ambos sexos;traslado a otros centros;522
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Ambos sexos;fallecimiento;66
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Ambos sexos;otras causas;246
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Hombres;total;22.784
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Hombres;curación o mejoría;22.258
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Hombres;traslado a otros centros;320
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Hombres;fallecimiento;45
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Hombres;otras causas;160
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Mujeres;total;16.684
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Mujeres;curación o mejoría;16.376
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Mujeres;traslado a otros centros;202
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Mujeres;fallecimiento;20
+1005 Otras enfermedades del tracto respiratorio superior J30-J34, J36-J39;Mujeres;otras causas;86
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Ambos sexos;total;79.911
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Ambos sexos;curación o mejoría;68.617
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Ambos sexos;traslado a otros centros;5.394
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Ambos sexos;fallecimiento;4.328
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Ambos sexos;otras causas;1.571
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Hombres;total;56.141
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Hombres;curación o mejoría;47.927
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Hombres;traslado a otros centros;3.840
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Hombres;fallecimiento;3.310
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Hombres;otras causas;1.064
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Mujeres;total;23.770
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Mujeres;curación o mejoría;20.690
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Mujeres;traslado a otros centros;1.554
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Mujeres;fallecimiento;1.018
+1006 Enfermedad pulmonar obstructiva crónica y bronquiectasias J40-J44, J47;Mujeres;otras causas;507
+1007 Asma J45;Ambos sexos;total;16.008
+1007 Asma J45;Ambos sexos;curación o mejoría;14.865
+1007 Asma J45;Ambos sexos;traslado a otros centros;676
+1007 Asma J45;Ambos sexos;fallecimiento;197
+1007 Asma J45;Ambos sexos;otras causas;270
+1007 Asma J45;Hombres;total;5.095
+1007 Asma J45;Hombres;curación o mejoría;4.784
+1007 Asma J45;Hombres;traslado a otros centros;176
+1007 Asma J45;Hombres;fallecimiento;43
+1007 Asma J45;Hombres;otras causas;92
+1007 Asma J45;Mujeres;total;10.913
+1007 Asma J45;Mujeres;curación o mejoría;10.081
+1007 Asma J45;Mujeres;traslado a otros centros;499
+1007 Asma J45;Mujeres;fallecimiento;154
+1007 Asma J45;Mujeres;otras causas;178
+1008 Otras enfermedades del sistema respiratorio J60-J99;Ambos sexos;total;131.078
+1008 Otras enfermedades del sistema respiratorio J60-J99;Ambos sexos;curación o mejoría;100.253
+1008 Otras enfermedades del sistema respiratorio J60-J99;Ambos sexos;traslado a otros centros;9.548
+1008 Otras enfermedades del sistema respiratorio J60-J99;Ambos sexos;fallecimiento;19.429
+1008 Otras enfermedades del sistema respiratorio J60-J99;Ambos sexos;otras causas;1.849
+1008 Otras enfermedades del sistema respiratorio J60-J99;Hombres;total;69.792
+1008 Otras enfermedades del sistema respiratorio J60-J99;Hombres;curación o mejoría;53.465
+1008 Otras enfermedades del sistema respiratorio J60-J99;Hombres;traslado a otros centros;5.181
+1008 Otras enfermedades del sistema respiratorio J60-J99;Hombres;fallecimiento;10.125
+1008 Otras enfermedades del sistema respiratorio J60-J99;Hombres;otras causas;1.022
+1008 Otras enfermedades del sistema respiratorio J60-J99;Mujeres;total;61.286
+1008 Otras enfermedades del sistema respiratorio J60-J99;Mujeres;curación o mejoría;46.788
+1008 Otras enfermedades del sistema respiratorio J60-J99;Mujeres;traslado a otros centros;4.367
+1008 Otras enfermedades del sistema respiratorio J60-J99;Mujeres;fallecimiento;9.304
+1008 Otras enfermedades del sistema respiratorio J60-J99;Mujeres;otras causas;827
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Ambos sexos;total;583.045
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Ambos sexos;curación o mejoría;535.994
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Ambos sexos;traslado a otros centros;25.289
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Ambos sexos;fallecimiento;16.078
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Ambos sexos;otras causas;5.684
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Hombres;total;321.735
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Hombres;curación o mejoría;296.118
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Hombres;traslado a otros centros;13.565
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Hombres;fallecimiento;8.615
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Hombres;otras causas;3.436
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Mujeres;total;261.310
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Mujeres;curación o mejoría;239.875
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Mujeres;traslado a otros centros;11.724
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Mujeres;fallecimiento;7.463
+1100 ENFERMEDADES DEL APARATO DIGESTIVO K00-K95;Mujeres;otras causas;2.248
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Ambos sexos;total;5.181
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Ambos sexos;curación o mejoría;5.046
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Ambos sexos;traslado a otros centros;72
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Ambos sexos;fallecimiento;12
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Ambos sexos;otras causas;52
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Hombres;total;2.639
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Hombres;curación o mejoría;2.557
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Hombres;traslado a otros centros;41
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Hombres;fallecimiento;5
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Hombres;otras causas;36
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Mujeres;total;2.543
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Mujeres;curación o mejoría;2.489
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Mujeres;traslado a otros centros;31
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Mujeres;fallecimiento;7
+1101 Trastornos de los dientes y de las estructuras de sostén K00-K08;Mujeres;otras causas;15
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Ambos sexos;total;6.275
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Ambos sexos;curación o mejoría;5.914
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Ambos sexos;traslado a otros centros;215
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Ambos sexos;fallecimiento;97
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Ambos sexos;otras causas;50
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Hombres;total;3.303
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Hombres;curación o mejoría;3.113
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Hombres;traslado a otros centros;115
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Hombres;fallecimiento;45
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Hombres;otras causas;30
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Mujeres;total;2.972
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Mujeres;curación o mejoría;2.801
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Mujeres;traslado a otros centros;99
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Mujeres;fallecimiento;52
+1102 Otras enfermedades de la cavidad oral, glándulas salivares y maxilares K09-K14;Mujeres;otras causas;20
+1103 Enfermedades del esófago K20-K23;Ambos sexos;total;10.363
+1103 Enfermedades del esófago K20-K23;Ambos sexos;curación o mejoría;9.642
+1103 Enfermedades del esófago K20-K23;Ambos sexos;traslado a otros centros;413
+1103 Enfermedades del esófago K20-K23;Ambos sexos;fallecimiento;199
+1103 Enfermedades del esófago K20-K23;Ambos sexos;otras causas;109
+1103 Enfermedades del esófago K20-K23;Hombres;total;6.147
+1103 Enfermedades del esófago K20-K23;Hombres;curación o mejoría;5.677
+1103 Enfermedades del esófago K20-K23;Hombres;traslado a otros centros;258
+1103 Enfermedades del esófago K20-K23;Hombres;fallecimiento;136
+1103 Enfermedades del esófago K20-K23;Hombres;otras causas;77
+1103 Enfermedades del esófago K20-K23;Mujeres;total;4.216
+1103 Enfermedades del esófago K20-K23;Mujeres;curación o mejoría;3.965
+1103 Enfermedades del esófago K20-K23;Mujeres;traslado a otros centros;155
+1103 Enfermedades del esófago K20-K23;Mujeres;fallecimiento;63
+1103 Enfermedades del esófago K20-K23;Mujeres;otras causas;32
+1104 Úlcera péptica K25-K28;Ambos sexos;total;10.841
+1104 Úlcera péptica K25-K28;Ambos sexos;curación o mejoría;9.565
+1104 Úlcera péptica K25-K28;Ambos sexos;traslado a otros centros;680
+1104 Úlcera péptica K25-K28;Ambos sexos;fallecimiento;475
+1104 Úlcera péptica K25-K28;Ambos sexos;otras causas;120
+1104 Úlcera péptica K25-K28;Hombres;total;7.364
+1104 Úlcera péptica K25-K28;Hombres;curación o mejoría;6.531
+1104 Úlcera péptica K25-K28;Hombres;traslado a otros centros;443
+1104 Úlcera péptica K25-K28;Hombres;fallecimiento;308
+1104 Úlcera péptica K25-K28;Hombres;otras causas;82
+1104 Úlcera péptica K25-K28;Mujeres;total;3.476
+1104 Úlcera péptica K25-K28;Mujeres;curación o mejoría;3.034
+1104 Úlcera péptica K25-K28;Mujeres;traslado a otros centros;237
+1104 Úlcera péptica K25-K28;Mujeres;fallecimiento;167
+1104 Úlcera péptica K25-K28;Mujeres;otras causas;38
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Ambos sexos;total;10.793
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Ambos sexos;curación o mejoría;10.040
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Ambos sexos;traslado a otros centros;380
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Ambos sexos;fallecimiento;242
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Ambos sexos;otras causas;131
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Hombres;total;5.412
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Hombres;curación o mejoría;4.973
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Hombres;traslado a otros centros;218
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Hombres;fallecimiento;143
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Hombres;otras causas;79
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Mujeres;total;5.381
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Mujeres;curación o mejoría;5.067
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Mujeres;traslado a otros centros;162
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Mujeres;fallecimiento;100
+1105 Dispepsia y otras enfermedades del estómago y duodeno K29-K31;Mujeres;otras causas;52
+1106 Enfermedades del Apéndice K35-K38;Ambos sexos;total;52.385
+1106 Enfermedades del Apéndice K35-K38;Ambos sexos;curación o mejoría;50.234
+1106 Enfermedades del Apéndice K35-K38;Ambos sexos;traslado a otros centros;1.803
+1106 Enfermedades del Apéndice K35-K38;Ambos sexos;fallecimiento;93
+1106 Enfermedades del Apéndice K35-K38;Ambos sexos;otras causas;254
+1106 Enfermedades del Apéndice K35-K38;Hombres;total;29.102
+1106 Enfermedades del Apéndice K35-K38;Hombres;curación o mejoría;27.922
+1106 Enfermedades del Apéndice K35-K38;Hombres;traslado a otros centros;997
+1106 Enfermedades del Apéndice K35-K38;Hombres;fallecimiento;44
+1106 Enfermedades del Apéndice K35-K38;Hombres;otras causas;140
+1106 Enfermedades del Apéndice K35-K38;Mujeres;total;23.282
+1106 Enfermedades del Apéndice K35-K38;Mujeres;curación o mejoría;22.313
+1106 Enfermedades del Apéndice K35-K38;Mujeres;traslado a otros centros;806
+1106 Enfermedades del Apéndice K35-K38;Mujeres;fallecimiento;49
+1106 Enfermedades del Apéndice K35-K38;Mujeres;otras causas;114
+1107 Hernia inguinal K40;Ambos sexos;total;50.750
+1107 Hernia inguinal K40;Ambos sexos;curación o mejoría;49.090
+1107 Hernia inguinal K40;Ambos sexos;traslado a otros centros;1.302
+1107 Hernia inguinal K40;Ambos sexos;fallecimiento;170
+1107 Hernia inguinal K40;Ambos sexos;otras causas;187
+1107 Hernia inguinal K40;Hombres;total;44.759
+1107 Hernia inguinal K40;Hombres;curación o mejoría;43.370
+1107 Hernia inguinal K40;Hombres;traslado a otros centros;1.095
+1107 Hernia inguinal K40;Hombres;fallecimiento;130
+1107 Hernia inguinal K40;Hombres;otras causas;163
+1107 Hernia inguinal K40;Mujeres;total;5.991
+1107 Hernia inguinal K40;Mujeres;curación o mejoría;5.720
+1107 Hernia inguinal K40;Mujeres;traslado a otros centros;206
+1107 Hernia inguinal K40;Mujeres;fallecimiento;40
+1107 Hernia inguinal K40;Mujeres;otras causas;24
+1108 Otra hernia abdominal K41-K46;Ambos sexos;total;44.015
+1108 Otra hernia abdominal K41-K46;Ambos sexos;curación o mejoría;41.921
+1108 Otra hernia abdominal K41-K46;Ambos sexos;traslado a otros centros;1.431
+1108 Otra hernia abdominal K41-K46;Ambos sexos;fallecimiento;453
+1108 Otra hernia abdominal K41-K46;Ambos sexos;otras causas;209
+1108 Otra hernia abdominal K41-K46;Hombres;total;21.483
+1108 Otra hernia abdominal K41-K46;Hombres;curación o mejoría;20.568
+1108 Otra hernia abdominal K41-K46;Hombres;traslado a otros centros;646
+1108 Otra hernia abdominal K41-K46;Hombres;fallecimiento;172
+1108 Otra hernia abdominal K41-K46;Hombres;otras causas;96
+1108 Otra hernia abdominal K41-K46;Mujeres;total;22.532
+1108 Otra hernia abdominal K41-K46;Mujeres;curación o mejoría;21.353
+1108 Otra hernia abdominal K41-K46;Mujeres;traslado a otros centros;785
+1108 Otra hernia abdominal K41-K46;Mujeres;fallecimiento;281
+1108 Otra hernia abdominal K41-K46;Mujeres;otras causas;113
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Ambos sexos;total;11.950
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Ambos sexos;curación o mejoría;11.204
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Ambos sexos;traslado a otros centros;422
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Ambos sexos;fallecimiento;131
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Ambos sexos;otras causas;194
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Hombres;total;6.303
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Hombres;curación o mejoría;5.899
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Hombres;traslado a otros centros;213
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Hombres;fallecimiento;62
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Hombres;otras causas;129
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Mujeres;total;5.647
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Mujeres;curación o mejoría;5.306
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Mujeres;traslado a otros centros;208
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Mujeres;fallecimiento;69
+1109 Enfermedad de Crohn y colitis ulcerosa K50-K51;Mujeres;otras causas;65
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Ambos sexos;total;28.821
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Ambos sexos;curación o mejoría;26.882
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Ambos sexos;traslado a otros centros;918
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Ambos sexos;fallecimiento;592
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Ambos sexos;otras causas;430
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Hombres;total;13.433
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Hombres;curación o mejoría;12.564
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Hombres;traslado a otros centros;403
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Hombres;fallecimiento;257
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Hombres;otras causas;209
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Mujeres;total;15.389
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Mujeres;curación o mejoría;14.317
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Mujeres;traslado a otros centros;515
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Mujeres;fallecimiento;335
+1110 Otras gastroenteritis, colitis no infecciosas y las no especificadas K52;Mujeres;otras causas;222
+1111 Obstrucción intestinal sin mención de hernia K56;Ambos sexos;total;25.009
+1111 Obstrucción intestinal sin mención de hernia K56;Ambos sexos;curación o mejoría;21.174
+1111 Obstrucción intestinal sin mención de hernia K56;Ambos sexos;traslado a otros centros;1.472
+1111 Obstrucción intestinal sin mención de hernia K56;Ambos sexos;fallecimiento;2.129
+1111 Obstrucción intestinal sin mención de hernia K56;Ambos sexos;otras causas;234
+1111 Obstrucción intestinal sin mención de hernia K56;Hombres;total;12.653
+1111 Obstrucción intestinal sin mención de hernia K56;Hombres;curación o mejoría;10.805
+1111 Obstrucción intestinal sin mención de hernia K56;Hombres;traslado a otros centros;726
+1111 Obstrucción intestinal sin mención de hernia K56;Hombres;fallecimiento;996
+1111 Obstrucción intestinal sin mención de hernia K56;Hombres;otras causas;126
+1111 Obstrucción intestinal sin mención de hernia K56;Mujeres;total;12.356
+1111 Obstrucción intestinal sin mención de hernia K56;Mujeres;curación o mejoría;10.370
+1111 Obstrucción intestinal sin mención de hernia K56;Mujeres;traslado a otros centros;746
+1111 Obstrucción intestinal sin mención de hernia K56;Mujeres;fallecimiento;1.132
+1111 Obstrucción intestinal sin mención de hernia K56;Mujeres;otras causas;108
+1112 Divertículos intestinales K57;Ambos sexos;total;27.925
+1112 Divertículos intestinales K57;Ambos sexos;curación o mejoría;25.859
+1112 Divertículos intestinales K57;Ambos sexos;traslado a otros centros;1.239
+1112 Divertículos intestinales K57;Ambos sexos;fallecimiento;459
+1112 Divertículos intestinales K57;Ambos sexos;otras causas;368
+1112 Divertículos intestinales K57;Hombres;total;14.061
+1112 Divertículos intestinales K57;Hombres;curación o mejoría;13.056
+1112 Divertículos intestinales K57;Hombres;traslado a otros centros;607
+1112 Divertículos intestinales K57;Hombres;fallecimiento;203
+1112 Divertículos intestinales K57;Hombres;otras causas;196
+1112 Divertículos intestinales K57;Mujeres;total;13.863
+1112 Divertículos intestinales K57;Mujeres;curación o mejoría;12.804
+1112 Divertículos intestinales K57;Mujeres;traslado a otros centros;632
+1112 Divertículos intestinales K57;Mujeres;fallecimiento;256
+1112 Divertículos intestinales K57;Mujeres;otras causas;172
+1113 Enfermedades del ano y recto K60-K62;Ambos sexos;total;29.929
+1113 Enfermedades del ano y recto K60-K62;Ambos sexos;curación o mejoría;27.989
+1113 Enfermedades del ano y recto K60-K62;Ambos sexos;traslado a otros centros;1.172
+1113 Enfermedades del ano y recto K60-K62;Ambos sexos;fallecimiento;501
+1113 Enfermedades del ano y recto K60-K62;Ambos sexos;otras causas;267
+1113 Enfermedades del ano y recto K60-K62;Hombres;total;19.334
+1113 Enfermedades del ano y recto K60-K62;Hombres;curación o mejoría;18.185
+1113 Enfermedades del ano y recto K60-K62;Hombres;traslado a otros centros;713
+1113 Enfermedades del ano y recto K60-K62;Hombres;fallecimiento;257
+1113 Enfermedades del ano y recto K60-K62;Hombres;otras causas;179
+1113 Enfermedades del ano y recto K60-K62;Mujeres;total;10.595
+1113 Enfermedades del ano y recto K60-K62;Mujeres;curación o mejoría;9.804
+1113 Enfermedades del ano y recto K60-K62;Mujeres;traslado a otros centros;459
+1113 Enfermedades del ano y recto K60-K62;Mujeres;fallecimiento;244
+1113 Enfermedades del ano y recto K60-K62;Mujeres;otras causas;87
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Ambos sexos;total;21.085
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Ambos sexos;curación o mejoría;17.527
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Ambos sexos;traslado a otros centros;1.133
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Ambos sexos;fallecimiento;2.231
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Ambos sexos;otras causas;194
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Hombres;total;9.665
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Hombres;curación o mejoría;8.038
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Hombres;traslado a otros centros;516
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Hombres;fallecimiento;1.014
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Hombres;otras causas;98
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Mujeres;total;11.419
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Mujeres;curación o mejoría;9.489
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Mujeres;traslado a otros centros;618
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Mujeres;fallecimiento;1.217
+1114 Otras enfermedades del intestino K55, K58-K59, K63;Mujeres;otras causas;95
+1115 Enfermedad alcohólica del hígado K70;Ambos sexos;total;11.615
+1115 Enfermedad alcohólica del hígado K70;Ambos sexos;curación o mejoría;9.371
+1115 Enfermedad alcohólica del hígado K70;Ambos sexos;traslado a otros centros;789
+1115 Enfermedad alcohólica del hígado K70;Ambos sexos;fallecimiento;1.153
+1115 Enfermedad alcohólica del hígado K70;Ambos sexos;otras causas;302
+1115 Enfermedad alcohólica del hígado K70;Hombres;total;9.684
+1115 Enfermedad alcohólica del hígado K70;Hombres;curación o mejoría;7.842
+1115 Enfermedad alcohólica del hígado K70;Hombres;traslado a otros centros;639
+1115 Enfermedad alcohólica del hígado K70;Hombres;fallecimiento;952
+1115 Enfermedad alcohólica del hígado K70;Hombres;otras causas;250
+1115 Enfermedad alcohólica del hígado K70;Mujeres;total;1.931
+1115 Enfermedad alcohólica del hígado K70;Mujeres;curación o mejoría;1.529
+1115 Enfermedad alcohólica del hígado K70;Mujeres;traslado a otros centros;150
+1115 Enfermedad alcohólica del hígado K70;Mujeres;fallecimiento;201
+1115 Enfermedad alcohólica del hígado K70;Mujeres;otras causas;51
+1116 Otras enfermedades del hígado K71-K77;Ambos sexos;total;17.391
+1116 Otras enfermedades del hígado K71-K77;Ambos sexos;curación o mejoría;14.409
+1116 Otras enfermedades del hígado K71-K77;Ambos sexos;traslado a otros centros;1.105
+1116 Otras enfermedades del hígado K71-K77;Ambos sexos;fallecimiento;1.591
+1116 Otras enfermedades del hígado K71-K77;Ambos sexos;otras causas;286
+1116 Otras enfermedades del hígado K71-K77;Hombres;total;9.826
+1116 Otras enfermedades del hígado K71-K77;Hombres;curación o mejoría;8.021
+1116 Otras enfermedades del hígado K71-K77;Hombres;traslado a otros centros;619
+1116 Otras enfermedades del hígado K71-K77;Hombres;fallecimiento;995
+1116 Otras enfermedades del hígado K71-K77;Hombres;otras causas;190
+1116 Otras enfermedades del hígado K71-K77;Mujeres;total;7.566
+1116 Otras enfermedades del hígado K71-K77;Mujeres;curación o mejoría;6.388
+1116 Otras enfermedades del hígado K71-K77;Mujeres;traslado a otros centros;486
+1116 Otras enfermedades del hígado K71-K77;Mujeres;fallecimiento;596
+1116 Otras enfermedades del hígado K71-K77;Mujeres;otras causas;96
+1117 Colelitiasis K80;Ambos sexos;total;101.878
+1117 Colelitiasis K80;Ambos sexos;curación o mejoría;95.978
+1117 Colelitiasis K80;Ambos sexos;traslado a otros centros;4.316
+1117 Colelitiasis K80;Ambos sexos;fallecimiento;926
+1117 Colelitiasis K80;Ambos sexos;otras causas;657
+1117 Colelitiasis K80;Hombres;total;43.222
+1117 Colelitiasis K80;Hombres;curación o mejoría;40.618
+1117 Colelitiasis K80;Hombres;traslado a otros centros;1.839
+1117 Colelitiasis K80;Hombres;fallecimiento;450
+1117 Colelitiasis K80;Hombres;otras causas;315
+1117 Colelitiasis K80;Mujeres;total;58.657
+1117 Colelitiasis K80;Mujeres;curación o mejoría;55.360
+1117 Colelitiasis K80;Mujeres;traslado a otros centros;2.478
+1117 Colelitiasis K80;Mujeres;fallecimiento;477
+1117 Colelitiasis K80;Mujeres;otras causas;342
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Ambos sexos;total;30.640
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Ambos sexos;curación o mejoría;27.297
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Ambos sexos;traslado a otros centros;1.871
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Ambos sexos;fallecimiento;1.084
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Ambos sexos;otras causas;389
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Hombres;total;16.679
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Hombres;curación o mejoría;14.866
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Hombres;traslado a otros centros;1.018
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Hombres;fallecimiento;567
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Hombres;otras causas;228
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Mujeres;total;13.961
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Mujeres;curación o mejoría;12.432
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Mujeres;traslado a otros centros;852
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Mujeres;fallecimiento;518
+1118 Otras enfermedades de la vesícula biliar y del tracto biliar K81-K83;Mujeres;otras causas;160
+1119 Enfermedades pancreáticas K85-K87;Ambos sexos;total;35.344
+1119 Enfermedades pancreáticas K85-K87;Ambos sexos;curación o mejoría;31.878
+1119 Enfermedades pancreáticas K85-K87;Ambos sexos;traslado a otros centros;1.736
+1119 Enfermedades pancreáticas K85-K87;Ambos sexos;fallecimiento;1.052
+1119 Enfermedades pancreáticas K85-K87;Ambos sexos;otras causas;678
+1119 Enfermedades pancreáticas K85-K87;Hombres;total;19.272
+1119 Enfermedades pancreáticas K85-K87;Hombres;curación o mejoría;17.328
+1119 Enfermedades pancreáticas K85-K87;Hombres;traslado a otros centros;910
+1119 Enfermedades pancreáticas K85-K87;Hombres;fallecimiento;552
+1119 Enfermedades pancreáticas K85-K87;Hombres;otras causas;481
+1119 Enfermedades pancreáticas K85-K87;Mujeres;total;16.073
+1119 Enfermedades pancreáticas K85-K87;Mujeres;curación o mejoría;14.550
+1119 Enfermedades pancreáticas K85-K87;Mujeres;traslado a otros centros;826
+1119 Enfermedades pancreáticas K85-K87;Mujeres;fallecimiento;499
+1119 Enfermedades pancreáticas K85-K87;Mujeres;otras causas;197
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Ambos sexos;total;50.854
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Ambos sexos;curación o mejoría;44.972
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Ambos sexos;traslado a otros centros;2.820
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Ambos sexos;fallecimiento;2.488
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Ambos sexos;otras causas;573
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Hombres;total;27.394
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Hombres;curación o mejoría;24.189
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Hombres;traslado a otros centros;1.550
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Hombres;fallecimiento;1.326
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Hombres;otras causas;329
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Mujeres;total;23.460
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Mujeres;curación o mejoría;20.784
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Mujeres;traslado a otros centros;1.270
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Mujeres;fallecimiento;1.162
+1120 Otras enfermedades del aparato digestivo Resto de K00-K95;Mujeres;otras causas;244
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Ambos sexos;total;51.443
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Ambos sexos;curación o mejoría;44.962
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Ambos sexos;traslado a otros centros;3.566
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Ambos sexos;fallecimiento;1.894
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Ambos sexos;otras causas;1.022
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Hombres;total;26.303
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Hombres;curación o mejoría;23.200
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Hombres;traslado a otros centros;1.702
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Hombres;fallecimiento;770
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Hombres;otras causas;631
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Mujeres;total;25.140
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Mujeres;curación o mejoría;21.762
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Mujeres;traslado a otros centros;1.863
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Mujeres;fallecimiento;1.124
+1200 ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO L00-L99;Mujeres;otras causas;391
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Ambos sexos;total;27.964
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Ambos sexos;curación o mejoría;25.237
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Ambos sexos;traslado a otros centros;1.566
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Ambos sexos;fallecimiento;489
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Ambos sexos;otras causas;671
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Hombres;total;16.264
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Hombres;curación o mejoría;14.817
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Hombres;traslado a otros centros;794
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Hombres;fallecimiento;220
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Hombres;otras causas;434
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Mujeres;total;11.699
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Mujeres;curación o mejoría;10.420
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Mujeres;traslado a otros centros;773
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Mujeres;fallecimiento;270
+1201 Infecciones de la piel y del tejido celular subcutáneo L00-L08;Mujeres;otras causas;237
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Ambos sexos;total;1.625
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Ambos sexos;curación o mejoría;1.516
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Ambos sexos;traslado a otros centros;66
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Ambos sexos;fallecimiento;12
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Ambos sexos;otras causas;31
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Hombres;total;827
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Hombres;curación o mejoría;763
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Hombres;traslado a otros centros;40
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Hombres;fallecimiento;4
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Hombres;otras causas;20
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Mujeres;total;798
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Mujeres;curación o mejoría;753
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Mujeres;traslado a otros centros;26
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Mujeres;fallecimiento;8
+1202 Dermatitis, eczema y trastornos papuloescamosos L20-L45;Mujeres;otras causas;11
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Ambos sexos;total;21.854
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Ambos sexos;curación o mejoría;18.209
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Ambos sexos;traslado a otros centros;1.933
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Ambos sexos;fallecimiento;1.393
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Ambos sexos;otras causas;319
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Hombres;total;9.212
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Hombres;curación o mejoría;7.620
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Hombres;traslado a otros centros;868
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Hombres;fallecimiento;546
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Hombres;otras causas;177
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Mujeres;total;12.643
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Mujeres;curación o mejoría;10.589
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Mujeres;traslado a otros centros;1.065
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Mujeres;fallecimiento;846
+1203 Otras enfermedades de la piel y del tejido subcutáneo Resto de L00-L99;Mujeres;otras causas;142
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Ambos sexos;total;335.113
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Ambos sexos;curación o mejoría;315.680
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Ambos sexos;traslado a otros centros;14.372
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Ambos sexos;fallecimiento;1.849
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Ambos sexos;otras causas;3.212
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Hombres;total;160.664
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Hombres;curación o mejoría;152.125
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Hombres;traslado a otros centros;6.129
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Hombres;fallecimiento;844
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Hombres;otras causas;1.566
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Mujeres;total;174.450
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Mujeres;curación o mejoría;163.555
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Mujeres;traslado a otros centros;8.243
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Mujeres;fallecimiento;1.005
+1300 ENFERMEDADES DEL SISTEMA OSTEOMUSCULAR Y DEL TEJIDO CONJUNTIVO  M00-M99;Mujeres;otras causas;1.646
+1301 Coxartrosis [artrosis de la cadera] M16;Ambos sexos;total;37.766
+1301 Coxartrosis [artrosis de la cadera] M16;Ambos sexos;curación o mejoría;35.393
+1301 Coxartrosis [artrosis de la cadera] M16;Ambos sexos;traslado a otros centros;1.876
+1301 Coxartrosis [artrosis de la cadera] M16;Ambos sexos;fallecimiento;43
+1301 Coxartrosis [artrosis de la cadera] M16;Ambos sexos;otras causas;454
+1301 Coxartrosis [artrosis de la cadera] M16;Hombres;total;21.059
+1301 Coxartrosis [artrosis de la cadera] M16;Hombres;curación o mejoría;19.911
+1301 Coxartrosis [artrosis de la cadera] M16;Hombres;traslado a otros centros;874
+1301 Coxartrosis [artrosis de la cadera] M16;Hombres;fallecimiento;26
+1301 Coxartrosis [artrosis de la cadera] M16;Hombres;otras causas;248
+1301 Coxartrosis [artrosis de la cadera] M16;Mujeres;total;16.707
+1301 Coxartrosis [artrosis de la cadera] M16;Mujeres;curación o mejoría;15.482
+1301 Coxartrosis [artrosis de la cadera] M16;Mujeres;traslado a otros centros;1.002
+1301 Coxartrosis [artrosis de la cadera] M16;Mujeres;fallecimiento;17
+1301 Coxartrosis [artrosis de la cadera] M16;Mujeres;otras causas;206
+1302 Gonartrosis [artrosis de la rodilla] M17;Ambos sexos;total;64.540
+1302 Gonartrosis [artrosis de la rodilla] M17;Ambos sexos;curación o mejoría;60.278
+1302 Gonartrosis [artrosis de la rodilla] M17;Ambos sexos;traslado a otros centros;3.370
+1302 Gonartrosis [artrosis de la rodilla] M17;Ambos sexos;fallecimiento;58
+1302 Gonartrosis [artrosis de la rodilla] M17;Ambos sexos;otras causas;834
+1302 Gonartrosis [artrosis de la rodilla] M17;Hombres;total;24.119
+1302 Gonartrosis [artrosis de la rodilla] M17;Hombres;curación o mejoría;22.767
+1302 Gonartrosis [artrosis de la rodilla] M17;Hombres;traslado a otros centros;1.034
+1302 Gonartrosis [artrosis de la rodilla] M17;Hombres;fallecimiento;16
+1302 Gonartrosis [artrosis de la rodilla] M17;Hombres;otras causas;303
+1302 Gonartrosis [artrosis de la rodilla] M17;Mujeres;total;40.422
+1302 Gonartrosis [artrosis de la rodilla] M17;Mujeres;curación o mejoría;37.511
+1302 Gonartrosis [artrosis de la rodilla] M17;Mujeres;traslado a otros centros;2.337
+1302 Gonartrosis [artrosis de la rodilla] M17;Mujeres;fallecimiento;42
+1302 Gonartrosis [artrosis de la rodilla] M17;Mujeres;otras causas;531
+1303 Trastorno interno de rodilla M23;Ambos sexos;total;28.417
+1303 Trastorno interno de rodilla M23;Ambos sexos;curación o mejoría;27.994
+1303 Trastorno interno de rodilla M23;Ambos sexos;traslado a otros centros;242
+1303 Trastorno interno de rodilla M23;Ambos sexos;fallecimiento;6
+1303 Trastorno interno de rodilla M23;Ambos sexos;otras causas;174
+1303 Trastorno interno de rodilla M23;Hombres;total;19.357
+1303 Trastorno interno de rodilla M23;Hombres;curación o mejoría;19.076
+1303 Trastorno interno de rodilla M23;Hombres;traslado a otros centros;163
+1303 Trastorno interno de rodilla M23;Hombres;fallecimiento;6
+1303 Trastorno interno de rodilla M23;Hombres;otras causas;112
+1303 Trastorno interno de rodilla M23;Mujeres;total;9.059
+1303 Trastorno interno de rodilla M23;Mujeres;curación o mejoría;8.919
+1303 Trastorno interno de rodilla M23;Mujeres;traslado a otros centros;78
+1303 Trastorno interno de rodilla M23;Mujeres;fallecimiento;..
+1303 Trastorno interno de rodilla M23;Mujeres;otras causas;62
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Ambos sexos;total;49.958
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Ambos sexos;curación o mejoría;47.893
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Ambos sexos;traslado a otros centros;1.532
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Ambos sexos;fallecimiento;161
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Ambos sexos;otras causas;372
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Hombres;total;22.866
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Hombres;curación o mejoría;21.840
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Hombres;traslado a otros centros;743
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Hombres;fallecimiento;79
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Hombres;otras causas;205
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Mujeres;total;27.092
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Mujeres;curación o mejoría;26.054
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Mujeres;traslado a otros centros;790
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Mujeres;fallecimiento;82
+1304 Otras artropatías M00-M15, M18-M22, M24-M25;Mujeres;otras causas;166
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Ambos sexos;total;6.005
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Ambos sexos;curación o mejoría;5.495
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Ambos sexos;traslado a otros centros;303
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Ambos sexos;fallecimiento;148
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Ambos sexos;otras causas;59
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Hombres;total;2.316
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Hombres;curación o mejoría;2.104
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Hombres;traslado a otros centros;135
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Hombres;fallecimiento;56
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Hombres;otras causas;21
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Mujeres;total;3.690
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Mujeres;curación o mejoría;3.391
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Mujeres;traslado a otros centros;168
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Mujeres;fallecimiento;92
+1305 Trastornos sistémicos del tejido conjuntivo M30-M36;Mujeres;otras causas;38
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Ambos sexos;total;27.298
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Ambos sexos;curación o mejoría;25.656
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Ambos sexos;traslado a otros centros;1.227
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Ambos sexos;fallecimiento;172
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Ambos sexos;otras causas;243
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Hombres;total;12.962
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Hombres;curación o mejoría;12.113
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Hombres;traslado a otros centros;634
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Hombres;fallecimiento;94
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Hombres;otras causas;120
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Mujeres;total;14.336
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Mujeres;curación o mejoría;13.543
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Mujeres;traslado a otros centros;594
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Mujeres;fallecimiento;77
+1306 Dorsopatías deformantes y espondilopatías M40-M49;Mujeres;otras causas;123
+1307 Trastorno del disco intervertebral M50-M51;Ambos sexos;total;30.281
+1307 Trastorno del disco intervertebral M50-M51;Ambos sexos;curación o mejoría;29.179
+1307 Trastorno del disco intervertebral M50-M51;Ambos sexos;traslado a otros centros;871
+1307 Trastorno del disco intervertebral M50-M51;Ambos sexos;fallecimiento;31
+1307 Trastorno del disco intervertebral M50-M51;Ambos sexos;otras causas;200
+1307 Trastorno del disco intervertebral M50-M51;Hombres;total;15.506
+1307 Trastorno del disco intervertebral M50-M51;Hombres;curación o mejoría;14.914
+1307 Trastorno del disco intervertebral M50-M51;Hombres;traslado a otros centros;470
+1307 Trastorno del disco intervertebral M50-M51;Hombres;fallecimiento;18
+1307 Trastorno del disco intervertebral M50-M51;Hombres;otras causas;105
+1307 Trastorno del disco intervertebral M50-M51;Mujeres;total;14.774
+1307 Trastorno del disco intervertebral M50-M51;Mujeres;curación o mejoría;14.265
+1307 Trastorno del disco intervertebral M50-M51;Mujeres;traslado a otros centros;401
+1307 Trastorno del disco intervertebral M50-M51;Mujeres;fallecimiento;12
+1307 Trastorno del disco intervertebral M50-M51;Mujeres;otras causas;96
+1308 Dorsalgia M54;Ambos sexos;total;9.184
+1308 Dorsalgia M54;Ambos sexos;curación o mejoría;8.448
+1308 Dorsalgia M54;Ambos sexos;traslado a otros centros;480
+1308 Dorsalgia M54;Ambos sexos;fallecimiento;72
+1308 Dorsalgia M54;Ambos sexos;otras causas;184
+1308 Dorsalgia M54;Hombres;total;4.081
+1308 Dorsalgia M54;Hombres;curación o mejoría;3.758
+1308 Dorsalgia M54;Hombres;traslado a otros centros;204
+1308 Dorsalgia M54;Hombres;fallecimiento;34
+1308 Dorsalgia M54;Hombres;otras causas;85
+1308 Dorsalgia M54;Mujeres;total;5.103
+1308 Dorsalgia M54;Mujeres;curación o mejoría;4.689
+1308 Dorsalgia M54;Mujeres;traslado a otros centros;276
+1308 Dorsalgia M54;Mujeres;fallecimiento;37
+1308 Dorsalgia M54;Mujeres;otras causas;100
+1309 Trastornos de los tejidos blandos M60-M79;Ambos sexos;total;44.219
+1309 Trastornos de los tejidos blandos M60-M79;Ambos sexos;curación o mejoría;41.912
+1309 Trastornos de los tejidos blandos M60-M79;Ambos sexos;traslado a otros centros;1.552
+1309 Trastornos de los tejidos blandos M60-M79;Ambos sexos;fallecimiento;407
+1309 Trastornos de los tejidos blandos M60-M79;Ambos sexos;otras causas;348
+1309 Trastornos de los tejidos blandos M60-M79;Hombres;total;23.066
+1309 Trastornos de los tejidos blandos M60-M79;Hombres;curación o mejoría;21.885
+1309 Trastornos de los tejidos blandos M60-M79;Hombres;traslado a otros centros;773
+1309 Trastornos de los tejidos blandos M60-M79;Hombres;fallecimiento;203
+1309 Trastornos de los tejidos blandos M60-M79;Hombres;otras causas;205
+1309 Trastornos de los tejidos blandos M60-M79;Mujeres;total;21.153
+1309 Trastornos de los tejidos blandos M60-M79;Mujeres;curación o mejoría;20.027
+1309 Trastornos de los tejidos blandos M60-M79;Mujeres;traslado a otros centros;779
+1309 Trastornos de los tejidos blandos M60-M79;Mujeres;fallecimiento;204
+1309 Trastornos de los tejidos blandos M60-M79;Mujeres;otras causas;142
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Ambos sexos;total;37.446
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Ambos sexos;curación o mejoría;33.432
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Ambos sexos;traslado a otros centros;2.918
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Ambos sexos;fallecimiento;752
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Ambos sexos;otras causas;344
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Hombres;total;15.331
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Hombres;curación o mejoría;13.759
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Hombres;traslado a otros centros;1.099
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Hombres;fallecimiento;311
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Hombres;otras causas;162
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Mujeres;total;22.115
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Mujeres;curación o mejoría;19.674
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Mujeres;traslado a otros centros;1.819
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Mujeres;fallecimiento;441
+1310 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo  M26-M27, M53, M80-M99;Mujeres;otras causas;182
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Ambos sexos;total;361.013
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Ambos sexos;curación o mejoría;329.962
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Ambos sexos;traslado a otros centros;16.178
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Ambos sexos;fallecimiento;10.716
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Ambos sexos;otras causas;4.158
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Hombres;total;177.421
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Hombres;curación o mejoría;162.618
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Hombres;traslado a otros centros;7.932
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Hombres;fallecimiento;4.766
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Hombres;otras causas;2.105
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Mujeres;total;183.592
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Mujeres;curación o mejoría;167.344
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Mujeres;traslado a otros centros;8.246
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Mujeres;fallecimiento;5.950
+1400 ENFERMEDADES DEL SISTEMA GENITOURINARIO N00-N99;Mujeres;otras causas;2.053
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Ambos sexos;total;41.792
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Ambos sexos;curación o mejoría;38.553
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Ambos sexos;traslado a otros centros;1.992
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Ambos sexos;fallecimiento;416
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Ambos sexos;otras causas;830
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Hombres;total;17.301
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Hombres;curación o mejoría;16.008
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Hombres;traslado a otros centros;803
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Hombres;fallecimiento;193
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Hombres;otras causas;297
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Mujeres;total;24.491
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Mujeres;curación o mejoría;22.545
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Mujeres;traslado a otros centros;1.189
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Mujeres;fallecimiento;223
+1401 Enfermedades glomerulares y renales túbulo-intersticiales N00-N16;Mujeres;otras causas;534
+1402 Insuficiencia renal N17-N19;Ambos sexos;total;33.447
+1402 Insuficiencia renal N17-N19;Ambos sexos;curación o mejoría;26.278
+1402 Insuficiencia renal N17-N19;Ambos sexos;traslado a otros centros;2.709
+1402 Insuficiencia renal N17-N19;Ambos sexos;fallecimiento;4.085
+1402 Insuficiencia renal N17-N19;Ambos sexos;otras causas;374
+1402 Insuficiencia renal N17-N19;Hombres;total;19.147
+1402 Insuficiencia renal N17-N19;Hombres;curación o mejoría;15.343
+1402 Insuficiencia renal N17-N19;Hombres;traslado a otros centros;1.549
+1402 Insuficiencia renal N17-N19;Hombres;fallecimiento;2.029
+1402 Insuficiencia renal N17-N19;Hombres;otras causas;226
+1402 Insuficiencia renal N17-N19;Mujeres;total;14.300
+1402 Insuficiencia renal N17-N19;Mujeres;curación o mejoría;10.935
+1402 Insuficiencia renal N17-N19;Mujeres;traslado a otros centros;1.161
+1402 Insuficiencia renal N17-N19;Mujeres;fallecimiento;2.057
+1402 Insuficiencia renal N17-N19;Mujeres;otras causas;147
+1403 Litiasis urinaria N20-N23;Ambos sexos;total;42.730
+1403 Litiasis urinaria N20-N23;Ambos sexos;curación o mejoría;41.437
+1403 Litiasis urinaria N20-N23;Ambos sexos;traslado a otros centros;871
+1403 Litiasis urinaria N20-N23;Ambos sexos;fallecimiento;77
+1403 Litiasis urinaria N20-N23;Ambos sexos;otras causas;345
+1403 Litiasis urinaria N20-N23;Hombres;total;25.360
+1403 Litiasis urinaria N20-N23;Hombres;curación o mejoría;24.580
+1403 Litiasis urinaria N20-N23;Hombres;traslado a otros centros;537
+1403 Litiasis urinaria N20-N23;Hombres;fallecimiento;42
+1403 Litiasis urinaria N20-N23;Hombres;otras causas;200
+1403 Litiasis urinaria N20-N23;Mujeres;total;17.370
+1403 Litiasis urinaria N20-N23;Mujeres;curación o mejoría;16.857
+1403 Litiasis urinaria N20-N23;Mujeres;traslado a otros centros;334
+1403 Litiasis urinaria N20-N23;Mujeres;fallecimiento;35
+1403 Litiasis urinaria N20-N23;Mujeres;otras causas;144
+1404 Otras enfermedades del sistema urinario N25-N39;Ambos sexos;total;109.870
+1404 Otras enfermedades del sistema urinario N25-N39;Ambos sexos;curación o mejoría;94.812
+1404 Otras enfermedades del sistema urinario N25-N39;Ambos sexos;traslado a otros centros;7.859
+1404 Otras enfermedades del sistema urinario N25-N39;Ambos sexos;fallecimiento;5.728
+1404 Otras enfermedades del sistema urinario N25-N39;Ambos sexos;otras causas;1.470
+1404 Otras enfermedades del sistema urinario N25-N39;Hombres;total;53.085
+1404 Otras enfermedades del sistema urinario N25-N39;Hombres;curación o mejoría;46.933
+1404 Otras enfermedades del sistema urinario N25-N39;Hombres;traslado a otros centros;3.216
+1404 Otras enfermedades del sistema urinario N25-N39;Hombres;fallecimiento;2.225
+1404 Otras enfermedades del sistema urinario N25-N39;Hombres;otras causas;711
+1404 Otras enfermedades del sistema urinario N25-N39;Mujeres;total;56.785
+1404 Otras enfermedades del sistema urinario N25-N39;Mujeres;curación o mejoría;47.880
+1404 Otras enfermedades del sistema urinario N25-N39;Mujeres;traslado a otros centros;4.643
+1404 Otras enfermedades del sistema urinario N25-N39;Mujeres;fallecimiento;3.502
+1404 Otras enfermedades del sistema urinario N25-N39;Mujeres;otras causas;759
+1405 Hiperplasia prostática N40;Ambos sexos;total;31.511
+1405 Hiperplasia prostática N40;Ambos sexos;curación o mejoría;30.647
+1405 Hiperplasia prostática N40;Ambos sexos;traslado a otros centros;616
+1405 Hiperplasia prostática N40;Ambos sexos;fallecimiento;68
+1405 Hiperplasia prostática N40;Ambos sexos;otras causas;180
+1405 Hiperplasia prostática N40;Hombres;total;31.511
+1405 Hiperplasia prostática N40;Hombres;curación o mejoría;30.647
+1405 Hiperplasia prostática N40;Hombres;traslado a otros centros;616
+1405 Hiperplasia prostática N40;Hombres;fallecimiento;68
+1405 Hiperplasia prostática N40;Hombres;otras causas;180
+1405 Hiperplasia prostática N40;Mujeres;total;..
+1405 Hiperplasia prostática N40;Mujeres;curación o mejoría;..
+1405 Hiperplasia prostática N40;Mujeres;traslado a otros centros;..
+1405 Hiperplasia prostática N40;Mujeres;fallecimiento;..
+1405 Hiperplasia prostática N40;Mujeres;otras causas;..
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Ambos sexos;total;23.552
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Ambos sexos;curación o mejoría;21.984
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Ambos sexos;traslado a otros centros;968
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Ambos sexos;fallecimiento;159
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Ambos sexos;otras causas;442
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Hombres;total;23.552
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Hombres;curación o mejoría;21.984
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Hombres;traslado a otros centros;968
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Hombres;fallecimiento;159
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Hombres;otras causas;442
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Mujeres;total;..
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Mujeres;curación o mejoría;..
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Mujeres;traslado a otros centros;..
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Mujeres;fallecimiento;..
+1406 Otras enfermedades de los órganos genitales masculinos N41-N53;Mujeres;otras causas;..
+1407 Trastornos de la mama N60-N65;Ambos sexos;total;27.855
+1407 Trastornos de la mama N60-N65;Ambos sexos;curación o mejoría;27.579
+1407 Trastornos de la mama N60-N65;Ambos sexos;traslado a otros centros;138
+1407 Trastornos de la mama N60-N65;Ambos sexos;fallecimiento;19
+1407 Trastornos de la mama N60-N65;Ambos sexos;otras causas;119
+1407 Trastornos de la mama N60-N65;Hombres;total;1.631
+1407 Trastornos de la mama N60-N65;Hombres;curación o mejoría;1.594
+1407 Trastornos de la mama N60-N65;Hombres;traslado a otros centros;26
+1407 Trastornos de la mama N60-N65;Hombres;fallecimiento;..
+1407 Trastornos de la mama N60-N65;Hombres;otras causas;10
+1407 Trastornos de la mama N60-N65;Mujeres;total;26.224
+1407 Trastornos de la mama N60-N65;Mujeres;curación o mejoría;25.984
+1407 Trastornos de la mama N60-N65;Mujeres;traslado a otros centros;111
+1407 Trastornos de la mama N60-N65;Mujeres;fallecimiento;19
+1407 Trastornos de la mama N60-N65;Mujeres;otras causas;109
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Ambos sexos;total;7.647
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Ambos sexos;curación o mejoría;7.349
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Ambos sexos;traslado a otros centros;160
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Ambos sexos;fallecimiento;42
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Ambos sexos;otras causas;96
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Hombres;total;..
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Hombres;curación o mejoría;..
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Hombres;traslado a otros centros;..
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Hombres;fallecimiento;..
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Hombres;otras causas;..
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Mujeres;total;7.647
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Mujeres;curación o mejoría;7.349
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Mujeres;traslado a otros centros;160
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Mujeres;fallecimiento;42
+1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77;Mujeres;otras causas;96
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Ambos sexos;total;2.253
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Ambos sexos;curación o mejoría;2.169
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Ambos sexos;traslado a otros centros;40
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Ambos sexos;fallecimiento;14
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Ambos sexos;otras causas;30
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Hombres;total;..
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Hombres;curación o mejoría;..
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Hombres;traslado a otros centros;..
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Hombres;fallecimiento;..
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Hombres;otras causas;..
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Mujeres;total;2.253
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Mujeres;curación o mejoría;2.169
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Mujeres;traslado a otros centros;40
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Mujeres;fallecimiento;14
+1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95;Mujeres;otras causas;30
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Ambos sexos;total;40.356
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Ambos sexos;curación o mejoría;39.153
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Ambos sexos;traslado a otros centros;824
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Ambos sexos;fallecimiento;107
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Ambos sexos;otras causas;273
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Hombres;total;5.834
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Hombres;curación o mejoría;5.529
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Hombres;traslado a otros centros;216
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Hombres;fallecimiento;50
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Hombres;otras causas;39
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Mujeres;total;34.522
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Mujeres;curación o mejoría;33.624
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Mujeres;traslado a otros centros;607
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Mujeres;fallecimiento;57
+1410 Otros trastornos del sistema genitourinario Resto de N00-N99;Mujeres;otras causas;234
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Ambos sexos;total;368.685
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Ambos sexos;curación o mejoría;363.078
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Ambos sexos;traslado a otros centros;3.059
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Ambos sexos;fallecimiento;22
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Ambos sexos;otras causas;2.526
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Hombres;total;..
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Hombres;curación o mejoría;..
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Hombres;traslado a otros centros;..
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Hombres;fallecimiento;..
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Hombres;otras causas;..
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Mujeres;total;368.685
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Mujeres;curación o mejoría;363.078
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Mujeres;traslado a otros centros;3.059
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Mujeres;fallecimiento;22
+1500 COMPLICACIONES DEL EMBARAZO, PARTO Y PUERPERIO O00-O9A;Mujeres;otras causas;2.526
+1501 Aborto legalmente inducido O04;Ambos sexos;total;288
+1501 Aborto legalmente inducido O04;Ambos sexos;curación o mejoría;279
+1501 Aborto legalmente inducido O04;Ambos sexos;traslado a otros centros;1
+1501 Aborto legalmente inducido O04;Ambos sexos;fallecimiento;..
+1501 Aborto legalmente inducido O04;Ambos sexos;otras causas;8
+1501 Aborto legalmente inducido O04;Hombres;total;..
+1501 Aborto legalmente inducido O04;Hombres;curación o mejoría;..
+1501 Aborto legalmente inducido O04;Hombres;traslado a otros centros;..
+1501 Aborto legalmente inducido O04;Hombres;fallecimiento;..
+1501 Aborto legalmente inducido O04;Hombres;otras causas;..
+1501 Aborto legalmente inducido O04;Mujeres;total;288
+1501 Aborto legalmente inducido O04;Mujeres;curación o mejoría;279
+1501 Aborto legalmente inducido O04;Mujeres;traslado a otros centros;1
+1501 Aborto legalmente inducido O04;Mujeres;fallecimiento;..
+1501 Aborto legalmente inducido O04;Mujeres;otras causas;8
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Ambos sexos;total;13.375
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Ambos sexos;curación o mejoría;13.126
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Ambos sexos;traslado a otros centros;111
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Ambos sexos;fallecimiento;1
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Ambos sexos;otras causas;138
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Hombres;total;..
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Hombres;curación o mejoría;..
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Hombres;traslado a otros centros;..
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Hombres;fallecimiento;..
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Hombres;otras causas;..
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Mujeres;total;13.375
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Mujeres;curación o mejoría;13.126
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Mujeres;traslado a otros centros;111
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Mujeres;fallecimiento;1
+1502 Otro embarazo con resultado abortivo O00-O03, O05-O08;Mujeres;otras causas;138
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Ambos sexos;total;236.664
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Ambos sexos;curación o mejoría;233.031
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Ambos sexos;traslado a otros centros;2.010
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Ambos sexos;fallecimiento;17
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Ambos sexos;otras causas;1.606
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Hombres;total;..
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Hombres;curación o mejoría;..
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Hombres;traslado a otros centros;..
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Hombres;fallecimiento;..
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Hombres;otras causas;..
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Mujeres;total;236.664
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Mujeres;curación o mejoría;233.031
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Mujeres;traslado a otros centros;2.010
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Mujeres;fallecimiento;17
+1503 Complicaciones del embarazo, principalmente en el período antenatal O10-O48;Mujeres;otras causas;1.606
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Ambos sexos;total;70.837
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Ambos sexos;curación o mejoría;69.905
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Ambos sexos;traslado a otros centros;534
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Ambos sexos;fallecimiento;..
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Ambos sexos;otras causas;398
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Hombres;total;..
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Hombres;curación o mejoría;..
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Hombres;traslado a otros centros;..
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Hombres;fallecimiento;..
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Hombres;otras causas;..
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Mujeres;total;70.837
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Mujeres;curación o mejoría;69.905
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Mujeres;traslado a otros centros;534
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Mujeres;fallecimiento;..
+1504 Complicaciones del parto y del trabajo de parto O60-O77;Mujeres;otras causas;398
+1505 Parto en un caso totalmente normal O80;Ambos sexos;total;15.118
+1505 Parto en un caso totalmente normal O80;Ambos sexos;curación o mejoría;14.942
+1505 Parto en un caso totalmente normal O80;Ambos sexos;traslado a otros centros;77
+1505 Parto en un caso totalmente normal O80;Ambos sexos;fallecimiento;..
+1505 Parto en un caso totalmente normal O80;Ambos sexos;otras causas;98
+1505 Parto en un caso totalmente normal O80;Hombres;total;..
+1505 Parto en un caso totalmente normal O80;Hombres;curación o mejoría;..
+1505 Parto en un caso totalmente normal O80;Hombres;traslado a otros centros;..
+1505 Parto en un caso totalmente normal O80;Hombres;fallecimiento;..
+1505 Parto en un caso totalmente normal O80;Hombres;otras causas;..
+1505 Parto en un caso totalmente normal O80;Mujeres;total;15.118
+1505 Parto en un caso totalmente normal O80;Mujeres;curación o mejoría;14.942
+1505 Parto en un caso totalmente normal O80;Mujeres;traslado a otros centros;77
+1505 Parto en un caso totalmente normal O80;Mujeres;fallecimiento;..
+1505 Parto en un caso totalmente normal O80;Mujeres;otras causas;98
+1506 Otros partos O82;Ambos sexos;total;2.529
+1506 Otros partos O82;Ambos sexos;curación o mejoría;2.513
+1506 Otros partos O82;Ambos sexos;traslado a otros centros;4
+1506 Otros partos O82;Ambos sexos;fallecimiento;..
+1506 Otros partos O82;Ambos sexos;otras causas;12
+1506 Otros partos O82;Hombres;total;..
+1506 Otros partos O82;Hombres;curación o mejoría;..
+1506 Otros partos O82;Hombres;traslado a otros centros;..
+1506 Otros partos O82;Hombres;fallecimiento;..
+1506 Otros partos O82;Hombres;otras causas;..
+1506 Otros partos O82;Mujeres;total;2.529
+1506 Otros partos O82;Mujeres;curación o mejoría;2.513
+1506 Otros partos O82;Mujeres;traslado a otros centros;4
+1506 Otros partos O82;Mujeres;fallecimiento;..
+1506 Otros partos O82;Mujeres;otras causas;12
+1507 Complicaciones del puerperio O85-O92;Ambos sexos;total;3.890
+1507 Complicaciones del puerperio O85-O92;Ambos sexos;curación o mejoría;3.792
+1507 Complicaciones del puerperio O85-O92;Ambos sexos;traslado a otros centros;50
+1507 Complicaciones del puerperio O85-O92;Ambos sexos;fallecimiento;..
+1507 Complicaciones del puerperio O85-O92;Ambos sexos;otras causas;48
+1507 Complicaciones del puerperio O85-O92;Hombres;total;..
+1507 Complicaciones del puerperio O85-O92;Hombres;curación o mejoría;..
+1507 Complicaciones del puerperio O85-O92;Hombres;traslado a otros centros;..
+1507 Complicaciones del puerperio O85-O92;Hombres;fallecimiento;..
+1507 Complicaciones del puerperio O85-O92;Hombres;otras causas;..
+1507 Complicaciones del puerperio O85-O92;Mujeres;total;3.890
+1507 Complicaciones del puerperio O85-O92;Mujeres;curación o mejoría;3.792
+1507 Complicaciones del puerperio O85-O92;Mujeres;traslado a otros centros;50
+1507 Complicaciones del puerperio O85-O92;Mujeres;fallecimiento;..
+1507 Complicaciones del puerperio O85-O92;Mujeres;otras causas;48
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Ambos sexos;total;25.985
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Ambos sexos;curación o mejoría;25.491
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Ambos sexos;traslado a otros centros;272
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Ambos sexos;fallecimiento;4
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Ambos sexos;otras causas;217
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Hombres;total;..
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Hombres;curación o mejoría;..
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Hombres;traslado a otros centros;..
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Hombres;fallecimiento;..
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Hombres;otras causas;..
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Mujeres;total;25.985
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Mujeres;curación o mejoría;25.491
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Mujeres;traslado a otros centros;272
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Mujeres;fallecimiento;4
+1508 Otras afecciones obstétricas no clasificadas en otra parte O94, O95-O99, O9A, O09;Mujeres;otras causas;217
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Ambos sexos;total;56.687
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Ambos sexos;curación o mejoría;53.730
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Ambos sexos;traslado a otros centros;1.823
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Ambos sexos;fallecimiento;421
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Ambos sexos;otras causas;713
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Hombres;total;31.386
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Hombres;curación o mejoría;29.736
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Hombres;traslado a otros centros;1.027
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Hombres;fallecimiento;240
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Hombres;otras causas;383
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Mujeres;total;25.301
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Mujeres;curación o mejoría;23.995
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Mujeres;traslado a otros centros;796
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Mujeres;fallecimiento;181
+1600 CIERTAS ENFERMEDADES CON ORIGEN EN EL PERÍODO PERINATAL P00-P96;Mujeres;otras causas;329
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Ambos sexos;total;11.317
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Ambos sexos;curación o mejoría;10.399
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Ambos sexos;traslado a otros centros;496
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Ambos sexos;fallecimiento;216
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Ambos sexos;otras causas;206
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Hombres;total;6.162
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Hombres;curación o mejoría;5.686
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Hombres;traslado a otros centros;249
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Hombres;fallecimiento;129
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Hombres;otras causas;98
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Mujeres;total;5.155
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Mujeres;curación o mejoría;4.713
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Mujeres;traslado a otros centros;247
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Mujeres;fallecimiento;87
+1601 Trastornos relacionados con gestación acortada y bajo peso en el nacimiento P07;Mujeres;otras causas;108
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Ambos sexos;total;45.369
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Ambos sexos;curación o mejoría;43.331
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Ambos sexos;traslado a otros centros;1.327
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Ambos sexos;fallecimiento;205
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Ambos sexos;otras causas;507
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Hombres;total;25.224
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Hombres;curación o mejoría;24.050
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Hombres;traslado a otros centros;778
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Hombres;fallecimiento;111
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Hombres;otras causas;286
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Mujeres;total;20.145
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Mujeres;curación o mejoría;19.282
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Mujeres;traslado a otros centros;549
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Mujeres;fallecimiento;94
+1602 Otras condiciones con origen en el período perinatal Resto de P00-P96;Mujeres;otras causas;221
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Ambos sexos;total;30.200
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Ambos sexos;curación o mejoría;29.177
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Ambos sexos;traslado a otros centros;688
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Ambos sexos;fallecimiento;153
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Ambos sexos;otras causas;181
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Hombres;total;16.578
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Hombres;curación o mejoría;15.999
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Hombres;traslado a otros centros;377
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Hombres;fallecimiento;95
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Hombres;otras causas;107
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Mujeres;total;13.622
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Mujeres;curación o mejoría;13.179
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Mujeres;traslado a otros centros;311
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Mujeres;fallecimiento;58
+1700 ANOMALÍAS CONGNITAS Q00-Q99;Mujeres;otras causas;74
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Ambos sexos;total;170.490
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Ambos sexos;curación o mejoría;152.899
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Ambos sexos;traslado a otros centros;9.287
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Ambos sexos;fallecimiento;5.179
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Ambos sexos;otras causas;3.125
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Hombres;total;91.948
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Hombres;curación o mejoría;82.322
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Hombres;traslado a otros centros;5.062
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Hombres;fallecimiento;2.778
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Hombres;otras causas;1.786
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Mujeres;total;78.542
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Mujeres;curación o mejoría;70.577
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Mujeres;traslado a otros centros;4.226
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Mujeres;fallecimiento;2.401
+1800 SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE R00-R99;Mujeres;otras causas;1.339
+1801 Dolor de garganta y en el pecho R07;Ambos sexos;total;16.752
+1801 Dolor de garganta y en el pecho R07;Ambos sexos;curación o mejoría;16.025
+1801 Dolor de garganta y en el pecho R07;Ambos sexos;traslado a otros centros;419
+1801 Dolor de garganta y en el pecho R07;Ambos sexos;fallecimiento;48
+1801 Dolor de garganta y en el pecho R07;Ambos sexos;otras causas;260
+1801 Dolor de garganta y en el pecho R07;Hombres;total;9.713
+1801 Dolor de garganta y en el pecho R07;Hombres;curación o mejoría;9.259
+1801 Dolor de garganta y en el pecho R07;Hombres;traslado a otros centros;251
+1801 Dolor de garganta y en el pecho R07;Hombres;fallecimiento;28
+1801 Dolor de garganta y en el pecho R07;Hombres;otras causas;175
+1801 Dolor de garganta y en el pecho R07;Mujeres;total;7.039
+1801 Dolor de garganta y en el pecho R07;Mujeres;curación o mejoría;6.766
+1801 Dolor de garganta y en el pecho R07;Mujeres;traslado a otros centros;169
+1801 Dolor de garganta y en el pecho R07;Mujeres;fallecimiento;19
+1801 Dolor de garganta y en el pecho R07;Mujeres;otras causas;84
+1802 Dolor abdominal R10;Ambos sexos;total;17.357
+1802 Dolor abdominal R10;Ambos sexos;curación o mejoría;16.239
+1802 Dolor abdominal R10;Ambos sexos;traslado a otros centros;500
+1802 Dolor abdominal R10;Ambos sexos;fallecimiento;189
+1802 Dolor abdominal R10;Ambos sexos;otras causas;429
+1802 Dolor abdominal R10;Hombres;total;6.687
+1802 Dolor abdominal R10;Hombres;curación o mejoría;6.234
+1802 Dolor abdominal R10;Hombres;traslado a otros centros;206
+1802 Dolor abdominal R10;Hombres;fallecimiento;76
+1802 Dolor abdominal R10;Hombres;otras causas;171
+1802 Dolor abdominal R10;Mujeres;total;10.670
+1802 Dolor abdominal R10;Mujeres;curación o mejoría;10.005
+1802 Dolor abdominal R10;Mujeres;traslado a otros centros;295
+1802 Dolor abdominal R10;Mujeres;fallecimiento;113
+1802 Dolor abdominal R10;Mujeres;otras causas;257
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Ambos sexos;total;922
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Ambos sexos;curación o mejoría;658
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Ambos sexos;traslado a otros centros;186
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Ambos sexos;fallecimiento;62
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Ambos sexos;otras causas;16
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Hombres;total;483
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Hombres;curación o mejoría;347
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Hombres;traslado a otros centros;94
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Hombres;fallecimiento;34
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Hombres;otras causas;7
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Mujeres;total;440
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Mujeres;curación o mejoría;311
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Mujeres;traslado a otros centros;92
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Mujeres;fallecimiento;28
+1803 Otras causas desconocidas no especificadas de morbilidad y mortalidad R69;Mujeres;otras causas;8
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Ambos sexos;total;135.459
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Ambos sexos;curación o mejoría;119.976
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Ambos sexos;traslado a otros centros;8.182
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Ambos sexos;fallecimiento;4.880
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Ambos sexos;otras causas;2.421
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Hombres;total;75.065
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Hombres;curación o mejoría;66.482
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Hombres;traslado a otros centros;4.511
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Hombres;fallecimiento;2.640
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Hombres;otras causas;1.431
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Mujeres;total;60.394
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Mujeres;curación o mejoría;53.494
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Mujeres;traslado a otros centros;3.671
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Mujeres;fallecimiento;2.240
+1804 Otros síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte Resto de R00-R99;Mujeres;otras causas;989
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Ambos sexos;total;449.406
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Ambos sexos;curación o mejoría;391.834
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Ambos sexos;traslado a otros centros;38.313
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Ambos sexos;fallecimiento;12.710
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Ambos sexos;otras causas;6.550
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Hombres;total;228.239
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Hombres;curación o mejoría;200.408
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Hombres;traslado a otros centros;17.777
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Hombres;fallecimiento;6.315
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Hombres;otras causas;3.739
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Mujeres;total;221.167
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Mujeres;curación o mejoría;191.426
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Mujeres;traslado a otros centros;20.536
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Mujeres;fallecimiento;6.395
+1900 LESIONES Y ENVENENAMIENTOS S00-T88;Mujeres;otras causas;2.811
+1901 Traumatismo intracraneal S06;Ambos sexos;total;27.985
+1901 Traumatismo intracraneal S06;Ambos sexos;curación o mejoría;21.143
+1901 Traumatismo intracraneal S06;Ambos sexos;traslado a otros centros;3.167
+1901 Traumatismo intracraneal S06;Ambos sexos;fallecimiento;3.051
+1901 Traumatismo intracraneal S06;Ambos sexos;otras causas;623
+1901 Traumatismo intracraneal S06;Hombres;total;15.629
+1901 Traumatismo intracraneal S06;Hombres;curación o mejoría;11.627
+1901 Traumatismo intracraneal S06;Hombres;traslado a otros centros;1.850
+1901 Traumatismo intracraneal S06;Hombres;fallecimiento;1.752
+1901 Traumatismo intracraneal S06;Hombres;otras causas;400
+1901 Traumatismo intracraneal S06;Mujeres;total;12.356
+1901 Traumatismo intracraneal S06;Mujeres;curación o mejoría;9.517
+1901 Traumatismo intracraneal S06;Mujeres;traslado a otros centros;1.317
+1901 Traumatismo intracraneal S06;Mujeres;fallecimiento;1.298
+1901 Traumatismo intracraneal S06;Mujeres;otras causas;223
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Ambos sexos;total;14.960
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Ambos sexos;curación o mejoría;13.458
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Ambos sexos;traslado a otros centros;833
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Ambos sexos;fallecimiento;306
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Ambos sexos;otras causas;363
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Hombres;total;9.916
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Hombres;curación o mejoría;8.970
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Hombres;traslado a otros centros;530
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Hombres;fallecimiento;182
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Hombres;otras causas;234
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Mujeres;total;5.044
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Mujeres;curación o mejoría;4.488
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Mujeres;traslado a otros centros;302
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Mujeres;fallecimiento;124
+1902 Otros traumatismos de la cabeza S00-S05, S07-S09;Mujeres;otras causas;130
+1903 Fractura de radio y cúbito S52;Ambos sexos;total;28.780
+1903 Fractura de radio y cúbito S52;Ambos sexos;curación o mejoría;27.424
+1903 Fractura de radio y cúbito S52;Ambos sexos;traslado a otros centros;1.082
+1903 Fractura de radio y cúbito S52;Ambos sexos;fallecimiento;37
+1903 Fractura de radio y cúbito S52;Ambos sexos;otras causas;237
+1903 Fractura de radio y cúbito S52;Hombres;total;12.928
+1903 Fractura de radio y cúbito S52;Hombres;curación o mejoría;12.283
+1903 Fractura de radio y cúbito S52;Hombres;traslado a otros centros;516
+1903 Fractura de radio y cúbito S52;Hombres;fallecimiento;18
+1903 Fractura de radio y cúbito S52;Hombres;otras causas;112
+1903 Fractura de radio y cúbito S52;Mujeres;total;15.851
+1903 Fractura de radio y cúbito S52;Mujeres;curación o mejoría;15.141
+1903 Fractura de radio y cúbito S52;Mujeres;traslado a otros centros;566
+1903 Fractura de radio y cúbito S52;Mujeres;fallecimiento;19
+1903 Fractura de radio y cúbito S52;Mujeres;otras causas;125
+1904 Fractura del fémur S72;Ambos sexos;total;75.850
+1904 Fractura del fémur S72;Ambos sexos;curación o mejoría;59.088
+1904 Fractura del fémur S72;Ambos sexos;traslado a otros centros;12.245
+1904 Fractura del fémur S72;Ambos sexos;fallecimiento;3.646
+1904 Fractura del fémur S72;Ambos sexos;otras causas;870
+1904 Fractura del fémur S72;Hombres;total;22.819
+1904 Fractura del fémur S72;Hombres;curación o mejoría;17.510
+1904 Fractura del fémur S72;Hombres;traslado a otros centros;3.671
+1904 Fractura del fémur S72;Hombres;fallecimiento;1.345
+1904 Fractura del fémur S72;Hombres;otras causas;293
+1904 Fractura del fémur S72;Mujeres;total;53.031
+1904 Fractura del fémur S72;Mujeres;curación o mejoría;41.578
+1904 Fractura del fémur S72;Mujeres;traslado a otros centros;8.574
+1904 Fractura del fémur S72;Mujeres;fallecimiento;2.301
+1904 Fractura del fémur S72;Mujeres;otras causas;577
+1905 Fractura de la pierna, incluido el tobillo S82;Ambos sexos;total;42.564
+1905 Fractura de la pierna, incluido el tobillo S82;Ambos sexos;curación o mejoría;39.236
+1905 Fractura de la pierna, incluido el tobillo S82;Ambos sexos;traslado a otros centros;2.765
+1905 Fractura de la pierna, incluido el tobillo S82;Ambos sexos;fallecimiento;127
+1905 Fractura de la pierna, incluido el tobillo S82;Ambos sexos;otras causas;437
+1905 Fractura de la pierna, incluido el tobillo S82;Hombres;total;19.706
+1905 Fractura de la pierna, incluido el tobillo S82;Hombres;curación o mejoría;18.177
+1905 Fractura de la pierna, incluido el tobillo S82;Hombres;traslado a otros centros;1.272
+1905 Fractura de la pierna, incluido el tobillo S82;Hombres;fallecimiento;31
+1905 Fractura de la pierna, incluido el tobillo S82;Hombres;otras causas;226
+1905 Fractura de la pierna, incluido el tobillo S82;Mujeres;total;22.858
+1905 Fractura de la pierna, incluido el tobillo S82;Mujeres;curación o mejoría;21.059
+1905 Fractura de la pierna, incluido el tobillo S82;Mujeres;traslado a otros centros;1.493
+1905 Fractura de la pierna, incluido el tobillo S82;Mujeres;fallecimiento;95
+1905 Fractura de la pierna, incluido el tobillo S82;Mujeres;otras causas;211
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Ambos sexos;total;130.632
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Ambos sexos;curación o mejoría;117.921
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Ambos sexos;traslado a otros centros;9.339
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Ambos sexos;fallecimiento;1.556
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Ambos sexos;otras causas;1.816
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Hombres;total;80.952
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Hombres;curación o mejoría;73.742
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Hombres;traslado a otros centros;5.158
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Hombres;fallecimiento;858
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Hombres;otras causas;1.194
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Mujeres;total;49.679
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Mujeres;curación o mejoría;44.179
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Mujeres;traslado a otros centros;4.181
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Mujeres;fallecimiento;698
+1906 Otros traumatismos  S10-S51, S53-S71, S73-S81, S83-T14, T79;Mujeres;otras causas;622
+1907 Quemaduras T20-T32;Ambos sexos;total;2.745
+1907 Quemaduras T20-T32;Ambos sexos;curación o mejoría;2.427
+1907 Quemaduras T20-T32;Ambos sexos;traslado a otros centros;175
+1907 Quemaduras T20-T32;Ambos sexos;fallecimiento;94
+1907 Quemaduras T20-T32;Ambos sexos;otras causas;50
+1907 Quemaduras T20-T32;Hombres;total;1.768
+1907 Quemaduras T20-T32;Hombres;curación o mejoría;1.546
+1907 Quemaduras T20-T32;Hombres;traslado a otros centros;125
+1907 Quemaduras T20-T32;Hombres;fallecimiento;55
+1907 Quemaduras T20-T32;Hombres;otras causas;42
+1907 Quemaduras T20-T32;Mujeres;total;977
+1907 Quemaduras T20-T32;Mujeres;curación o mejoría;880
+1907 Quemaduras T20-T32;Mujeres;traslado a otros centros;50
+1907 Quemaduras T20-T32;Mujeres;fallecimiento;39
+1907 Quemaduras T20-T32;Mujeres;otras causas;8
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Ambos sexos;total;17.149
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Ambos sexos;curación o mejoría;14.273
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Ambos sexos;traslado a otros centros;1.850
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Ambos sexos;fallecimiento;356
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Ambos sexos;otras causas;671
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Hombres;total;7.318
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Hombres;curación o mejoría;6.076
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Hombres;traslado a otros centros;711
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Hombres;fallecimiento;180
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Hombres;otras causas;352
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Mujeres;total;9.832
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Mujeres;curación o mejoría;8.197
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Mujeres;traslado a otros centros;1.140
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Mujeres;fallecimiento;176
+1908 Envenenamientos por drogas, medicamentos y sustancias biológicas y efectos tóxicos de sustancias principalmente no medicamentosas con respecto a su origen T36-T65;Mujeres;otras causas;319
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Ambos sexos;total;98.451
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Ambos sexos;curación o mejoría;88.685
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Ambos sexos;traslado a otros centros;6.164
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Ambos sexos;fallecimiento;2.288
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Ambos sexos;otras causas;1.313
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Hombres;total;51.747
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Hombres;curación o mejoría;46.027
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Hombres;traslado a otros centros;3.584
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Hombres;fallecimiento;1.334
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Hombres;otras causas;803
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Mujeres;total;46.704
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Mujeres;curación o mejoría;42.659
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Mujeres;traslado a otros centros;2.580
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Mujeres;fallecimiento;954
+1909 Complicaciones de cuidados quirúrgicos y médicos no clasificados bajo otros conceptos T80-T88;Mujeres;otras causas;511
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Ambos sexos;total;10.290
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Ambos sexos;curación o mejoría;8.179
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Ambos sexos;traslado a otros centros;691
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Ambos sexos;fallecimiento;1.251
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Ambos sexos;otras causas;169
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Hombres;total;5.456
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Hombres;curación o mejoría;4.451
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Hombres;traslado a otros centros;360
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Hombres;fallecimiento;560
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Hombres;otras causas;85
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Mujeres;total;4.835
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Mujeres;curación o mejoría;3.728
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Mujeres;traslado a otros centros;332
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Mujeres;fallecimiento;691
+1911 Otros efectos y efectos no especificados de causas externas Resto de S00-T88;Mujeres;otras causas;84
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Ambos sexos;total;111.166
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Ambos sexos;curación o mejoría;100.145
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Ambos sexos;traslado a otros centros;3.680
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Ambos sexos;fallecimiento;5.983
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Ambos sexos;otras causas;1.358
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Hombres;total;45.520
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Hombres;curación o mejoría;39.677
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Hombres;traslado a otros centros;1.958
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Hombres;fallecimiento;3.213
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Hombres;otras causas;672
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Mujeres;total;65.647
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Mujeres;curación o mejoría;60.468
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Mujeres;traslado a otros centros;1.723
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Mujeres;fallecimiento;2.770
+2100 FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS Z00-Z99;Mujeres;otras causas;686
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Ambos sexos;total;2.233
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Ambos sexos;curación o mejoría;2.169
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Ambos sexos;traslado a otros centros;35
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Ambos sexos;fallecimiento;2
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Ambos sexos;otras causas;27
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Hombres;total;1.217
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Hombres;curación o mejoría;1.181
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Hombres;traslado a otros centros;20
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Hombres;fallecimiento;2
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Hombres;otras causas;14
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Mujeres;total;1.015
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Mujeres;curación o mejoría;988
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Mujeres;traslado a otros centros;15
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Mujeres;fallecimiento;..
+2101 Observación y evaluación por sospecha de enfermedades no encontradas Z03;Mujeres;otras causas;13
+2102 Asistencia anticonceptiva Z30;Ambos sexos;total;1.921
+2102 Asistencia anticonceptiva Z30;Ambos sexos;curación o mejoría;1.899
+2102 Asistencia anticonceptiva Z30;Ambos sexos;traslado a otros centros;5
+2102 Asistencia anticonceptiva Z30;Ambos sexos;fallecimiento;4
+2102 Asistencia anticonceptiva Z30;Ambos sexos;otras causas;12
+2102 Asistencia anticonceptiva Z30;Hombres;total;198
+2102 Asistencia anticonceptiva Z30;Hombres;curación o mejoría;192
+2102 Asistencia anticonceptiva Z30;Hombres;traslado a otros centros;..
+2102 Asistencia anticonceptiva Z30;Hombres;fallecimiento;4
+2102 Asistencia anticonceptiva Z30;Hombres;otras causas;2
+2102 Asistencia anticonceptiva Z30;Mujeres;total;1.723
+2102 Asistencia anticonceptiva Z30;Mujeres;curación o mejoría;1.707
+2102 Asistencia anticonceptiva Z30;Mujeres;traslado a otros centros;5
+2102 Asistencia anticonceptiva Z30;Mujeres;fallecimiento;..
+2102 Asistencia anticonceptiva Z30;Mujeres;otras causas;10
+2103 Recién nacidos con vida según el tipo de parto Z38;Ambos sexos;total;3.961
+2103 Recién nacidos con vida según el tipo de parto Z38;Ambos sexos;curación o mejoría;3.400
+2103 Recién nacidos con vida según el tipo de parto Z38;Ambos sexos;traslado a otros centros;15
+2103 Recién nacidos con vida según el tipo de parto Z38;Ambos sexos;fallecimiento;..
+2103 Recién nacidos con vida según el tipo de parto Z38;Ambos sexos;otras causas;546
+2103 Recién nacidos con vida según el tipo de parto Z38;Hombres;total;1.978
+2103 Recién nacidos con vida según el tipo de parto Z38;Hombres;curación o mejoría;1.701
+2103 Recién nacidos con vida según el tipo de parto Z38;Hombres;traslado a otros centros;10
+2103 Recién nacidos con vida según el tipo de parto Z38;Hombres;fallecimiento;..
+2103 Recién nacidos con vida según el tipo de parto Z38;Hombres;otras causas;267
+2103 Recién nacidos con vida según el tipo de parto Z38;Mujeres;total;1.983
+2103 Recién nacidos con vida según el tipo de parto Z38;Mujeres;curación o mejoría;1.699
+2103 Recién nacidos con vida según el tipo de parto Z38;Mujeres;traslado a otros centros;5
+2103 Recién nacidos con vida según el tipo de parto Z38;Mujeres;fallecimiento;..
+2103 Recién nacidos con vida según el tipo de parto Z38;Mujeres;otras causas;279
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Ambos sexos;total;35.633
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Ambos sexos;curación o mejoría;27.771
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Ambos sexos;traslado a otros centros;1.888
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Ambos sexos;fallecimiento;5.694
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Ambos sexos;otras causas;280
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Hombres;total;20.432
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Hombres;curación o mejoría;16.164
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Hombres;traslado a otros centros;1.034
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Hombres;fallecimiento;3.056
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Hombres;otras causas;178
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Mujeres;total;15.201
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Mujeres;curación o mejoría;11.607
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Mujeres;traslado a otros centros;854
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Mujeres;fallecimiento;2.638
+2104 Otra atención médica (incluyendo sesiones de radioterapia y quimioterapia) Z51;Mujeres;otras causas;102
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Ambos sexos;total;67.418
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Ambos sexos;curación o mejoría;64.906
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Ambos sexos;traslado a otros centros;1.737
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Ambos sexos;fallecimiento;283
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Ambos sexos;otras causas;492
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Hombres;total;21.694
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Hombres;curación o mejoría;20.439
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Hombres;traslado a otros centros;893
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Hombres;fallecimiento;151
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Hombres;otras causas;211
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Mujeres;total;45.725
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Mujeres;curación o mejoría;44.467
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Mujeres;traslado a otros centros;844
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Mujeres;fallecimiento;132
+2105 Otros factores que influyen en el estado de salud y contacto con los servicios sanitarios Resto de Z00-Z99;Mujeres;otras causas;281
+ALTAS SIN DIAGNÓSTICOS;Ambos sexos;total;10.617
+ALTAS SIN DIAGNÓSTICOS;Ambos sexos;curación o mejoría;7.929
+ALTAS SIN DIAGNÓSTICOS;Ambos sexos;traslado a otros centros;644
+ALTAS SIN DIAGNÓSTICOS;Ambos sexos;fallecimiento;1.685
+ALTAS SIN DIAGNÓSTICOS;Ambos sexos;otras causas;359
+ALTAS SIN DIAGNÓSTICOS;Hombres;total;5.294
+ALTAS SIN DIAGNÓSTICOS;Hombres;curación o mejoría;3.858
+ALTAS SIN DIAGNÓSTICOS;Hombres;traslado a otros centros;345
+ALTAS SIN DIAGNÓSTICOS;Hombres;fallecimiento;883
+ALTAS SIN DIAGNÓSTICOS;Hombres;otras causas;208
+ALTAS SIN DIAGNÓSTICOS;Mujeres;total;5.323
+ALTAS SIN DIAGNÓSTICOS;Mujeres;curación o mejoría;4.070
+ALTAS SIN DIAGNÓSTICOS;Mujeres;traslado a otros centros;299
+ALTAS SIN DIAGNÓSTICOS;Mujeres;fallecimiento;802
+ALTAS SIN DIAGNÓSTICOS;Mujeres;otras causas;151

@@ -1,0 +1,31 @@
+,Diagnóstico principal (CIE10MC),Sexo,Motivo del alta,Total
+220,0205 Neoplasia maligna del útero C53-C55,Mujeres,total,10.225
+221,0205 Neoplasia maligna del útero C53-C55,Mujeres,curación o mejoría,9.167
+222,0205 Neoplasia maligna del útero C53-C55,Mujeres,traslado a otros centros,317
+223,0205 Neoplasia maligna del útero C53-C55,Mujeres,fallecimiento,569
+224,0205 Neoplasia maligna del útero C53-C55,Mujeres,otras causas,171
+235,0206 Neoplasia maligna del ovario C56,Mujeres,total,4.959
+236,0206 Neoplasia maligna del ovario C56,Mujeres,curación o mejoría,4.157
+237,0206 Neoplasia maligna del ovario C56,Mujeres,traslado a otros centros,205
+238,0206 Neoplasia maligna del ovario C56,Mujeres,fallecimiento,524
+239,0206 Neoplasia maligna del ovario C56,Mujeres,otras causas,73
+325,0212 Leiomioma uterino D25,Mujeres,total,19.987
+326,0212 Leiomioma uterino D25,Mujeres,curación o mejoría,19.552
+327,0212 Leiomioma uterino D25,Mujeres,traslado a otros centros,309
+328,0212 Leiomioma uterino D25,Mujeres,fallecimiento,8
+329,0212 Leiomioma uterino D25,Mujeres,otras causas,118
+1675,1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77,Mujeres,total,7.647
+1676,1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77,Mujeres,curación o mejoría,7.349
+1677,1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77,Mujeres,traslado a otros centros,160
+1678,1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77,Mujeres,fallecimiento,42
+1679,1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77,Mujeres,otras causas,96
+1690,"1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95",Mujeres,total,2.253
+1691,"1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95",Mujeres,curación o mejoría,2.169
+1692,"1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95",Mujeres,traslado a otros centros,40
+1693,"1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95",Mujeres,fallecimiento,14
+1694,"1409 Trastornos de la menstruación, menopausia y otras afecciones del aparato genital femenino N91-N95",Mujeres,otras causas,30
+1705,1410 Otros trastornos del sistema genitourinario Resto de N00-N99,Mujeres,total,34.522
+1706,1410 Otros trastornos del sistema genitourinario Resto de N00-N99,Mujeres,curación o mejoría,33.624
+1707,1410 Otros trastornos del sistema genitourinario Resto de N00-N99,Mujeres,traslado a otros centros,607
+1708,1410 Otros trastornos del sistema genitourinario Resto de N00-N99,Mujeres,fallecimiento,57
+1709,1410 Otros trastornos del sistema genitourinario Resto de N00-N99,Mujeres,otras causas,234

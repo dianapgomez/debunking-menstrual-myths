@@ -1,0 +1,896 @@
+,User ID,Age,BMI,Stress Level,Exercise Frequency,Sleep Hours,Cycle Length,Period Length,Symptoms
+0,1,18,29.28,2,Moderate,5.4,26,7,Headache
+1,1,18,29.28,2,Moderate,5.4,32,5,Fatigue
+2,1,18,29.28,2,Moderate,5.4,41,7,Fatigue
+3,1,18,29.28,2,Moderate,5.4,27,3,Fatigue
+4,1,18,29.28,2,Moderate,5.4,42,5,Cramps
+5,1,18,29.28,2,Moderate,5.4,41,5,Fatigue
+6,1,18,29.28,2,Moderate,5.4,31,4,Headache
+7,1,18,29.28,2,Moderate,5.4,48,7,Fatigue
+8,1,18,29.28,2,Moderate,5.4,29,3,Fatigue
+9,1,18,29.28,2,Moderate,5.4,47,4,Headache
+10,1,18,29.28,2,Moderate,5.4,42,4,Mood Swings
+11,2,34,29.57,4,Low,5.4,26,4,Bloating
+12,2,34,29.57,4,Low,5.4,34,6,Bloating
+13,2,34,29.57,4,Low,5.4,38,7,Fatigue
+14,2,34,29.57,4,Low,5.4,29,4,Mood Swings
+15,2,34,29.57,4,Low,5.4,34,5,Bloating
+16,2,34,29.57,4,Low,5.4,31,7,Fatigue
+17,2,34,29.57,4,Low,5.4,34,4,Mood Swings
+18,2,34,29.57,4,Low,5.4,47,7,Mood Swings
+19,2,34,29.57,4,Low,5.4,37,5,Headache
+20,3,22,29.44,1,Moderate,8.6,50,4,Cramps
+21,3,22,29.44,1,Moderate,8.6,40,4,Cramps
+22,3,22,29.44,1,Moderate,8.6,25,5,Cramps
+23,3,22,29.44,1,Moderate,8.6,38,3,Headache
+24,3,22,29.44,1,Moderate,8.6,40,3,Bloating
+25,3,22,29.44,1,Moderate,8.6,49,3,Headache
+26,3,22,29.44,1,Moderate,8.6,28,3,Mood Swings
+27,3,22,29.44,1,Moderate,8.6,37,5,Fatigue
+28,3,22,29.44,1,Moderate,8.6,49,6,Headache
+29,3,22,29.44,1,Moderate,8.6,46,4,Bloating
+30,4,25,25.68,2,Moderate,8.3,38,3,Cramps
+31,4,25,25.68,2,Moderate,8.3,43,6,Mood Swings
+32,4,25,25.68,2,Moderate,8.3,40,6,Fatigue
+33,4,25,25.68,2,Moderate,8.3,39,5,Headache
+34,4,25,25.68,2,Moderate,8.3,31,5,Cramps
+35,4,25,25.68,2,Moderate,8.3,49,4,Bloating
+36,4,25,25.68,2,Moderate,8.3,48,4,Mood Swings
+37,4,25,25.68,2,Moderate,8.3,36,4,Bloating
+38,4,25,25.68,2,Moderate,8.3,29,5,Fatigue
+39,4,25,25.68,2,Moderate,8.3,49,6,Mood Swings
+40,5,25,25.27,1,High,6.3,46,7,Fatigue
+41,5,25,25.27,1,High,6.3,45,7,Fatigue
+42,5,25,25.27,1,High,6.3,38,5,Headache
+43,5,25,25.27,1,High,6.3,28,6,Bloating
+44,5,25,25.27,1,High,6.3,30,5,Mood Swings
+45,5,25,25.27,1,High,6.3,36,6,Bloating
+46,5,25,25.27,1,High,6.3,37,6,Cramps
+47,5,25,25.27,1,High,6.3,38,5,Fatigue
+48,5,25,25.27,1,High,6.3,47,5,Bloating
+49,5,25,25.27,1,High,6.3,43,3,Fatigue
+50,5,25,25.27,1,High,6.3,40,6,Bloating
+51,5,25,25.27,1,High,6.3,32,3,Mood Swings
+52,6,44,25.87,5,Low,6.1,30,7,Bloating
+53,6,44,25.87,5,Low,6.1,39,6,Mood Swings
+54,6,44,25.87,5,Low,6.1,38,3,Bloating
+55,6,44,25.87,5,Low,6.1,26,5,Cramps
+56,6,44,25.87,5,Low,6.1,35,4,Headache
+57,6,44,25.87,5,Low,6.1,50,5,Bloating
+58,6,44,25.87,5,Low,6.1,46,6,Bloating
+59,6,44,25.87,5,Low,6.1,25,5,Cramps
+60,6,44,25.87,5,Low,6.1,34,5,Fatigue
+61,7,25,28.98,5,Moderate,7.5,40,4,Cramps
+62,7,25,28.98,5,Moderate,7.5,26,5,Bloating
+63,7,25,28.98,5,Moderate,7.5,42,6,Cramps
+64,7,25,28.98,5,Moderate,7.5,38,6,Bloating
+65,7,25,28.98,5,Moderate,7.5,42,3,Bloating
+66,7,25,28.98,5,Moderate,7.5,47,3,Fatigue
+67,8,37,24.14,4,Moderate,5.1,25,7,Bloating
+68,8,37,24.14,4,Moderate,5.1,25,7,Cramps
+69,8,37,24.14,4,Moderate,5.1,25,5,Cramps
+70,8,37,24.14,4,Moderate,5.1,28,3,Fatigue
+71,8,37,24.14,4,Moderate,5.1,48,6,Headache
+72,8,37,24.14,4,Moderate,5.1,29,4,Fatigue
+73,8,37,24.14,4,Moderate,5.1,26,6,Fatigue
+74,8,37,24.14,4,Moderate,5.1,27,4,Bloating
+75,8,37,24.14,4,Moderate,5.1,47,4,Headache
+76,8,37,24.14,4,Moderate,5.1,35,5,Bloating
+77,8,37,24.14,4,Moderate,5.1,35,4,Bloating
+78,9,24,25.2,1,High,5.7,30,4,Cramps
+79,9,24,25.2,1,High,5.7,33,6,Bloating
+80,9,24,25.2,1,High,5.7,29,7,Headache
+81,9,24,25.2,1,High,5.7,29,4,Fatigue
+82,9,24,25.2,1,High,5.7,35,6,Bloating
+83,9,24,25.2,1,High,5.7,28,5,Bloating
+84,9,24,25.2,1,High,5.7,41,7,Headache
+85,9,24,25.2,1,High,5.7,40,6,Headache
+86,9,24,25.2,1,High,5.7,47,3,Bloating
+87,9,24,25.2,1,High,5.7,29,3,Mood Swings
+88,9,24,25.2,1,High,5.7,37,6,Mood Swings
+89,9,24,25.2,1,High,5.7,28,4,Mood Swings
+90,10,33,22.99,3,High,7.1,43,5,Cramps
+91,10,33,22.99,3,High,7.1,30,5,Cramps
+92,10,33,22.99,3,High,7.1,47,3,Fatigue
+93,10,33,22.99,3,High,7.1,42,5,Bloating
+94,10,33,22.99,3,High,7.1,37,6,Headache
+95,10,33,22.99,3,High,7.1,38,7,Bloating
+96,11,20,28.33,5,Low,5.8,43,3,Fatigue
+97,11,20,28.33,5,Low,5.8,44,7,Headache
+98,11,20,28.33,5,Low,5.8,42,5,Mood Swings
+99,11,20,28.33,5,Low,5.8,28,3,Mood Swings
+100,11,20,28.33,5,Low,5.8,28,3,Bloating
+101,11,20,28.33,5,Low,5.8,36,5,Cramps
+102,11,20,28.33,5,Low,5.8,43,4,Headache
+103,11,20,28.33,5,Low,5.8,27,4,Headache
+104,11,20,28.33,5,Low,5.8,38,4,Mood Swings
+105,11,20,28.33,5,Low,5.8,26,6,Mood Swings
+106,12,29,29.49,4,High,5.5,37,4,Headache
+107,12,29,29.49,4,High,5.5,31,4,Cramps
+108,12,29,29.49,4,High,5.5,38,6,Headache
+109,12,29,29.49,4,High,5.5,47,5,Mood Swings
+110,12,29,29.49,4,High,5.5,41,5,Cramps
+111,12,29,29.49,4,High,5.5,49,4,Mood Swings
+112,12,29,29.49,4,High,5.5,39,4,Mood Swings
+113,12,29,29.49,4,High,5.5,30,3,Mood Swings
+114,12,29,29.49,4,High,5.5,38,7,Headache
+115,12,29,29.49,4,High,5.5,40,4,Fatigue
+116,12,29,29.49,4,High,5.5,50,3,Mood Swings
+117,13,35,22.46,3,Moderate,8.6,46,3,Cramps
+118,13,35,22.46,3,Moderate,8.6,30,6,Mood Swings
+119,13,35,22.46,3,Moderate,8.6,35,6,Bloating
+120,13,35,22.46,3,Moderate,8.6,25,3,Fatigue
+121,13,35,22.46,3,Moderate,8.6,35,4,Bloating
+122,13,35,22.46,3,Moderate,8.6,48,7,Cramps
+123,13,35,22.46,3,Moderate,8.6,41,7,Bloating
+124,13,35,22.46,3,Moderate,8.6,41,7,Headache
+125,13,35,22.46,3,Moderate,8.6,48,7,Bloating
+126,13,35,22.46,3,Moderate,8.6,35,5,Fatigue
+127,13,35,22.46,3,Moderate,8.6,28,5,Headache
+128,14,26,19.22,2,Low,6.2,40,3,Cramps
+129,14,26,19.22,2,Low,6.2,39,6,Headache
+130,14,26,19.22,2,Low,6.2,27,6,Mood Swings
+131,14,26,19.22,2,Low,6.2,33,3,Cramps
+132,14,26,19.22,2,Low,6.2,46,3,Fatigue
+133,14,26,19.22,2,Low,6.2,32,6,Mood Swings
+134,14,26,19.22,2,Low,6.2,40,4,Cramps
+135,14,26,19.22,2,Low,6.2,28,6,Fatigue
+136,15,39,26.63,5,High,7.0,42,6,Cramps
+137,15,39,26.63,5,High,7.0,33,6,Mood Swings
+138,15,39,26.63,5,High,7.0,34,4,Mood Swings
+139,15,39,26.63,5,High,7.0,45,7,Fatigue
+140,15,39,26.63,5,High,7.0,27,7,Fatigue
+141,15,39,26.63,5,High,7.0,47,3,Mood Swings
+142,15,39,26.63,5,High,7.0,36,6,Bloating
+143,16,23,27.15,2,Moderate,6.8,35,3,Bloating
+144,16,23,27.15,2,Moderate,6.8,44,7,Mood Swings
+145,16,23,27.15,2,Moderate,6.8,26,3,Cramps
+146,16,23,27.15,2,Moderate,6.8,28,4,Headache
+147,16,23,27.15,2,Moderate,6.8,27,6,Mood Swings
+148,16,23,27.15,2,Moderate,6.8,42,4,Cramps
+149,16,23,27.15,2,Moderate,6.8,31,7,Cramps
+150,16,23,27.15,2,Moderate,6.8,36,5,Bloating
+151,17,41,23.92,5,High,7.8,26,3,Headache
+152,17,41,23.92,5,High,7.8,26,3,Headache
+153,17,41,23.92,5,High,7.8,49,7,Bloating
+154,17,41,23.92,5,High,7.8,37,7,Fatigue
+155,17,41,23.92,5,High,7.8,35,4,Fatigue
+156,17,41,23.92,5,High,7.8,26,7,Bloating
+157,17,41,23.92,5,High,7.8,35,5,Cramps
+158,17,41,23.92,5,High,7.8,47,4,Mood Swings
+159,17,41,23.92,5,High,7.8,38,4,Mood Swings
+160,17,41,23.92,5,High,7.8,38,7,Bloating
+161,18,20,26.92,1,High,6.1,42,6,Fatigue
+162,18,20,26.92,1,High,6.1,40,5,Bloating
+163,18,20,26.92,1,High,6.1,25,7,Headache
+164,18,20,26.92,1,High,6.1,26,4,Mood Swings
+165,18,20,26.92,1,High,6.1,42,5,Headache
+166,18,20,26.92,1,High,6.1,31,4,Cramps
+167,18,20,26.92,1,High,6.1,35,5,Bloating
+168,18,20,26.92,1,High,6.1,31,5,Fatigue
+169,18,20,26.92,1,High,6.1,41,3,Cramps
+170,18,20,26.92,1,High,6.1,44,4,Cramps
+171,18,20,26.92,1,High,6.1,26,4,Mood Swings
+172,19,21,21.57,1,Low,8.0,38,7,Cramps
+173,19,21,21.57,1,Low,8.0,33,7,Headache
+174,19,21,21.57,1,Low,8.0,46,4,Mood Swings
+175,19,21,21.57,1,Low,8.0,44,5,Mood Swings
+176,19,21,21.57,1,Low,8.0,42,3,Mood Swings
+177,19,21,21.57,1,Low,8.0,28,4,Bloating
+178,19,21,21.57,1,Low,8.0,37,7,Mood Swings
+179,20,45,24.82,4,Low,7.5,29,7,Bloating
+180,20,45,24.82,4,Low,7.5,43,7,Bloating
+181,20,45,24.82,4,Low,7.5,29,5,Bloating
+182,20,45,24.82,4,Low,7.5,39,3,Cramps
+183,20,45,24.82,4,Low,7.5,36,6,Bloating
+184,20,45,24.82,4,Low,7.5,47,3,Fatigue
+185,20,45,24.82,4,Low,7.5,34,7,Fatigue
+186,21,19,23.6,5,Low,5.6,30,7,Cramps
+187,21,19,23.6,5,Low,5.6,50,6,Fatigue
+188,21,19,23.6,5,Low,5.6,48,7,Cramps
+189,21,19,23.6,5,Low,5.6,33,4,Bloating
+190,21,19,23.6,5,Low,5.6,32,7,Cramps
+191,21,19,23.6,5,Low,5.6,41,6,Mood Swings
+192,21,19,23.6,5,Low,5.6,31,3,Fatigue
+193,22,33,28.82,4,High,8.7,37,5,Fatigue
+194,22,33,28.82,4,High,8.7,41,5,Headache
+195,22,33,28.82,4,High,8.7,29,3,Cramps
+196,22,33,28.82,4,High,8.7,42,4,Bloating
+197,22,33,28.82,4,High,8.7,46,7,Headache
+198,22,33,28.82,4,High,8.7,49,3,Headache
+199,23,44,24.97,1,Low,5.2,49,4,Bloating
+200,23,44,24.97,1,Low,5.2,48,6,Bloating
+201,23,44,24.97,1,Low,5.2,29,3,Mood Swings
+202,23,44,24.97,1,Low,5.2,37,3,Headache
+203,23,44,24.97,1,Low,5.2,29,7,Bloating
+204,23,44,24.97,1,Low,5.2,31,7,Mood Swings
+205,23,44,24.97,1,Low,5.2,31,4,Bloating
+206,24,19,27.84,3,High,8.8,42,4,Mood Swings
+207,24,19,27.84,3,High,8.8,45,4,Cramps
+208,24,19,27.84,3,High,8.8,29,4,Headache
+209,24,19,27.84,3,High,8.8,40,4,Mood Swings
+210,24,19,27.84,3,High,8.8,31,6,Fatigue
+211,24,19,27.84,3,High,8.8,40,6,Fatigue
+212,24,19,27.84,3,High,8.8,38,5,Fatigue
+213,24,19,27.84,3,High,8.8,26,6,Bloating
+214,24,19,27.84,3,High,8.8,29,4,Mood Swings
+215,24,19,27.84,3,High,8.8,33,7,Mood Swings
+216,25,26,29.46,2,High,8.0,46,4,Headache
+217,25,26,29.46,2,High,8.0,38,4,Fatigue
+218,25,26,29.46,2,High,8.0,45,7,Cramps
+219,25,26,29.46,2,High,8.0,43,7,Headache
+220,25,26,29.46,2,High,8.0,33,5,Fatigue
+221,25,26,29.46,2,High,8.0,30,5,Mood Swings
+222,25,26,29.46,2,High,8.0,33,4,Cramps
+223,26,28,22.81,2,High,7.3,33,3,Mood Swings
+224,26,28,22.81,2,High,7.3,39,5,Fatigue
+225,26,28,22.81,2,High,7.3,47,3,Bloating
+226,26,28,22.81,2,High,7.3,46,5,Bloating
+227,26,28,22.81,2,High,7.3,48,5,Headache
+228,26,28,22.81,2,High,7.3,45,6,Mood Swings
+229,26,28,22.81,2,High,7.3,50,4,Cramps
+230,27,45,18.75,3,High,6.3,48,3,Bloating
+231,27,45,18.75,3,High,6.3,46,7,Cramps
+232,27,45,18.75,3,High,6.3,25,5,Headache
+233,27,45,18.75,3,High,6.3,26,4,Fatigue
+234,27,45,18.75,3,High,6.3,46,6,Bloating
+235,27,45,18.75,3,High,6.3,41,7,Mood Swings
+236,27,45,18.75,3,High,6.3,38,4,Headache
+237,28,19,26.48,1,Low,6.9,44,4,Headache
+238,28,19,26.48,1,Low,6.9,27,4,Fatigue
+239,28,19,26.48,1,Low,6.9,31,5,Bloating
+240,28,19,26.48,1,Low,6.9,32,6,Bloating
+241,28,19,26.48,1,Low,6.9,46,5,Cramps
+242,28,19,26.48,1,Low,6.9,45,6,Fatigue
+243,28,19,26.48,1,Low,6.9,45,6,Mood Swings
+244,28,19,26.48,1,Low,6.9,41,3,Fatigue
+245,29,27,26.97,5,High,7.3,32,6,Mood Swings
+246,29,27,26.97,5,High,7.3,32,3,Cramps
+247,29,27,26.97,5,High,7.3,44,6,Headache
+248,29,27,26.97,5,High,7.3,50,3,Cramps
+249,29,27,26.97,5,High,7.3,42,7,Fatigue
+250,29,27,26.97,5,High,7.3,25,6,Fatigue
+251,29,27,26.97,5,High,7.3,44,4,Cramps
+252,29,27,26.97,5,High,7.3,35,5,Headache
+253,29,27,26.97,5,High,7.3,50,5,Cramps
+254,29,27,26.97,5,High,7.3,43,5,Cramps
+255,29,27,26.97,5,High,7.3,49,7,Bloating
+256,29,27,26.97,5,High,7.3,37,6,Cramps
+257,30,38,21.29,2,High,5.2,30,4,Bloating
+258,30,38,21.29,2,High,5.2,42,3,Fatigue
+259,30,38,21.29,2,High,5.2,31,7,Bloating
+260,30,38,21.29,2,High,5.2,50,4,Bloating
+261,30,38,21.29,2,High,5.2,40,7,Mood Swings
+262,30,38,21.29,2,High,5.2,42,5,Cramps
+263,30,38,21.29,2,High,5.2,35,5,Fatigue
+264,30,38,21.29,2,High,5.2,29,3,Fatigue
+265,30,38,21.29,2,High,5.2,33,3,Bloating
+266,30,38,21.29,2,High,5.2,48,5,Headache
+267,30,38,21.29,2,High,5.2,32,7,Mood Swings
+268,31,37,21.17,1,High,6.2,38,3,Bloating
+269,31,37,21.17,1,High,6.2,40,7,Fatigue
+270,31,37,21.17,1,High,6.2,28,3,Fatigue
+271,31,37,21.17,1,High,6.2,27,5,Fatigue
+272,31,37,21.17,1,High,6.2,37,7,Bloating
+273,31,37,21.17,1,High,6.2,35,7,Bloating
+274,31,37,21.17,1,High,6.2,28,3,Cramps
+275,31,37,21.17,1,High,6.2,42,4,Mood Swings
+276,31,37,21.17,1,High,6.2,43,7,Headache
+277,31,37,21.17,1,High,6.2,46,3,Mood Swings
+278,31,37,21.17,1,High,6.2,26,6,Headache
+279,32,25,21.78,3,Moderate,5.3,26,6,Cramps
+280,32,25,21.78,3,Moderate,5.3,50,4,Bloating
+281,32,25,21.78,3,Moderate,5.3,31,5,Headache
+282,32,25,21.78,3,Moderate,5.3,33,6,Fatigue
+283,32,25,21.78,3,Moderate,5.3,45,3,Bloating
+284,32,25,21.78,3,Moderate,5.3,46,4,Cramps
+285,32,25,21.78,3,Moderate,5.3,26,3,Cramps
+286,32,25,21.78,3,Moderate,5.3,49,5,Headache
+287,33,44,26.71,2,High,8.5,28,4,Mood Swings
+288,33,44,26.71,2,High,8.5,38,3,Mood Swings
+289,33,44,26.71,2,High,8.5,39,6,Fatigue
+290,33,44,26.71,2,High,8.5,41,4,Bloating
+291,33,44,26.71,2,High,8.5,35,3,Headache
+292,33,44,26.71,2,High,8.5,29,7,Cramps
+293,33,44,26.71,2,High,8.5,41,5,Cramps
+294,33,44,26.71,2,High,8.5,40,6,Mood Swings
+295,34,32,23.77,2,Low,5.3,36,3,Headache
+296,34,32,23.77,2,Low,5.3,39,6,Fatigue
+297,34,32,23.77,2,Low,5.3,25,4,Bloating
+298,34,32,23.77,2,Low,5.3,32,3,Cramps
+299,34,32,23.77,2,Low,5.3,40,4,Cramps
+300,34,32,23.77,2,Low,5.3,38,4,Fatigue
+301,34,32,23.77,2,Low,5.3,40,6,Mood Swings
+302,34,32,23.77,2,Low,5.3,36,6,Headache
+303,34,32,23.77,2,Low,5.3,49,5,Cramps
+304,34,32,23.77,2,Low,5.3,25,4,Bloating
+305,34,32,23.77,2,Low,5.3,48,7,Bloating
+306,35,29,20.49,5,Low,6.9,49,6,Bloating
+307,35,29,20.49,5,Low,6.9,42,3,Headache
+308,35,29,20.49,5,Low,6.9,43,3,Headache
+309,35,29,20.49,5,Low,6.9,28,5,Headache
+310,35,29,20.49,5,Low,6.9,41,4,Cramps
+311,35,29,20.49,5,Low,6.9,35,4,Headache
+312,36,31,21.47,1,High,6.2,43,4,Fatigue
+313,36,31,21.47,1,High,6.2,31,7,Mood Swings
+314,36,31,21.47,1,High,6.2,46,4,Headache
+315,36,31,21.47,1,High,6.2,46,4,Headache
+316,36,31,21.47,1,High,6.2,25,7,Fatigue
+317,36,31,21.47,1,High,6.2,45,6,Cramps
+318,37,44,23.41,4,Low,7.8,39,4,Mood Swings
+319,37,44,23.41,4,Low,7.8,49,4,Fatigue
+320,37,44,23.41,4,Low,7.8,30,5,Bloating
+321,37,44,23.41,4,Low,7.8,34,4,Mood Swings
+322,37,44,23.41,4,Low,7.8,40,4,Headache
+323,37,44,23.41,4,Low,7.8,33,6,Fatigue
+324,37,44,23.41,4,Low,7.8,26,6,Headache
+325,37,44,23.41,4,Low,7.8,42,3,Headache
+326,37,44,23.41,4,Low,7.8,34,7,Fatigue
+327,37,44,23.41,4,Low,7.8,39,6,Bloating
+328,37,44,23.41,4,Low,7.8,39,3,Mood Swings
+329,38,45,18.72,4,Low,5.6,31,6,Cramps
+330,38,45,18.72,4,Low,5.6,42,5,Mood Swings
+331,38,45,18.72,4,Low,5.6,31,4,Headache
+332,38,45,18.72,4,Low,5.6,48,4,Cramps
+333,38,45,18.72,4,Low,5.6,32,4,Fatigue
+334,38,45,18.72,4,Low,5.6,29,6,Headache
+335,38,45,18.72,4,Low,5.6,29,3,Cramps
+336,38,45,18.72,4,Low,5.6,26,7,Mood Swings
+337,38,45,18.72,4,Low,5.6,39,6,Mood Swings
+338,38,45,18.72,4,Low,5.6,48,7,Mood Swings
+339,39,23,18.59,3,Moderate,5.4,40,3,Headache
+340,39,23,18.59,3,Moderate,5.4,43,3,Headache
+341,39,23,18.59,3,Moderate,5.4,42,4,Bloating
+342,39,23,18.59,3,Moderate,5.4,42,4,Mood Swings
+343,39,23,18.59,3,Moderate,5.4,37,5,Bloating
+344,39,23,18.59,3,Moderate,5.4,33,6,Bloating
+345,40,18,27.02,2,High,8.8,45,3,Headache
+346,40,18,27.02,2,High,8.8,29,6,Bloating
+347,40,18,27.02,2,High,8.8,37,3,Bloating
+348,40,18,27.02,2,High,8.8,45,6,Bloating
+349,40,18,27.02,2,High,8.8,35,4,Bloating
+350,40,18,27.02,2,High,8.8,38,6,Cramps
+351,40,18,27.02,2,High,8.8,43,6,Bloating
+352,40,18,27.02,2,High,8.8,34,7,Bloating
+353,40,18,27.02,2,High,8.8,42,3,Fatigue
+354,40,18,27.02,2,High,8.8,34,5,Fatigue
+355,41,33,26.62,5,Low,5.4,49,4,Headache
+356,41,33,26.62,5,Low,5.4,41,6,Cramps
+357,41,33,26.62,5,Low,5.4,42,5,Cramps
+358,41,33,26.62,5,Low,5.4,30,7,Fatigue
+359,41,33,26.62,5,Low,5.4,35,4,Bloating
+360,41,33,26.62,5,Low,5.4,37,5,Bloating
+361,41,33,26.62,5,Low,5.4,26,6,Bloating
+362,41,33,26.62,5,Low,5.4,40,3,Fatigue
+363,41,33,26.62,5,Low,5.4,39,6,Mood Swings
+364,41,33,26.62,5,Low,5.4,33,5,Cramps
+365,41,33,26.62,5,Low,5.4,38,6,Mood Swings
+366,41,33,26.62,5,Low,5.4,28,4,Cramps
+367,42,24,21.08,3,High,7.5,48,7,Mood Swings
+368,42,24,21.08,3,High,7.5,47,3,Fatigue
+369,42,24,21.08,3,High,7.5,32,7,Cramps
+370,42,24,21.08,3,High,7.5,27,4,Bloating
+371,42,24,21.08,3,High,7.5,25,7,Mood Swings
+372,42,24,21.08,3,High,7.5,26,6,Bloating
+373,42,24,21.08,3,High,7.5,49,4,Bloating
+374,42,24,21.08,3,High,7.5,26,3,Fatigue
+375,42,24,21.08,3,High,7.5,34,5,Fatigue
+376,42,24,21.08,3,High,7.5,42,6,Cramps
+377,43,28,26.91,4,Moderate,7.8,38,7,Mood Swings
+378,43,28,26.91,4,Moderate,7.8,46,3,Headache
+379,43,28,26.91,4,Moderate,7.8,40,5,Fatigue
+380,43,28,26.91,4,Moderate,7.8,50,5,Fatigue
+381,43,28,26.91,4,Moderate,7.8,36,6,Mood Swings
+382,43,28,26.91,4,Moderate,7.8,45,6,Fatigue
+383,44,26,21.85,1,Moderate,7.1,50,3,Mood Swings
+384,44,26,21.85,1,Moderate,7.1,42,6,Cramps
+385,44,26,21.85,1,Moderate,7.1,33,7,Mood Swings
+386,44,26,21.85,1,Moderate,7.1,33,3,Headache
+387,44,26,21.85,1,Moderate,7.1,30,5,Cramps
+388,44,26,21.85,1,Moderate,7.1,49,5,Cramps
+389,44,26,21.85,1,Moderate,7.1,32,5,Mood Swings
+390,44,26,21.85,1,Moderate,7.1,33,7,Headache
+391,44,26,21.85,1,Moderate,7.1,48,6,Headache
+392,44,26,21.85,1,Moderate,7.1,28,7,Cramps
+393,44,26,21.85,1,Moderate,7.1,30,5,Fatigue
+394,45,21,23.7,4,Moderate,6.6,30,3,Headache
+395,45,21,23.7,4,Moderate,6.6,27,6,Bloating
+396,45,21,23.7,4,Moderate,6.6,27,6,Mood Swings
+397,45,21,23.7,4,Moderate,6.6,25,3,Headache
+398,45,21,23.7,4,Moderate,6.6,43,6,Cramps
+399,45,21,23.7,4,Moderate,6.6,32,4,Headache
+400,45,21,23.7,4,Moderate,6.6,44,3,Fatigue
+401,45,21,23.7,4,Moderate,6.6,28,5,Headache
+402,46,25,23.71,4,Moderate,5.3,26,5,Cramps
+403,46,25,23.71,4,Moderate,5.3,31,7,Bloating
+404,46,25,23.71,4,Moderate,5.3,40,6,Mood Swings
+405,46,25,23.71,4,Moderate,5.3,36,4,Bloating
+406,46,25,23.71,4,Moderate,5.3,48,6,Headache
+407,46,25,23.71,4,Moderate,5.3,50,4,Bloating
+408,46,25,23.71,4,Moderate,5.3,33,5,Fatigue
+409,46,25,23.71,4,Moderate,5.3,44,5,Headache
+410,46,25,23.71,4,Moderate,5.3,50,6,Cramps
+411,46,25,23.71,4,Moderate,5.3,33,5,Headache
+412,47,25,19.4,5,High,7.2,34,7,Headache
+413,47,25,19.4,5,High,7.2,37,6,Mood Swings
+414,47,25,19.4,5,High,7.2,43,5,Fatigue
+415,47,25,19.4,5,High,7.2,39,4,Mood Swings
+416,47,25,19.4,5,High,7.2,43,6,Headache
+417,47,25,19.4,5,High,7.2,38,6,Cramps
+418,47,25,19.4,5,High,7.2,27,5,Cramps
+419,48,42,25.93,2,High,6.5,47,5,Bloating
+420,48,42,25.93,2,High,6.5,34,7,Bloating
+421,48,42,25.93,2,High,6.5,30,7,Headache
+422,48,42,25.93,2,High,6.5,26,4,Fatigue
+423,48,42,25.93,2,High,6.5,40,6,Bloating
+424,48,42,25.93,2,High,6.5,36,4,Fatigue
+425,48,42,25.93,2,High,6.5,50,4,Fatigue
+426,48,42,25.93,2,High,6.5,26,7,Cramps
+427,48,42,25.93,2,High,6.5,42,3,Bloating
+428,48,42,25.93,2,High,6.5,46,5,Bloating
+429,49,35,24.64,3,Low,5.4,26,3,Headache
+430,49,35,24.64,3,Low,5.4,30,7,Headache
+431,49,35,24.64,3,Low,5.4,42,7,Cramps
+432,49,35,24.64,3,Low,5.4,35,6,Headache
+433,49,35,24.64,3,Low,5.4,34,7,Bloating
+434,49,35,24.64,3,Low,5.4,25,4,Cramps
+435,49,35,24.64,3,Low,5.4,43,6,Mood Swings
+436,49,35,24.64,3,Low,5.4,34,3,Mood Swings
+437,49,35,24.64,3,Low,5.4,30,3,Fatigue
+438,49,35,24.64,3,Low,5.4,43,7,Cramps
+439,49,35,24.64,3,Low,5.4,42,3,Bloating
+440,49,35,24.64,3,Low,5.4,50,3,Bloating
+441,50,38,28.53,1,Low,8.3,47,4,Fatigue
+442,50,38,28.53,1,Low,8.3,26,4,Bloating
+443,50,38,28.53,1,Low,8.3,35,5,Headache
+444,50,38,28.53,1,Low,8.3,35,4,Headache
+445,50,38,28.53,1,Low,8.3,45,3,Fatigue
+446,50,38,28.53,1,Low,8.3,34,3,Cramps
+447,51,35,21.11,4,High,7.0,31,4,Headache
+448,51,35,21.11,4,High,7.0,36,5,Bloating
+449,51,35,21.11,4,High,7.0,43,3,Fatigue
+450,51,35,21.11,4,High,7.0,48,6,Headache
+451,51,35,21.11,4,High,7.0,47,3,Headache
+452,51,35,21.11,4,High,7.0,28,5,Bloating
+453,51,35,21.11,4,High,7.0,32,6,Bloating
+454,51,35,21.11,4,High,7.0,41,7,Bloating
+455,51,35,21.11,4,High,7.0,40,5,Headache
+456,51,35,21.11,4,High,7.0,37,3,Bloating
+457,52,26,29.35,5,High,7.5,29,6,Bloating
+458,52,26,29.35,5,High,7.5,30,5,Fatigue
+459,52,26,29.35,5,High,7.5,35,4,Fatigue
+460,52,26,29.35,5,High,7.5,48,5,Bloating
+461,52,26,29.35,5,High,7.5,38,3,Bloating
+462,52,26,29.35,5,High,7.5,49,7,Cramps
+463,52,26,29.35,5,High,7.5,42,3,Bloating
+464,52,26,29.35,5,High,7.5,41,3,Bloating
+465,52,26,29.35,5,High,7.5,37,7,Mood Swings
+466,52,26,29.35,5,High,7.5,48,5,Bloating
+467,52,26,29.35,5,High,7.5,46,7,Headache
+468,53,43,22.23,1,Moderate,6.3,43,6,Headache
+469,53,43,22.23,1,Moderate,6.3,27,5,Bloating
+470,53,43,22.23,1,Moderate,6.3,44,6,Fatigue
+471,53,43,22.23,1,Moderate,6.3,36,5,Bloating
+472,53,43,22.23,1,Moderate,6.3,38,5,Cramps
+473,53,43,22.23,1,Moderate,6.3,45,6,Cramps
+474,54,26,25.25,1,High,7.4,36,7,Mood Swings
+475,54,26,25.25,1,High,7.4,45,5,Fatigue
+476,54,26,25.25,1,High,7.4,32,6,Headache
+477,54,26,25.25,1,High,7.4,34,3,Bloating
+478,54,26,25.25,1,High,7.4,28,3,Cramps
+479,54,26,25.25,1,High,7.4,48,4,Cramps
+480,54,26,25.25,1,High,7.4,50,3,Headache
+481,54,26,25.25,1,High,7.4,40,4,Headache
+482,54,26,25.25,1,High,7.4,46,4,Fatigue
+483,55,31,27.99,4,Moderate,7.2,31,5,Mood Swings
+484,55,31,27.99,4,Moderate,7.2,49,3,Headache
+485,55,31,27.99,4,Moderate,7.2,50,7,Cramps
+486,55,31,27.99,4,Moderate,7.2,39,7,Mood Swings
+487,55,31,27.99,4,Moderate,7.2,48,6,Cramps
+488,55,31,27.99,4,Moderate,7.2,25,4,Bloating
+489,55,31,27.99,4,Moderate,7.2,48,4,Bloating
+490,55,31,27.99,4,Moderate,7.2,26,6,Bloating
+491,55,31,27.99,4,Moderate,7.2,38,3,Bloating
+492,55,31,27.99,4,Moderate,7.2,31,6,Mood Swings
+493,55,31,27.99,4,Moderate,7.2,41,4,Headache
+494,55,31,27.99,4,Moderate,7.2,33,7,Mood Swings
+495,56,31,18.83,4,Low,7.6,40,7,Mood Swings
+496,56,31,18.83,4,Low,7.6,33,7,Bloating
+497,56,31,18.83,4,Low,7.6,32,3,Bloating
+498,56,31,18.83,4,Low,7.6,32,7,Cramps
+499,56,31,18.83,4,Low,7.6,26,4,Cramps
+500,56,31,18.83,4,Low,7.6,34,4,Bloating
+501,56,31,18.83,4,Low,7.6,25,6,Fatigue
+502,56,31,18.83,4,Low,7.6,49,4,Mood Swings
+503,56,31,18.83,4,Low,7.6,29,6,Fatigue
+504,56,31,18.83,4,Low,7.6,49,5,Bloating
+505,56,31,18.83,4,Low,7.6,46,5,Fatigue
+506,56,31,18.83,4,Low,7.6,45,7,Cramps
+507,57,39,27.5,4,High,6.1,33,5,Bloating
+508,57,39,27.5,4,High,6.1,32,5,Fatigue
+509,57,39,27.5,4,High,6.1,45,7,Mood Swings
+510,57,39,27.5,4,High,6.1,40,5,Headache
+511,57,39,27.5,4,High,6.1,30,7,Mood Swings
+512,57,39,27.5,4,High,6.1,41,5,Fatigue
+513,57,39,27.5,4,High,6.1,35,5,Fatigue
+514,57,39,27.5,4,High,6.1,47,5,Headache
+515,58,39,26.58,3,Low,8.0,36,4,Fatigue
+516,58,39,26.58,3,Low,8.0,47,5,Mood Swings
+517,58,39,26.58,3,Low,8.0,48,5,Bloating
+518,58,39,26.58,3,Low,8.0,31,7,Fatigue
+519,58,39,26.58,3,Low,8.0,49,4,Mood Swings
+520,58,39,26.58,3,Low,8.0,45,7,Headache
+521,58,39,26.58,3,Low,8.0,42,7,Headache
+522,58,39,26.58,3,Low,8.0,27,7,Bloating
+523,58,39,26.58,3,Low,8.0,39,6,Fatigue
+524,59,30,21.02,1,Moderate,8.8,35,5,Cramps
+525,59,30,21.02,1,Moderate,8.8,34,5,Cramps
+526,59,30,21.02,1,Moderate,8.8,34,7,Headache
+527,59,30,21.02,1,Moderate,8.8,42,6,Headache
+528,59,30,21.02,1,Moderate,8.8,35,3,Fatigue
+529,59,30,21.02,1,Moderate,8.8,40,3,Headache
+530,59,30,21.02,1,Moderate,8.8,49,5,Mood Swings
+531,60,39,24.38,5,Moderate,7.5,38,4,Headache
+532,60,39,24.38,5,Moderate,7.5,48,5,Fatigue
+533,60,39,24.38,5,Moderate,7.5,36,5,Cramps
+534,60,39,24.38,5,Moderate,7.5,25,5,Mood Swings
+535,60,39,24.38,5,Moderate,7.5,33,3,Bloating
+536,60,39,24.38,5,Moderate,7.5,30,4,Mood Swings
+537,60,39,24.38,5,Moderate,7.5,31,4,Cramps
+538,60,39,24.38,5,Moderate,7.5,44,6,Fatigue
+539,60,39,24.38,5,Moderate,7.5,33,4,Cramps
+540,60,39,24.38,5,Moderate,7.5,42,5,Fatigue
+541,61,33,23.15,1,Low,5.6,25,3,Headache
+542,61,33,23.15,1,Low,5.6,32,7,Cramps
+543,61,33,23.15,1,Low,5.6,29,6,Cramps
+544,61,33,23.15,1,Low,5.6,30,4,Fatigue
+545,61,33,23.15,1,Low,5.6,43,7,Bloating
+546,61,33,23.15,1,Low,5.6,49,5,Cramps
+547,62,40,20.16,4,High,5.2,36,6,Mood Swings
+548,62,40,20.16,4,High,5.2,46,5,Bloating
+549,62,40,20.16,4,High,5.2,25,4,Cramps
+550,62,40,20.16,4,High,5.2,28,4,Cramps
+551,62,40,20.16,4,High,5.2,37,5,Cramps
+552,62,40,20.16,4,High,5.2,35,7,Mood Swings
+553,62,40,20.16,4,High,5.2,37,4,Fatigue
+554,63,21,23.94,3,Moderate,7.7,49,4,Headache
+555,63,21,23.94,3,Moderate,7.7,29,7,Cramps
+556,63,21,23.94,3,Moderate,7.7,25,7,Cramps
+557,63,21,23.94,3,Moderate,7.7,46,4,Cramps
+558,63,21,23.94,3,Moderate,7.7,46,7,Fatigue
+559,63,21,23.94,3,Moderate,7.7,47,6,Fatigue
+560,63,21,23.94,3,Moderate,7.7,29,5,Bloating
+561,63,21,23.94,3,Moderate,7.7,27,4,Headache
+562,63,21,23.94,3,Moderate,7.7,31,5,Headache
+563,63,21,23.94,3,Moderate,7.7,48,4,Cramps
+564,64,22,24.1,2,High,7.2,28,3,Mood Swings
+565,64,22,24.1,2,High,7.2,42,4,Headache
+566,64,22,24.1,2,High,7.2,39,7,Bloating
+567,64,22,24.1,2,High,7.2,49,7,Headache
+568,64,22,24.1,2,High,7.2,40,5,Cramps
+569,64,22,24.1,2,High,7.2,42,3,Mood Swings
+570,64,22,24.1,2,High,7.2,25,5,Fatigue
+571,65,41,29.09,4,Moderate,5.9,39,7,Bloating
+572,65,41,29.09,4,Moderate,5.9,25,5,Bloating
+573,65,41,29.09,4,Moderate,5.9,31,6,Bloating
+574,65,41,29.09,4,Moderate,5.9,36,5,Fatigue
+575,65,41,29.09,4,Moderate,5.9,39,4,Fatigue
+576,65,41,29.09,4,Moderate,5.9,33,7,Bloating
+577,65,41,29.09,4,Moderate,5.9,37,4,Cramps
+578,65,41,29.09,4,Moderate,5.9,27,6,Headache
+579,66,20,28.42,2,Moderate,5.4,40,7,Fatigue
+580,66,20,28.42,2,Moderate,5.4,35,7,Fatigue
+581,66,20,28.42,2,Moderate,5.4,42,7,Cramps
+582,66,20,28.42,2,Moderate,5.4,25,3,Headache
+583,66,20,28.42,2,Moderate,5.4,32,7,Cramps
+584,66,20,28.42,2,Moderate,5.4,49,4,Mood Swings
+585,66,20,28.42,2,Moderate,5.4,42,3,Mood Swings
+586,66,20,28.42,2,Moderate,5.4,44,7,Mood Swings
+587,66,20,28.42,2,Moderate,5.4,45,3,Bloating
+588,66,20,28.42,2,Moderate,5.4,40,3,Fatigue
+589,66,20,28.42,2,Moderate,5.4,32,7,Cramps
+590,67,25,20.02,2,Moderate,8.7,44,5,Mood Swings
+591,67,25,20.02,2,Moderate,8.7,36,4,Bloating
+592,67,25,20.02,2,Moderate,8.7,28,7,Mood Swings
+593,67,25,20.02,2,Moderate,8.7,41,5,Cramps
+594,67,25,20.02,2,Moderate,8.7,33,7,Fatigue
+595,67,25,20.02,2,Moderate,8.7,26,4,Headache
+596,68,44,20.0,4,High,8.9,36,5,Bloating
+597,68,44,20.0,4,High,8.9,34,7,Bloating
+598,68,44,20.0,4,High,8.9,27,7,Bloating
+599,68,44,20.0,4,High,8.9,30,7,Fatigue
+600,68,44,20.0,4,High,8.9,25,5,Fatigue
+601,68,44,20.0,4,High,8.9,32,3,Headache
+602,68,44,20.0,4,High,8.9,41,3,Headache
+603,68,44,20.0,4,High,8.9,30,7,Fatigue
+604,68,44,20.0,4,High,8.9,45,3,Bloating
+605,69,31,21.93,1,Low,8.8,38,3,Bloating
+606,69,31,21.93,1,Low,8.8,39,3,Fatigue
+607,69,31,21.93,1,Low,8.8,36,6,Mood Swings
+608,69,31,21.93,1,Low,8.8,39,6,Cramps
+609,69,31,21.93,1,Low,8.8,47,5,Headache
+610,69,31,21.93,1,Low,8.8,30,5,Fatigue
+611,69,31,21.93,1,Low,8.8,37,3,Headache
+612,70,34,28.77,4,Moderate,8.2,49,6,Headache
+613,70,34,28.77,4,Moderate,8.2,35,5,Headache
+614,70,34,28.77,4,Moderate,8.2,41,5,Mood Swings
+615,70,34,28.77,4,Moderate,8.2,39,5,Fatigue
+616,70,34,28.77,4,Moderate,8.2,25,3,Mood Swings
+617,70,34,28.77,4,Moderate,8.2,45,3,Headache
+618,70,34,28.77,4,Moderate,8.2,29,5,Bloating
+619,70,34,28.77,4,Moderate,8.2,28,4,Fatigue
+620,70,34,28.77,4,Moderate,8.2,39,6,Fatigue
+621,70,34,28.77,4,Moderate,8.2,40,6,Headache
+622,70,34,28.77,4,Moderate,8.2,40,6,Bloating
+623,71,34,23.23,5,High,6.2,48,5,Fatigue
+624,71,34,23.23,5,High,6.2,35,3,Mood Swings
+625,71,34,23.23,5,High,6.2,27,7,Cramps
+626,71,34,23.23,5,High,6.2,42,5,Mood Swings
+627,71,34,23.23,5,High,6.2,50,5,Fatigue
+628,71,34,23.23,5,High,6.2,45,4,Bloating
+629,71,34,23.23,5,High,6.2,47,3,Headache
+630,72,38,23.97,3,High,5.4,34,5,Mood Swings
+631,72,38,23.97,3,High,5.4,37,3,Mood Swings
+632,72,38,23.97,3,High,5.4,40,4,Bloating
+633,72,38,23.97,3,High,5.4,35,6,Cramps
+634,72,38,23.97,3,High,5.4,50,6,Mood Swings
+635,72,38,23.97,3,High,5.4,26,7,Cramps
+636,73,45,27.1,1,Moderate,8.7,27,4,Headache
+637,73,45,27.1,1,Moderate,8.7,35,5,Cramps
+638,73,45,27.1,1,Moderate,8.7,40,5,Mood Swings
+639,73,45,27.1,1,Moderate,8.7,32,5,Mood Swings
+640,73,45,27.1,1,Moderate,8.7,42,3,Headache
+641,73,45,27.1,1,Moderate,8.7,27,6,Cramps
+642,73,45,27.1,1,Moderate,8.7,31,5,Headache
+643,73,45,27.1,1,Moderate,8.7,31,6,Cramps
+644,73,45,27.1,1,Moderate,8.7,34,6,Cramps
+645,74,34,25.42,4,High,8.8,50,6,Bloating
+646,74,34,25.42,4,High,8.8,45,6,Headache
+647,74,34,25.42,4,High,8.8,27,3,Fatigue
+648,74,34,25.42,4,High,8.8,32,4,Mood Swings
+649,74,34,25.42,4,High,8.8,26,7,Mood Swings
+650,74,34,25.42,4,High,8.8,50,5,Headache
+651,74,34,25.42,4,High,8.8,34,4,Fatigue
+652,74,34,25.42,4,High,8.8,42,7,Fatigue
+653,74,34,25.42,4,High,8.8,50,4,Mood Swings
+654,74,34,25.42,4,High,8.8,43,7,Headache
+655,74,34,25.42,4,High,8.8,48,7,Mood Swings
+656,74,34,25.42,4,High,8.8,34,5,Bloating
+657,75,27,21.79,4,High,5.6,45,7,Cramps
+658,75,27,21.79,4,High,5.6,45,7,Cramps
+659,75,27,21.79,4,High,5.6,38,7,Headache
+660,75,27,21.79,4,High,5.6,39,3,Mood Swings
+661,75,27,21.79,4,High,5.6,47,5,Cramps
+662,75,27,21.79,4,High,5.6,47,7,Fatigue
+663,75,27,21.79,4,High,5.6,38,5,Bloating
+664,75,27,21.79,4,High,5.6,32,7,Mood Swings
+665,75,27,21.79,4,High,5.6,43,4,Cramps
+666,75,27,21.79,4,High,5.6,44,6,Headache
+667,75,27,21.79,4,High,5.6,44,7,Bloating
+668,76,40,27.42,1,Moderate,7.8,49,6,Headache
+669,76,40,27.42,1,Moderate,7.8,48,6,Cramps
+670,76,40,27.42,1,Moderate,7.8,28,4,Cramps
+671,76,40,27.42,1,Moderate,7.8,43,7,Mood Swings
+672,76,40,27.42,1,Moderate,7.8,34,6,Cramps
+673,76,40,27.42,1,Moderate,7.8,48,5,Bloating
+674,76,40,27.42,1,Moderate,7.8,47,6,Cramps
+675,76,40,27.42,1,Moderate,7.8,47,6,Bloating
+676,76,40,27.42,1,Moderate,7.8,41,7,Bloating
+677,76,40,27.42,1,Moderate,7.8,32,7,Mood Swings
+678,77,28,22.67,4,Low,8.8,40,3,Mood Swings
+679,77,28,22.67,4,Low,8.8,50,6,Headache
+680,77,28,22.67,4,Low,8.8,26,3,Fatigue
+681,77,28,22.67,4,Low,8.8,31,6,Headache
+682,77,28,22.67,4,Low,8.8,44,7,Bloating
+683,77,28,22.67,4,Low,8.8,39,3,Headache
+684,77,28,22.67,4,Low,8.8,32,3,Fatigue
+685,77,28,22.67,4,Low,8.8,39,5,Cramps
+686,77,28,22.67,4,Low,8.8,43,7,Bloating
+687,78,37,29.26,3,Low,7.5,48,3,Fatigue
+688,78,37,29.26,3,Low,7.5,44,7,Bloating
+689,78,37,29.26,3,Low,7.5,35,5,Fatigue
+690,78,37,29.26,3,Low,7.5,26,4,Mood Swings
+691,78,37,29.26,3,Low,7.5,48,4,Fatigue
+692,78,37,29.26,3,Low,7.5,31,5,Fatigue
+693,78,37,29.26,3,Low,7.5,34,4,Cramps
+694,78,37,29.26,3,Low,7.5,26,6,Headache
+695,78,37,29.26,3,Low,7.5,40,5,Mood Swings
+696,78,37,29.26,3,Low,7.5,46,5,Cramps
+697,78,37,29.26,3,Low,7.5,50,3,Bloating
+698,79,22,20.27,1,High,9.0,40,3,Headache
+699,79,22,20.27,1,High,9.0,34,5,Cramps
+700,79,22,20.27,1,High,9.0,38,7,Cramps
+701,79,22,20.27,1,High,9.0,32,5,Headache
+702,79,22,20.27,1,High,9.0,50,4,Cramps
+703,79,22,20.27,1,High,9.0,32,6,Mood Swings
+704,79,22,20.27,1,High,9.0,30,6,Headache
+705,79,22,20.27,1,High,9.0,47,3,Mood Swings
+706,79,22,20.27,1,High,9.0,36,7,Mood Swings
+707,79,22,20.27,1,High,9.0,27,6,Bloating
+708,80,35,26.52,3,High,8.4,37,7,Fatigue
+709,80,35,26.52,3,High,8.4,48,6,Fatigue
+710,80,35,26.52,3,High,8.4,44,3,Cramps
+711,80,35,26.52,3,High,8.4,50,7,Mood Swings
+712,80,35,26.52,3,High,8.4,44,6,Bloating
+713,80,35,26.52,3,High,8.4,28,4,Headache
+714,80,35,26.52,3,High,8.4,50,4,Bloating
+715,80,35,26.52,3,High,8.4,25,3,Bloating
+716,80,35,26.52,3,High,8.4,39,3,Cramps
+717,80,35,26.52,3,High,8.4,29,3,Cramps
+718,81,36,26.25,5,Moderate,6.5,45,6,Mood Swings
+719,81,36,26.25,5,Moderate,6.5,48,5,Fatigue
+720,81,36,26.25,5,Moderate,6.5,27,3,Mood Swings
+721,81,36,26.25,5,Moderate,6.5,42,6,Bloating
+722,81,36,26.25,5,Moderate,6.5,29,5,Cramps
+723,81,36,26.25,5,Moderate,6.5,45,4,Cramps
+724,81,36,26.25,5,Moderate,6.5,47,7,Cramps
+725,82,42,23.81,2,High,7.3,28,7,Headache
+726,82,42,23.81,2,High,7.3,31,7,Bloating
+727,82,42,23.81,2,High,7.3,50,7,Headache
+728,82,42,23.81,2,High,7.3,43,4,Mood Swings
+729,82,42,23.81,2,High,7.3,32,3,Cramps
+730,82,42,23.81,2,High,7.3,43,3,Fatigue
+731,82,42,23.81,2,High,7.3,42,4,Mood Swings
+732,83,25,24.51,1,Low,8.0,38,6,Fatigue
+733,83,25,24.51,1,Low,8.0,30,5,Bloating
+734,83,25,24.51,1,Low,8.0,33,5,Bloating
+735,83,25,24.51,1,Low,8.0,31,3,Cramps
+736,83,25,24.51,1,Low,8.0,31,5,Bloating
+737,83,25,24.51,1,Low,8.0,42,6,Mood Swings
+738,83,25,24.51,1,Low,8.0,36,3,Bloating
+739,83,25,24.51,1,Low,8.0,36,3,Fatigue
+740,83,25,24.51,1,Low,8.0,30,7,Mood Swings
+741,83,25,24.51,1,Low,8.0,29,6,Mood Swings
+742,84,40,20.99,2,Low,8.2,47,3,Cramps
+743,84,40,20.99,2,Low,8.2,28,5,Bloating
+744,84,40,20.99,2,Low,8.2,44,6,Cramps
+745,84,40,20.99,2,Low,8.2,43,3,Fatigue
+746,84,40,20.99,2,Low,8.2,42,6,Headache
+747,84,40,20.99,2,Low,8.2,39,4,Bloating
+748,85,45,24.23,3,Low,8.3,33,7,Bloating
+749,85,45,24.23,3,Low,8.3,33,5,Headache
+750,85,45,24.23,3,Low,8.3,29,6,Fatigue
+751,85,45,24.23,3,Low,8.3,50,6,Fatigue
+752,85,45,24.23,3,Low,8.3,32,3,Bloating
+753,85,45,24.23,3,Low,8.3,35,7,Mood Swings
+754,85,45,24.23,3,Low,8.3,37,4,Bloating
+755,86,36,19.97,2,High,8.0,28,3,Headache
+756,86,36,19.97,2,High,8.0,45,6,Bloating
+757,86,36,19.97,2,High,8.0,38,6,Cramps
+758,86,36,19.97,2,High,8.0,43,6,Cramps
+759,86,36,19.97,2,High,8.0,45,6,Headache
+760,86,36,19.97,2,High,8.0,31,5,Bloating
+761,86,36,19.97,2,High,8.0,49,5,Headache
+762,86,36,19.97,2,High,8.0,42,6,Cramps
+763,87,44,22.52,5,High,8.5,50,7,Headache
+764,87,44,22.52,5,High,8.5,27,5,Cramps
+765,87,44,22.52,5,High,8.5,33,3,Cramps
+766,87,44,22.52,5,High,8.5,40,7,Bloating
+767,87,44,22.52,5,High,8.5,36,7,Cramps
+768,87,44,22.52,5,High,8.5,31,5,Fatigue
+769,87,44,22.52,5,High,8.5,36,6,Fatigue
+770,87,44,22.52,5,High,8.5,25,7,Cramps
+771,87,44,22.52,5,High,8.5,33,5,Headache
+772,87,44,22.52,5,High,8.5,42,6,Bloating
+773,87,44,22.52,5,High,8.5,32,5,Cramps
+774,88,18,18.97,5,High,5.3,34,7,Bloating
+775,88,18,18.97,5,High,5.3,46,3,Fatigue
+776,88,18,18.97,5,High,5.3,26,7,Cramps
+777,88,18,18.97,5,High,5.3,48,5,Fatigue
+778,88,18,18.97,5,High,5.3,35,6,Cramps
+779,88,18,18.97,5,High,5.3,36,6,Fatigue
+780,88,18,18.97,5,High,5.3,47,7,Mood Swings
+781,88,18,18.97,5,High,5.3,26,5,Headache
+782,88,18,18.97,5,High,5.3,29,6,Bloating
+783,88,18,18.97,5,High,5.3,41,6,Headache
+784,88,18,18.97,5,High,5.3,25,7,Fatigue
+785,88,18,18.97,5,High,5.3,34,7,Bloating
+786,89,20,28.86,5,Moderate,5.1,34,7,Headache
+787,89,20,28.86,5,Moderate,5.1,27,5,Cramps
+788,89,20,28.86,5,Moderate,5.1,36,7,Cramps
+789,89,20,28.86,5,Moderate,5.1,45,6,Cramps
+790,89,20,28.86,5,Moderate,5.1,38,5,Headache
+791,89,20,28.86,5,Moderate,5.1,31,5,Mood Swings
+792,89,20,28.86,5,Moderate,5.1,36,5,Mood Swings
+793,89,20,28.86,5,Moderate,5.1,46,4,Headache
+794,89,20,28.86,5,Moderate,5.1,32,3,Bloating
+795,90,30,26.66,1,High,6.9,38,6,Headache
+796,90,30,26.66,1,High,6.9,42,6,Bloating
+797,90,30,26.66,1,High,6.9,28,3,Headache
+798,90,30,26.66,1,High,6.9,28,7,Fatigue
+799,90,30,26.66,1,High,6.9,25,6,Fatigue
+800,90,30,26.66,1,High,6.9,33,5,Headache
+801,90,30,26.66,1,High,6.9,43,5,Bloating
+802,90,30,26.66,1,High,6.9,34,4,Mood Swings
+803,91,32,25.45,3,Low,6.5,46,7,Bloating
+804,91,32,25.45,3,Low,6.5,30,3,Bloating
+805,91,32,25.45,3,Low,6.5,34,6,Headache
+806,91,32,25.45,3,Low,6.5,48,6,Headache
+807,91,32,25.45,3,Low,6.5,34,3,Bloating
+808,91,32,25.45,3,Low,6.5,31,6,Fatigue
+809,91,32,25.45,3,Low,6.5,48,5,Mood Swings
+810,91,32,25.45,3,Low,6.5,26,6,Cramps
+811,91,32,25.45,3,Low,6.5,30,5,Fatigue
+812,91,32,25.45,3,Low,6.5,29,6,Bloating
+813,91,32,25.45,3,Low,6.5,25,5,Bloating
+814,91,32,25.45,3,Low,6.5,32,4,Mood Swings
+815,92,29,24.11,2,Moderate,8.4,48,5,Mood Swings
+816,92,29,24.11,2,Moderate,8.4,29,5,Mood Swings
+817,92,29,24.11,2,Moderate,8.4,39,6,Headache
+818,92,29,24.11,2,Moderate,8.4,31,3,Bloating
+819,92,29,24.11,2,Moderate,8.4,27,4,Headache
+820,92,29,24.11,2,Moderate,8.4,33,4,Bloating
+821,92,29,24.11,2,Moderate,8.4,29,3,Cramps
+822,92,29,24.11,2,Moderate,8.4,45,6,Headache
+823,92,29,24.11,2,Moderate,8.4,43,6,Fatigue
+824,92,29,24.11,2,Moderate,8.4,50,3,Cramps
+825,92,29,24.11,2,Moderate,8.4,38,4,Mood Swings
+826,92,29,24.11,2,Moderate,8.4,40,4,Bloating
+827,93,21,24.1,5,Low,8.6,33,4,Headache
+828,93,21,24.1,5,Low,8.6,29,5,Mood Swings
+829,93,21,24.1,5,Low,8.6,33,6,Cramps
+830,93,21,24.1,5,Low,8.6,35,4,Fatigue
+831,93,21,24.1,5,Low,8.6,36,4,Cramps
+832,93,21,24.1,5,Low,8.6,27,3,Fatigue
+833,93,21,24.1,5,Low,8.6,35,3,Bloating
+834,93,21,24.1,5,Low,8.6,49,5,Mood Swings
+835,93,21,24.1,5,Low,8.6,35,3,Mood Swings
+836,93,21,24.1,5,Low,8.6,46,5,Bloating
+837,94,20,21.13,4,Moderate,6.9,37,4,Headache
+838,94,20,21.13,4,Moderate,6.9,40,6,Cramps
+839,94,20,21.13,4,Moderate,6.9,38,7,Cramps
+840,94,20,21.13,4,Moderate,6.9,37,4,Cramps
+841,94,20,21.13,4,Moderate,6.9,35,7,Headache
+842,94,20,21.13,4,Moderate,6.9,38,4,Cramps
+843,94,20,21.13,4,Moderate,6.9,28,4,Headache
+844,94,20,21.13,4,Moderate,6.9,31,5,Fatigue
+845,94,20,21.13,4,Moderate,6.9,43,4,Fatigue
+846,94,20,21.13,4,Moderate,6.9,38,4,Cramps
+847,95,27,28.29,5,Low,5.6,48,5,Headache
+848,95,27,28.29,5,Low,5.6,26,3,Fatigue
+849,95,27,28.29,5,Low,5.6,32,5,Fatigue
+850,95,27,28.29,5,Low,5.6,46,6,Cramps
+851,95,27,28.29,5,Low,5.6,33,4,Fatigue
+852,95,27,28.29,5,Low,5.6,42,7,Fatigue
+853,95,27,28.29,5,Low,5.6,44,5,Bloating
+854,96,44,19.78,3,Low,6.3,39,7,Fatigue
+855,96,44,19.78,3,Low,6.3,41,3,Mood Swings
+856,96,44,19.78,3,Low,6.3,38,6,Mood Swings
+857,96,44,19.78,3,Low,6.3,50,5,Fatigue
+858,96,44,19.78,3,Low,6.3,29,3,Fatigue
+859,96,44,19.78,3,Low,6.3,27,3,Fatigue
+860,96,44,19.78,3,Low,6.3,32,7,Headache
+861,96,44,19.78,3,Low,6.3,47,3,Bloating
+862,97,37,18.55,5,High,7.6,26,7,Fatigue
+863,97,37,18.55,5,High,7.6,28,6,Headache
+864,97,37,18.55,5,High,7.6,32,6,Fatigue
+865,97,37,18.55,5,High,7.6,34,4,Bloating
+866,97,37,18.55,5,High,7.6,49,4,Cramps
+867,97,37,18.55,5,High,7.6,32,6,Bloating
+868,97,37,18.55,5,High,7.6,44,4,Mood Swings
+869,98,19,21.71,4,Moderate,5.7,47,7,Fatigue
+870,98,19,21.71,4,Moderate,5.7,26,5,Bloating
+871,98,19,21.71,4,Moderate,5.7,48,5,Bloating
+872,98,19,21.71,4,Moderate,5.7,31,3,Fatigue
+873,98,19,21.71,4,Moderate,5.7,34,5,Headache
+874,98,19,21.71,4,Moderate,5.7,29,7,Headache
+875,98,19,21.71,4,Moderate,5.7,50,3,Fatigue
+876,98,19,21.71,4,Moderate,5.7,49,7,Headache
+877,99,39,28.82,4,Moderate,6.4,40,6,Headache
+878,99,39,28.82,4,Moderate,6.4,45,7,Cramps
+879,99,39,28.82,4,Moderate,6.4,31,4,Mood Swings
+880,99,39,28.82,4,Moderate,6.4,28,4,Fatigue
+881,99,39,28.82,4,Moderate,6.4,43,4,Bloating
+882,99,39,28.82,4,Moderate,6.4,25,5,Fatigue
+883,99,39,28.82,4,Moderate,6.4,41,4,Cramps
+884,99,39,28.82,4,Moderate,6.4,45,4,Mood Swings
+885,99,39,28.82,4,Moderate,6.4,43,4,Bloating
+886,99,39,28.82,4,Moderate,6.4,26,5,Fatigue
+887,99,39,28.82,4,Moderate,6.4,50,7,Mood Swings
+888,100,22,21.41,5,Moderate,8.1,29,3,Mood Swings
+889,100,22,21.41,5,Moderate,8.1,35,4,Headache
+890,100,22,21.41,5,Moderate,8.1,35,5,Mood Swings
+891,100,22,21.41,5,Moderate,8.1,46,3,Bloating
+892,100,22,21.41,5,Moderate,8.1,49,5,Fatigue
+893,100,22,21.41,5,Moderate,8.1,42,4,Headache
+894,100,22,21.41,5,Moderate,8.1,40,6,Cramps

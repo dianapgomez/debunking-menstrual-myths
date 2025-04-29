@@ -1,19 +1,14 @@
 ,Diagnóstico principal (CIE10MC),Sexo,Motivo del alta,Total
-220,0205 Neoplasia maligna del útero C53-C55,Mujeres,total,10.225
-221,0205 Neoplasia maligna del útero C53-C55,Mujeres,curación o mejoría,9.167
-222,0205 Neoplasia maligna del útero C53-C55,Mujeres,traslado a otros centros,317
-223,0205 Neoplasia maligna del útero C53-C55,Mujeres,fallecimiento,569
-224,0205 Neoplasia maligna del útero C53-C55,Mujeres,otras causas,171
-235,0206 Neoplasia maligna del ovario C56,Mujeres,total,4.959
-236,0206 Neoplasia maligna del ovario C56,Mujeres,curación o mejoría,4.157
-237,0206 Neoplasia maligna del ovario C56,Mujeres,traslado a otros centros,205
-238,0206 Neoplasia maligna del ovario C56,Mujeres,fallecimiento,524
-239,0206 Neoplasia maligna del ovario C56,Mujeres,otras causas,73
 325,0212 Leiomioma uterino D25,Mujeres,total,19.987
 326,0212 Leiomioma uterino D25,Mujeres,curación o mejoría,19.552
 327,0212 Leiomioma uterino D25,Mujeres,traslado a otros centros,309
 328,0212 Leiomioma uterino D25,Mujeres,fallecimiento,8
 329,0212 Leiomioma uterino D25,Mujeres,otras causas,118
+400,"0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89",Mujeres,total,54.177
+401,"0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89",Mujeres,curación o mejoría,48.786
+402,"0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89",Mujeres,traslado a otros centros,2.793
+403,"0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89",Mujeres,fallecimiento,2.098
+404,"0400 ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS E00-E89",Mujeres,otras causas,501
 1675,1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77,Mujeres,total,7.647
 1676,1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77,Mujeres,curación o mejoría,7.349
 1677,1408 Enfermedad inflamatoria de los órganos pélvicos femeninos N70-N77,Mujeres,traslado a otros centros,160

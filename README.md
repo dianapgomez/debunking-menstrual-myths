@@ -1,11 +1,10 @@
 # Debunking menstrual myths:
 
 ## 🔗 Table of Contents
-- [](#energy--evolution-a-story-through-data)
-- [Key questions we explore](#-key-questions-we-explore)
-- [Insights](#-insights)
+- [Menstrual cycle](#-menstrual-cycle-from-mithology-to-modern-medicine)
+- [Key Insights](#-key-insights)
 - [Useful Links](#-useful-links)
-- [Next Steps](#-next-steps)
+- [Project Structure](#-project-structure)
 - [Contact](#contact)
 
 ## 🩸 Menstrual cycle: from mithology to modern medicine 
